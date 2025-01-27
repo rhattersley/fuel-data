@@ -31,7 +31,7 @@ def download_all():
             print(f"Downloading: {name}")
             retailers.append({"name": name, "data": json.loads(download(url))})
     print("Writing")
-    with open("data/all.json", "w") as f:
+    with open("all.json", "w") as f:
         json.dump({"retailers": retailers}, f, indent=2)
 
 
