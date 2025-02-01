@@ -59,13 +59,18 @@ def download_all():
 
 def run(args):
     print(" ".join(args))
-    subprocess.run(args, check=True)
+    process = subprocess.run(args, capture_output=True, check=True, text=True)
+    return process.stdout
 
 
 def publish():
-    run(["git", "add", OUTPUT_PATH])
-    run(["git", "commit", "-m", "Update data"])
-    run(["git", "push", "origin", "main"])
+    stdout = run(["git", "status", "--porcelain"])
+    if " M docs/all.json" in stdout.split("\n"):
+        run(["git", "add", OUTPUT_PATH])
+        run(["git", "commit", "-m", "Update data"])
+        run(["git", "push", "origin", "main"])
+    else:
+        print("No change")
 
 
 def update():
