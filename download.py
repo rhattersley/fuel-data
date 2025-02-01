@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import json
+import subprocess
 import time
 import urllib.request
 
@@ -56,5 +57,21 @@ def download_all():
         json.dump({"retailers": retailers}, f, indent=2)
 
 
-if __name__ == "__main__":
+def run(args):
+    print(" ".join(args))
+    subprocess.run(args, check=True)
+
+
+def publish():
+    run(["git", "add", OUTPUT_PATH])
+    run(["git", "commit", "-m", "Update data"])
+    run(["git", "push", "origin", "main"])
+
+
+def update():
     download_all()
+    publish()
+
+
+if __name__ == "__main__":
+    update()
