@@ -25,7 +25,7 @@ def download_all():
     retailers = []
     with urllib.request.urlopen(GOV_URL) as response:
         soup = bs4.BeautifulSoup(response, "html.parser")
-        table, = soup.css.select("#participating-retailers + table")
+        table, = soup.body.select("#participating-retailers + table")
         for row in table.tbody.find_all("tr"):
             name, url = [td.text for td in row.find_all("td")]
             print(f"Downloading: {name}")
