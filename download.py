@@ -1,11 +1,16 @@
 #!/usr/bin/python3
 import json
+import time
 import urllib.request
 
 import bs4
 
 
 GOV_URL = "https://www.gov.uk/guidance/access-fuel-price-data"
+
+
+class DownloadError(Exception):
+    pass
 
 
 def download(url):
@@ -17,8 +22,17 @@ def download(url):
         "Accept-Language": "en-GB,en;q=0.5",
         "Accept-Encoding": "identity",
     })
-    with urllib.request.urlopen(url) as response:
-        return response.read().decode("utf-8")
+    delay = 1
+    for _ in range(4):
+        try:
+            with urllib.request.urlopen(url) as response:
+                return response.read().decode("utf-8")
+        except (urllib.error.HTTPError, urllib.error.URLError):
+            pass
+        print("               ... retrying in {delay} s")
+        time.sleep(delay)
+        delay *= 2
+    raise DownloadError()
 
 
 def download_all():
@@ -29,7 +43,13 @@ def download_all():
         for row in table.tbody.find_all("tr"):
             name, url = [td.text for td in row.find_all("td")]
             print(f"Downloading: {name}")
-            retailers.append({"name": name, "data": json.loads(download(url))})
+            try:
+                raw = download(url)
+            except DownloadError:
+                print("               ... skipped.")
+            else:
+                data = json.loads(raw)
+                retailers.append({"name": name, "data": data})
     print("Writing")
     with open("all.json", "w") as f:
         json.dump({"retailers": retailers}, f, indent=2)
