@@ -31,7 +31,7 @@ def download(url):
                 return response.read().decode("utf-8")
         except (urllib.error.HTTPError, urllib.error.URLError):
             pass
-        print("               ... retrying in {delay} s")
+        print(f"               ... retrying in {delay} s")
         time.sleep(delay)
         delay *= 2
     raise DownloadError()
