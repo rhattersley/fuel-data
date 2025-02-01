@@ -7,6 +7,7 @@ import bs4
 
 
 GOV_URL = "https://www.gov.uk/guidance/access-fuel-price-data"
+OUTPUT_PATH = "docs/all.json"
 
 
 class DownloadError(Exception):
@@ -51,7 +52,7 @@ def download_all():
                 data = json.loads(raw)
                 retailers.append({"name": name, "data": data})
     print("Writing")
-    with open("pages/all.json", "w") as f:
+    with open(OUTPUT_PATH, "w") as f:
         json.dump({"retailers": retailers}, f, indent=2)
 
 
