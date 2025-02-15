@@ -3,7 +3,7 @@
     {
       "name": "Applegreen UK",
       "data": {
-        "last_updated": "14/02/2025 11:45:38",
+        "last_updated": "15/02/2025 11:51:11",
         "stations": [
           {
             "site_id": "u1243hdmundq",
@@ -81,20 +81,6 @@
             }
           },
           {
-            "site_id": "gcx8c14hzz35",
-            "brand": "AppleGreen",
-            "address": "Ashby Road, Scunthorpe",
-            "postcode": "DN16 2AQ",
-            "location": {
-              "latitude": 53.575684,
-              "longitude": -0.656099
-            },
-            "prices": {
-              "E5": 150.8,
-              "E10": 136.8
-            }
-          },
-          {
             "site_id": "gcntr7z839js",
             "brand": "AppleGreen",
             "address": "Great Western Way, Swindon",
@@ -119,9 +105,7 @@
               "longitude": -3.048228
             },
             "prices": {
-              "B7": 144.8,
-              "E5": 152.8,
-              "E10": 137.8
+              "B7": 144.8
             }
           },
           {
@@ -169,6 +153,21 @@
             }
           },
           {
+            "site_id": "gcq4bhpx5gp9",
+            "brand": "AppleGreen",
+            "address": "Crossways, Church Stretton",
+            "postcode": "SY6 6PQ",
+            "location": {
+              "latitude": 52.537839,
+              "longitude": -2.802029
+            },
+            "prices": {
+              "B7": 148.8,
+              "E5": 158.8,
+              "E10": 143.8
+            }
+          },
+          {
             "site_id": "gcppm8z8rhrf",
             "brand": "AppleGreen",
             "address": "Banbury Road, Bicester",
@@ -178,7 +177,6 @@
               "longitude": -1.15394
             },
             "prices": {
-              "E10": 134.8,
               "B7": 140.8
             }
           },
@@ -298,21 +296,6 @@
             }
           },
           {
-            "site_id": "gcq4bhpx5gp9",
-            "brand": "AppleGreen",
-            "address": "Crossways, Church Stretton",
-            "postcode": "SY6 6PQ",
-            "location": {
-              "latitude": 52.537839,
-              "longitude": -2.802029
-            },
-            "prices": {
-              "B7": 148.8,
-              "E5": 158.8,
-              "E10": 143.8
-            }
-          },
-          {
             "site_id": "gcq044g47vhh",
             "brand": "AppleGreen",
             "address": "Ross Road, Hereford",
@@ -396,7 +379,6 @@
               "longitude": -2.590714
             },
             "prices": {
-              "B7": 142.8,
               "E5": 150.8,
               "E10": 135.8
             }
@@ -456,22 +438,7 @@
               "longitude": -3.376064
             },
             "prices": {
-              "B7": 144.8,
-              "E10": 137.8
-            }
-          },
-          {
-            "site_id": "gbuw6gheezxg",
-            "brand": "AppleGreen",
-            "address": "1 Pennewick Road, St Austell",
-            "postcode": "PL25 5DP",
-            "location": {
-              "latitude": 50.334504,
-              "longitude": -4.794674
-            },
-            "prices": {
-              "B7": 143.8,
-              "E10": 138.8
+              "B7": 144.8
             }
           },
           {
@@ -629,7 +596,6 @@
               "longitude": -3.920273
             },
             "prices": {
-              "B7": 142.8,
               "E5": 151.8,
               "E10": 136.8
             }
@@ -780,21 +746,6 @@
               "B7": 142.8,
               "E5": 152.8,
               "E10": 137.8
-            }
-          },
-          {
-            "site_id": "gcqzx5pye8kt",
-            "brand": "AppleGreen",
-            "address": "580 City road, Sheffield",
-            "postcode": "S2 1GE",
-            "location": {
-              "latitude": 53.367207,
-              "longitude": -1.439396
-            },
-            "prices": {
-              "B7": 143.8,
-              "E5": 150.8,
-              "E10": 135.8
             }
           },
           {
@@ -952,7 +903,6 @@
               "longitude": -1.998259
             },
             "prices": {
-              "B7": 142.8,
               "E5": 151.8,
               "E10": 136.8
             }
@@ -1120,21 +1070,6 @@
             }
           },
           {
-            "site_id": "gcx4ygdmet71",
-            "brand": "AppleGreen",
-            "address": "20 \u2013 22 Tadcaster Road, York",
-            "postcode": "YO24 1LQ",
-            "location": {
-              "latitude": 53.941097,
-              "longitude": -1.106375
-            },
-            "prices": {
-              "B7": 141.8,
-              "E5": 150.8,
-              "E10": 135.8
-            }
-          },
-          {
             "site_id": "gcv9e9srh757",
             "brand": "AppleGreen",
             "address": "1 Carlisle Road, Scotland",
@@ -1159,9 +1094,7 @@
             },
             "prices": {
               "B7": 146.8,
-              "SDV": 161.8,
-              "E5": 153.8,
-              "E10": 139.8
+              "SDV": 161.8
             }
           },
           {
@@ -1400,20 +1333,6 @@
             }
           },
           {
-            "site_id": "gcw2tgwmbhqd",
-            "brand": "AppleGreen",
-            "address": "Manchester new rd, Manchester",
-            "postcode": "M24 1DE",
-            "location": {
-              "latitude": 53.545627,
-              "longitude": -2.19966
-            },
-            "prices": {
-              "B7": 141.8,
-              "SDV": 165.8
-            }
-          },
-          {
             "site_id": "u10rhhpqsf4q",
             "brand": "AppleGreen",
             "address": "142 Rayne Road, Essex",
@@ -1449,7 +1368,7 @@
     {
       "name": "Ascona Group",
       "data": {
-        "last_updated": "14/02/2025 11:50:16",
+        "last_updated": "15/02/2025 11:50:16",
         "stations": [
           {
             "site_id": "gcqfydrhb9q5",
@@ -1462,7 +1381,7 @@
             },
             "prices": {
               "E10": 139.9,
-              "B7": 148.9
+              "B7": 147.9
             }
           },
           {
@@ -1503,8 +1422,8 @@
               "longitude": -2.795245
             },
             "prices": {
-              "E10": 142.9,
-              "B7": 146.9
+              "E10": 141.9,
+              "B7": 145.9
             }
           },
           {
@@ -1741,8 +1660,8 @@
               "longitude": -1.7911788
             },
             "prices": {
-              "E10": 141.9,
-              "B7": 147.9
+              "E10": 139.9,
+              "B7": 145.9
             }
           },
           {
@@ -1825,8 +1744,8 @@
               "longitude": -1.364412
             },
             "prices": {
-              "E10": 137.9,
-              "B7": 143.9
+              "E10": 135.9,
+              "B7": 141.9
             }
           },
           {
@@ -2189,7 +2108,7 @@
               "longitude": -2.7953168
             },
             "prices": {
-              "E10": 138.9,
+              "E10": 136.9,
               "B7": 144.9
             }
           },
@@ -2255,7 +2174,7 @@
     {
       "name": "Asda",
       "data": {
-        "last_updated": "14/02/2025 09:34:51",
+        "last_updated": "15/02/2025 11:00:00",
         "stations": [
           {
             "site_id": "gcqfn1wd5k4j",
@@ -14062,7 +13981,7 @@
     {
       "name": "bp",
       "data": {
-        "last_updated": "14/02/2025 11:00:05",
+        "last_updated": "15/02/2025 11:00:05",
         "stations": [
           {
             "site_id": "gbux3kms73vy",
@@ -14922,8 +14841,8 @@
               "longitude": -0.124763
             },
             "prices": {
-              "E5": 161.9,
-              "E10": 142.9,
+              "E5": 162.9,
+              "E10": 143.9,
               "B7": 149.9,
               "SDV": 168.9
             }
@@ -15994,10 +15913,10 @@
               "longitude": -0.16159
             },
             "prices": {
-              "E5": 162.9,
-              "E10": 143.9,
-              "B7": 151.9,
-              "SDV": 169.9
+              "E5": 163.9,
+              "E10": 144.9,
+              "B7": 152.9,
+              "SDV": 170.9
             }
           },
           {
@@ -16140,8 +16059,8 @@
             "prices": {
               "E5": 158.9,
               "E10": 139.9,
-              "B7": 146.9,
-              "SDV": 164.9
+              "B7": 147.9,
+              "SDV": 165.9
             }
           },
           {
@@ -17244,8 +17163,8 @@
             "prices": {
               "E5": 163.9,
               "E10": 144.9,
-              "B7": 147.9,
-              "SDV": 163.9
+              "B7": 148.9,
+              "SDV": 166.9
             }
           },
           {
@@ -17673,10 +17592,10 @@
               "longitude": -1.84098
             },
             "prices": {
-              "E5": 157.9,
-              "E10": 138.9,
-              "B7": 147.9,
-              "SDV": 165.9
+              "E5": 158.9,
+              "E10": 139.9,
+              "B7": 148.9,
+              "SDV": 166.9
             }
           },
           {
@@ -18315,8 +18234,8 @@
             "prices": {
               "E5": 160.9,
               "E10": 141.9,
-              "B7": 146.9,
-              "SDV": 164.9
+              "B7": 147.9,
+              "SDV": 165.9
             }
           },
           {
@@ -18489,8 +18408,8 @@
               "longitude": 0.45241
             },
             "prices": {
-              "E5": 157.9,
-              "E10": 138.9,
+              "E5": 158.9,
+              "E10": 139.9,
               "B7": 145.9,
               "SDV": 163.9
             }
@@ -18811,8 +18730,8 @@
             "prices": {
               "E5": 158.9,
               "E10": 139.9,
-              "B7": 147.9,
-              "SDV": 165.9
+              "B7": 149.9,
+              "SDV": 167.9
             }
           },
           {
@@ -18873,10 +18792,10 @@
               "longitude": 0.24201
             },
             "prices": {
-              "E5": 163.9,
-              "E10": 144.9,
-              "B7": 151.9,
-              "SDV": 169.9
+              "E5": 164.9,
+              "E10": 145.9,
+              "B7": 149.9,
+              "SDV": 167.9
             }
           },
           {
@@ -18891,8 +18810,8 @@
             "prices": {
               "E5": 163.9,
               "E10": 144.9,
-              "B7": 151.9,
-              "SDV": 169.9
+              "B7": 149.9,
+              "SDV": 167.9
             }
           },
           {
@@ -22093,7 +22012,7 @@
     {
       "name": "JET Retail UK",
       "data": {
-        "last_updated": "14/02/2025 11:45:32",
+        "last_updated": "15/02/2025 11:45:32",
         "stations": [
           {
             "site_id": "gcxc46cnjv5k",
@@ -22936,7 +22855,7 @@
     {
       "name": "Morrisons",
       "data": {
-        "last_updated": "14/02/2025 11:30:11",
+        "last_updated": "15/02/2025 11:30:13",
         "stations": [
           {
             "site_id": "gcpvxdc3p8p9",
@@ -23002,7 +22921,7 @@
     {
       "name": "Moto",
       "data": {
-        "last_updated": "15/02/2025 05:58:00",
+        "last_updated": "15/02/2025 13:58:01",
         "stations": [
           {
             "site_id": "gcw2trbpdxqk",
@@ -43509,8 +43428,8 @@
               "latitude": 51.46795
             },
             "prices": {
-              "E5": 155.9,
-              "E10": 140.9,
+              "E5": 156.9,
+              "E10": 141.9,
               "B7": 149.9
             },
             "site_id": "u10hb96qxc78",
@@ -44142,9 +44061,9 @@
             },
             "prices": {
               "E5": 151.9,
-              "SDV": 156.9,
+              "SDV": 157.9,
               "E10": 137.9,
-              "B7": 142.9
+              "B7": 143.9
             },
             "site_id": "gcrg5pqx86rp",
             "postcode": "PE1 4BF",
@@ -44421,9 +44340,9 @@
               "latitude": 52.06652
             },
             "prices": {
-              "SDV": 161.9,
-              "E10": 141.9,
-              "B7": 147.9
+              "SDV": 160.9,
+              "E10": 139.9,
+              "B7": 146.9
             },
             "site_id": "u1201nrm2yu9",
             "postcode": "SG8 7PN",
@@ -44527,7 +44446,7 @@
               "latitude": 53.23076
             },
             "prices": {
-              "E10": 140.9,
+              "E10": 141.9,
               "B7": 146.9
             },
             "site_id": "gcqyydk7euzg",
@@ -44572,8 +44491,8 @@
               "latitude": 51.75758
             },
             "prices": {
-              "E5": 150.9,
-              "E10": 136.9,
+              "E5": 151.9,
+              "E10": 137.9,
               "B7": 144.9
             },
             "site_id": "gchqqq4my80q",
@@ -44665,9 +44584,9 @@
             },
             "prices": {
               "E5": 157.9,
-              "SDV": 162.9,
+              "SDV": 163.9,
               "E10": 143.9,
-              "B7": 148.9
+              "B7": 149.9
             },
             "site_id": "u10pk3j3524q",
             "postcode": "CM24 8BX",
@@ -44743,9 +44662,9 @@
               "latitude": 52.33845
             },
             "prices": {
-              "SDV": 164.9,
+              "SDV": 166.9,
               "E10": 143.9,
-              "B7": 149.9
+              "B7": 151.9
             },
             "site_id": "u123sput84hz",
             "postcode": "IP28 6AE",
@@ -45102,9 +45021,9 @@
               "latitude": 50.46926
             },
             "prices": {
-              "E5": 151.9,
-              "E10": 137.9,
-              "B7": 147.9
+              "E5": 152.9,
+              "E10": 138.9,
+              "B7": 148.9
             },
             "site_id": "gbvrp7ekexbq",
             "postcode": "TQ2 5LG",
@@ -45400,10 +45319,10 @@
               "latitude": 51.58769
             },
             "prices": {
-              "E5": 154.9,
-              "SDV": 161.9,
-              "E10": 139.9,
-              "B7": 146.9
+              "E5": 159.9,
+              "SDV": 167.9,
+              "E10": 144.9,
+              "B7": 152.9
             },
             "site_id": "gcjvrrm80f6v",
             "postcode": "NP26 3YL",
@@ -45861,9 +45780,9 @@
               "latitude": 51.56834
             },
             "prices": {
-              "E5": 152.9,
+              "E5": 153.9,
               "SDV": 157.9,
-              "E10": 138.9,
+              "E10": 139.9,
               "B7": 143.9
             },
             "site_id": "gcjtmgxr2e34",
@@ -45985,9 +45904,9 @@
             },
             "prices": {
               "E5": 152.9,
-              "SDV": 158.9,
+              "SDV": 159.9,
               "E10": 138.9,
-              "B7": 144.9
+              "B7": 145.9
             },
             "site_id": "gcqe06kjwshy",
             "postcode": "WV14 6RN",
@@ -46844,9 +46763,9 @@
               "latitude": 50.83942
             },
             "prices": {
-              "E5": 151.9,
-              "E10": 137.9,
-              "B7": 145.9
+              "E5": 153.9,
+              "E10": 139.9,
+              "B7": 147.9
             },
             "site_id": "gcp1pxjcjfv1",
             "postcode": "PO6 2SJ",
@@ -46964,7 +46883,7 @@
             "brand": "Esso"
           }
         ],
-        "last_updated": "14/02/2025 10:55:01"
+        "last_updated": "15/02/2025 10:55:34"
       }
     },
     {
@@ -51701,9 +51620,1667 @@
       }
     },
     {
+      "name": "SGN",
+      "data": {
+        "last_updated": "15/02/2025 10:41:56",
+        "stations": [
+          {
+            "site_id": "gcnnjmn122t0",
+            "brand": "BP",
+            "address": "Main Road, Lydney, Gloucestershire",
+            "postcode": "GL15 6BE",
+            "location": {
+              "latitude": 51.7073707,
+              "longitude": -2.5735297
+            },
+            "prices": {
+              "E5": 163.9,
+              "E10": 142.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gfn1u9t7me1b",
+            "brand": "Shell",
+            "address": "Cairnie Road, Arbroath",
+            "postcode": "DD11 3DZ",
+            "location": {
+              "latitude": 56.566431,
+              "longitude": -2.6072977
+            },
+            "prices": {
+              "E10": 135.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcwf03qw361e",
+            "brand": "Texaco",
+            "address": "262 Barkerend Road, Bradford, West Yorkshire",
+            "postcode": "BD3 9BD",
+            "location": {
+              "latitude": 53.7970131,
+              "longitude": -1.737844
+            },
+            "prices": {
+              "E5": 156.9,
+              "E10": 135.9,
+              "B7": 142.9,
+              "SDV": 162.9
+            }
+          },
+          {
+            "site_id": "u10dgmw07mwr",
+            "brand": "BP",
+            "address": "Brookfield Road, Ashford, Kent",
+            "postcode": "TN23 4ES",
+            "location": {
+              "latitude": 51.1386845,
+              "longitude": 0.8543349
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 149.9
+            }
+          },
+          {
+            "site_id": "gcycfyjm962u",
+            "brand": "Jet",
+            "address": "Morpeth Road, Ashington, Northumberland",
+            "postcode": "NE63 8QG",
+            "location": {
+              "latitude": 55.1852831,
+              "longitude": -1.6296983
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 148.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gcpvsquew6bt",
+            "brand": "BP",
+            "address": "45 Russell Lane, Whetstone, London",
+            "postcode": "N20 0BB",
+            "location": {
+              "latitude": 51.6294922,
+              "longitude": -0.1583459
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 148.9
+            }
+          },
+          {
+            "site_id": "gcn8u6dpx3vc",
+            "brand": "Texaco",
+            "address": "1154-1158 Ringwood Road, Bear Cross, Bournemouth",
+            "postcode": "BH11 9LG",
+            "location": {
+              "latitude": 50.771866,
+              "longitude": -1.9195418
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcqdhq8m89xz",
+            "brand": "Texaco",
+            "address": "1704 Pershore Road, Kings Norton, Birmingham",
+            "postcode": "B30 3BH",
+            "location": {
+              "latitude": 52.4194715,
+              "longitude": -1.922232
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "u101fn9rbmeu",
+            "brand": "Texaco",
+            "address": "Bell Farm Road, Uckfield, East Sussex",
+            "postcode": "TN22 1BA",
+            "location": {
+              "latitude": 50.9696834,
+              "longitude": 0.089623
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcq3gqgmf5ww",
+            "brand": "Texaco",
+            "address": "21 Kidderminster Road, Bewdley Bridge, Worcestershire",
+            "postcode": "DY12 1AQ",
+            "location": {
+              "latitude": 52.3769529,
+              "longitude": -2.3135574
+            },
+            "prices": {
+              "E5": 163.9,
+              "E10": 142.9,
+              "B7": 148.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gcp10enuru50",
+            "brand": "Esso",
+            "address": "150 Hampton Lane, Blackfield, Southampton",
+            "postcode": "SO45 1WE",
+            "location": {
+              "latitude": 50.8180118,
+              "longitude": -1.374671
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcq3n1fp02qq",
+            "brand": "Texaco",
+            "address": "Blackpole Road, Worcester, Worcestershire",
+            "postcode": "WR3 8SE",
+            "location": {
+              "latitude": 52.2178483,
+              "longitude": -2.1944997
+            },
+            "prices": {
+              "E5": 157.9,
+              "E10": 136.9,
+              "B7": 142.9,
+              "SDV": 162.9
+            }
+          },
+          {
+            "site_id": "u104s0yrdp7z",
+            "brand": "Texaco",
+            "address": "Eridge Road, Crowborough, East Sussex",
+            "postcode": "TN6 3HD",
+            "location": {
+              "latitude": 51.0699006,
+              "longitude": 0.1844555
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcrrwrfc1jjp",
+            "brand": "Jet",
+            "address": "Bridge Road, Gainsborough, Lincolnshire",
+            "postcode": "DN21 1JU",
+            "location": {
+              "latitude": 53.3923811,
+              "longitude": -0.776203
+            },
+            "prices": {
+              "E5": 156.9,
+              "E10": 135.9,
+              "B7": 142.9,
+              "SDV": 162.9
+            }
+          },
+          {
+            "site_id": "gcx8sse7es9z",
+            "brand": "Jet",
+            "address": "Bridge Street, Brigg, Lincolnshire",
+            "postcode": "DN20 8LY",
+            "location": {
+              "latitude": 53.5507361,
+              "longitude": -0.5007553
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcpujspq0urz",
+            "brand": "Shell",
+            "address": "306-320 Brighton Road, South Croydon, Surrey",
+            "postcode": "CR2 6AJ",
+            "location": {
+              "latitude": 51.3511516,
+              "longitude": -0.0998641
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcwvpmg7vj38",
+            "brand": "Texaco",
+            "address": "Brompton Road, Northallerton, North Yorkshire",
+            "postcode": "DL6 2PX",
+            "location": {
+              "latitude": 54.348664,
+              "longitude": -1.434529
+            },
+            "prices": {
+              "E10": 138.9,
+              "B7": 145.9
+            }
+          },
+          {
+            "site_id": "gcq9c0r8n0v8",
+            "brand": "BP",
+            "address": "88 Birmimgham Road, Bromsgrove, Worcestershire",
+            "postcode": "B61 0DF",
+            "location": {
+              "latitude": 52.3402446,
+              "longitude": -2.054865
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcvj76rn3tks",
+            "brand": "BP",
+            "address": "91 Burnbank Road, Hamilton, Lanarkshire",
+            "postcode": "ML3 9AN",
+            "location": {
+              "latitude": 55.780063,
+              "longitude": -4.066244
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcpk8he37bef",
+            "brand": "BP",
+            "address": "Bath Road, Calcot, Reading",
+            "postcode": "RG31 7QN",
+            "location": {
+              "latitude": 51.4409525,
+              "longitude": -1.0500581
+            },
+            "prices": {
+              "E5": 155.9,
+              "E10": 134.9,
+              "B7": 141.9,
+              "SDV": 161.9
+            }
+          },
+          {
+            "site_id": "gcvjmm11959f",
+            "brand": "BP",
+            "address": "215 Merry Street, Motherwell, Lanarkshire",
+            "postcode": "ML1 1LN",
+            "location": {
+              "latitude": 55.7943441,
+              "longitude": -3.9866184
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcrjr4m8k890",
+            "brand": "Texaco",
+            "address": "Carlton Hill, Carlton, Nottinghamshire",
+            "postcode": "NG4 1BG",
+            "location": {
+              "latitude": 52.9665068,
+              "longitude": -1.0908851
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcq2vqh1g7gf",
+            "brand": "Texaco",
+            "address": " Castle Street, Worcester, Worcestershire",
+            "postcode": "WR1 3AD",
+            "location": {
+              "latitude": 52.1963658,
+              "longitude": -2.2245869
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcmwd7jn32xz",
+            "brand": "Texaco",
+            "address": "Rhyl Road, Denbigh, Conwy",
+            "postcode": "LL16 5SU",
+            "location": {
+              "latitude": 53.1913844,
+              "longitude": -3.4098175
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcx0917xynv5",
+            "brand": "Texaco",
+            "address": "Doncaster Road, Darfield, Barnsley",
+            "postcode": "S73 9JG",
+            "location": {
+              "latitude": 53.5336243,
+              "longitude": -1.3572337
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9
+            }
+          },
+          {
+            "site_id": "gcpkgdtvfg1m",
+            "brand": "Texaco",
+            "address": "New Bath Road, Charvil,  Reading, Berkshire",
+            "postcode": "RG10 9RL",
+            "location": {
+              "latitude": 51.4746979,
+              "longitude": -0.8928627
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcqd5kdjmyyn",
+            "brand": "Texaco",
+            "address": "Station Road, Church Hill, Birmingham",
+            "postcode": "B31 3UB",
+            "location": {
+              "latitude": 52.4084703,
+              "longitude": -1.9635512
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcpvuefzsgq7",
+            "brand": "Texaco",
+            "address": "347 Cockfosters Road, Barnet, London",
+            "postcode": "EN4 0JY",
+            "location": {
+              "latitude": 51.657647,
+              "longitude": -0.1498198
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcjjy5s77t2z",
+            "brand": "Texaco",
+            "address": "Llangyfelach Road, Treboath, Swansea",
+            "postcode": "SA5 9AX",
+            "location": {
+              "latitude": 51.6555556,
+              "longitude": -3.9490903
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 146.9
+            }
+          },
+          {
+            "site_id": "gcvj1rr6detv",
+            "brand": "Coop",
+            "address": "Blacklaw Drive, East Kilbride, South Lanarkshire ",
+            "postcode": "G74 2AG",
+            "location": {
+              "latitude": 55.7629305,
+              "longitude": -4.1537467
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcrjr73rugv8",
+            "brand": "Texaco",
+            "address": "Westdale Lane, Carlton, Nottingham, Nottinghamshire",
+            "postcode": "NG4 3NA",
+            "location": {
+              "latitude": 52.973305,
+              "longitude": -1.0857184
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcpse6ugrhb5",
+            "brand": "Texaco",
+            "address": "186-187  High Street, Egham, Surrey",
+            "postcode": "TW20 9ED",
+            "location": {
+              "latitude": 51.4317058,
+              "longitude": -0.5534789
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "u103kxbuveug",
+            "brand": "Texaco",
+            "address": "Sedlescombe Road North, Hastings, East Sussex",
+            "postcode": "TN37 7PB",
+            "location": {
+              "latitude": 50.8881347,
+              "longitude": 0.5505891
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcqe2061wp42",
+            "brand": "Texaco",
+            "address": "Cannock Road, Wolverhampton, West Midlands",
+            "postcode": "WV10 0RW",
+            "location": {
+              "latitude": 52.6042075,
+              "longitude": -2.1063678
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcybevdu4sgn",
+            "brand": "JET",
+            "address": "Park Road, Felling, Gateshead, Tyne &amp; Wear",
+            "postcode": "NE8 3HL",
+            "location": {
+              "latitude": 54.9625663,
+              "longitude": -1.5891294
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcpvmem8swp9",
+            "brand": "Texaco",
+            "address": "314-322 Seven Sisters Road, Finsbury Park,  Greater London",
+            "postcode": "N4 2AP",
+            "location": {
+              "latitude": 51.5658226,
+              "longitude": -0.1021068
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcnhyqkqg5p8",
+            "brand": "BP",
+            "address": "Frenchay Park Road, Bristol",
+            "postcode": "BS16 1LF",
+            "location": {
+              "latitude": 51.4954681,
+              "longitude": -2.5318664
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "u10yuhvh13zv",
+            "brand": "Texaco",
+            "address": "Frinton Road, Frinton-on-Sea, Essex",
+            "postcode": "CO13 0PA",
+            "location": {
+              "latitude": 51.838313,
+              "longitude": 1.2373993
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "u10rj4xepfms",
+            "brand": "Texaco",
+            "address": "Braintree Bypass, Braintree, Essex ",
+            "postcode": "CM77 8GG",
+            "location": {
+              "latitude": 51.8697294,
+              "longitude": 0.5819289
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9
+            }
+          },
+          {
+            "site_id": "gcybs7sd9f88",
+            "brand": "JET",
+            "address": "Sunderland Road , Gateshead, Tyne &amp; Wear",
+            "postcode": "NE10 0NR",
+            "location": {
+              "latitude": 54.9513093,
+              "longitude": -1.5647891
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcpv03h2np86",
+            "brand": "Shell",
+            "address": "6 Church Road, Hanwell, Middlesex",
+            "postcode": "W7 1DH",
+            "location": {
+              "latitude": 51.5094401,
+              "longitude": -0.3344818
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "u1037cnqjyj9",
+            "brand": "JET",
+            "address": "286 Bexhill Road, St Leonards on Sea, Hastings",
+            "postcode": "TN38 8BH",
+            "location": {
+              "latitude": 50.8512822,
+              "longitude": 0.5251948
+            },
+            "prices": {
+              "E10": 135.9,
+              "B7": 141.9,
+              "SDV": 161.9
+            }
+          },
+          {
+            "site_id": "gcrcw5ge6fqj",
+            "brand": "Texaco",
+            "address": "London Road, St Ives, Cambridgeshire",
+            "postcode": "PE27 5EU",
+            "location": {
+              "latitude": 52.3160922,
+              "longitude": -0.082958
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcwbqjx2vw16",
+            "brand": "Texaco",
+            "address": "Sheffield Rd, Barnsley, South Yorkshire",
+            "postcode": "S70 5XB",
+            "location": {
+              "latitude": 53.511819,
+              "longitude": -1.4839464
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcnm0pygr2pk",
+            "brand": "Texaco",
+            "address": "Iron Acton By Pass, Bristol, Avon",
+            "postcode": "BS37 9XY",
+            "location": {
+              "latitude": 51.5470369,
+              "longitude": -2.4513466
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcqdskhchnqz",
+            "brand": "JET",
+            "address": " Icknield Street, Birmingham",
+            "postcode": "B18 5AU",
+            "location": {
+              "latitude": 52.4928822,
+              "longitude": -1.9159035
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "u10hfhuhy73q",
+            "brand": "Texaco",
+            "address": "190-214 Plumstead High Street, London, Greater London",
+            "postcode": "SE18 1JH",
+            "location": {
+              "latitude": 51.4868873,
+              "longitude": 0.093654
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcq20cbt10q1",
+            "brand": "Texaco",
+            "address": "The Homend, Ledbury, Herefordshire",
+            "postcode": "HR8 1BS",
+            "location": {
+              "latitude": 52.0417229,
+              "longitude": -2.4272409
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcjjzsb7n948",
+            "brand": "Texaco",
+            "address": "117-129 Peniel Green Road, Llansamlet, Swansea",
+            "postcode": "SA7 9BA",
+            "location": {
+              "latitude": 51.6623552,
+              "longitude": -3.8885344
+            },
+            "prices": {
+              "E5": 157.9,
+              "E10": 136.9,
+              "B7": 142.9,
+              "SDV": 162.9
+            }
+          },
+          {
+            "site_id": "gcn8e1dyd0vc",
+            "brand": "BP",
+            "address": "Longfleet Road, Poole, Dorset",
+            "postcode": "BH15 2HP",
+            "location": {
+              "latitude": 50.7222504,
+              "longitude": -1.9736688
+            },
+            "prices": {
+              "E5": 163.9,
+              "E10": 142.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gbuy6x34b09s",
+            "brand": "Texaco",
+            "address": "Station Road, Looe, Cornwall",
+            "postcode": "PL13 1HN",
+            "location": {
+              "latitude": 50.3576838,
+              "longitude": -4.4590736
+            },
+            "prices": {
+              "E5": 164.9,
+              "E10": 143.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcnt2ruyru41",
+            "brand": "Texaco",
+            "address": "Crudwell Road, Malmesbury, Wiltshire",
+            "postcode": "SN16 9JL",
+            "location": {
+              "latitude": 51.5915182,
+              "longitude": -2.0915302
+            },
+            "prices": {
+              "E5": 164.9,
+              "E10": 143.9,
+              "B7": 152.9,
+              "SDV": 172.9
+            }
+          },
+          {
+            "site_id": "gcq2e3uhc7q5",
+            "brand": "Texaco",
+            "address": "214-216 Worcester Road, Malvern, Worcestershire",
+            "postcode": "WR14 1AG",
+            "location": {
+              "latitude": 52.129587,
+              "longitude": -2.3125603
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcxn3sbhpn07",
+            "brand": "Jet",
+            "address": "Mandale Road, Stockton-on-Tees, County Durham",
+            "postcode": "TS17 6AF",
+            "location": {
+              "latitude": 54.5629447,
+              "longitude": -1.340031
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "u10mksr6ve6y",
+            "brand": "Texaco",
+            "address": "164 Church Road, Benfleet, Essex",
+            "postcode": "SS7 4EN",
+            "location": {
+              "latitude": 51.5716881,
+              "longitude": 0.5595127
+            },
+            "prices": {
+              "E5": 164.9,
+              "E10": 143.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcxq92hvk903",
+            "brand": "Coop",
+            "address": "Ox Close, Marske Road, Saltburn by the Sea, Cleveland",
+            "postcode": "TS12 1NR",
+            "location": {
+              "latitude": 54.580985,
+              "longitude": -0.993039
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 146.9
+            }
+          },
+          {
+            "site_id": "gcqdjk4eek17",
+            "brand": "Texaco",
+            "address": "171-173 Maypole Lane, Birmingham",
+            "postcode": "B14 4PJ",
+            "location": {
+              "latitude": 52.405408,
+              "longitude": -1.8750876
+            },
+            "prices": {
+              "E5": 154.9,
+              "E10": 133.9,
+              "B7": 141.9,
+              "SDV": 161.9
+            }
+          },
+          {
+            "site_id": "gbuwf4cqf710",
+            "brand": "BP",
+            "address": "Victoria Square, Victoria, Roche, St Austell, Cornwall",
+            "postcode": "PL26 8LQ",
+            "location": {
+              "latitude": 50.4215546,
+              "longitude": -4.8321698
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcpsnzr3h5y8",
+            "brand": "Texaco",
+            "address": "3-5 Esher Road, Hersham , Surrey",
+            "postcode": "KT12 4JZ",
+            "location": {
+              "latitude": 51.3681423,
+              "longitude": -0.3963573
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 148.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gfn4xemb6jjt",
+            "brand": "Shell",
+            "address": "South Esk Filling Station, Bridge Street, Montrose",
+            "postcode": "DD10 8AJ",
+            "location": {
+              "latitude": 56.7073766,
+              "longitude": -2.4749203
+            },
+            "prices": {
+              "E5": 156.9,
+              "E10": 135.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcqu2qy44c3h",
+            "brand": "Shell",
+            "address": "Newborough Road, Needwood Street, Burton on Trent, Leicester",
+            "postcode": "DE13 9PD",
+            "location": {
+              "latitude": 52.8157499,
+              "longitude": -1.7384668
+            },
+            "prices": {
+              "E5": 164.9,
+              "E10": 143.9,
+              "B7": 151.9,
+              "SDV": 171.9
+            }
+          },
+          {
+            "site_id": "gcqzy7t8rp7z",
+            "brand": "Texaco",
+            "address": "Herries Road, Sheffield, South Yorkshire",
+            "postcode": "S5 8TP",
+            "location": {
+              "latitude": 53.4128639,
+              "longitude": -1.4752955
+            },
+            "prices": {
+              "E5": 165.9,
+              "E10": 144.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "u10ydjudw450",
+            "brand": "Texaco",
+            "address": "Old Road, Clacton On Sea, Essex",
+            "postcode": "CO15 3LX",
+            "location": {
+              "latitude": 51.7996038,
+              "longitude": 1.1490197
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcw2pn2mh7jw",
+            "brand": "Essar",
+            "address": "1555-1571 Ashton Old Road, Openshaw, Manchester",
+            "postcode": "M11 1GR",
+            "location": {
+              "latitude": 53.4727078,
+              "longitude": -2.152787
+            },
+            "prices": {
+              "E10": 134.9,
+              "B7": 141.9
+            }
+          },
+          {
+            "site_id": "u107s8mwk8c0",
+            "brand": "Texaco",
+            "address": "Sutton Road, Maidstone, Kent",
+            "postcode": "ME15 8RB",
+            "location": {
+              "latitude": 51.2426846,
+              "longitude": 0.5570643
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcjdp39t0nnj",
+            "brand": "Texaco",
+            "address": "A38, Chelston, Wellington",
+            "postcode": "TA21 9HY",
+            "location": {
+              "latitude": 50.9856936,
+              "longitude": -3.1949534
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcuexpfeux3u",
+            "brand": "BP",
+            "address": "Monkton Road, Prestwick, Ayrshire",
+            "postcode": "KA9 1AS",
+            "location": {
+              "latitude": 55.5022398,
+              "longitude": -4.6106288
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcnjdqmneqs3",
+            "brand": "Texaco",
+            "address": "Rakestrow, Chepstow, Gwent",
+            "postcode": "NP16 6LF",
+            "location": {
+              "latitude": 51.6272801,
+              "longitude": -2.7066111
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcnqu5qw2bmy",
+            "brand": "Shell",
+            "address": "121 Bristol Road, Quedgeley, Gloucestershire",
+            "postcode": "GL2 4ND",
+            "location": {
+              "latitude": 51.8304515,
+              "longitude": -2.2761897
+            },
+            "prices": {
+              "E5": 157.9,
+              "E10": 136.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gbvqyyd3mmrd",
+            "brand": "Texaco",
+            "address": "147 Torquay Road, Paignton, Devon",
+            "postcode": "TQ3 2AG",
+            "location": {
+              "latitude": 50.4412222,
+              "longitude": -3.5672312
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 148.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gcreschzcrhz",
+            "brand": "Shell",
+            "address": "30 Scotgate, Stamford, Lincolnshire",
+            "postcode": "PE9 2YQ",
+            "location": {
+              "latitude": 52.6533467,
+              "longitude": -0.4878015
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "u10j7zryu81v",
+            "brand": "Texaco",
+            "address": "61-63 Eastern Avenue East, Romford, Essex",
+            "postcode": "RM1 4SD",
+            "location": {
+              "latitude": 51.5888367,
+              "longitude": 0.1756336
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcvqndjnh11r",
+            "brand": "BP",
+            "address": "Wester Dechmont, Broxburn, West Lothian",
+            "postcode": "EH52 6LS",
+            "location": {
+              "latitude": 55.9104604,
+              "longitude": -3.574503
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcmwht00exqf",
+            "brand": "Texaco",
+            "address": "Park Road, Ruthin, Denbighshire",
+            "postcode": "LL15 1NB",
+            "location": {
+              "latitude": 53.1135285,
+              "longitude": -3.3177116
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcx89qmq31jb",
+            "brand": "Jet",
+            "address": "Grange Lane South, Lincolnshire",
+            "postcode": "DN16 3BJ",
+            "location": {
+              "latitude": 53.5608012,
+              "longitude": -0.6409327
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcw27c98e7wv",
+            "brand": "BP",
+            "address": "21 Seedley Road, Salford",
+            "postcode": "M6 5WN",
+            "location": {
+              "latitude": 53.4897906,
+              "longitude": -2.2939338
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcjgze5q7yky",
+            "brand": "Texaco",
+            "address": "Bridgwater Road, Winscombe, Somerset",
+            "postcode": "BS25 1NW",
+            "location": {
+              "latitude": 51.3017666,
+              "longitude": -2.829842
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcrjnjtqmqd9",
+            "brand": "Texaco",
+            "address": "Meadow Lane, Nottingham, Nottinghamshire",
+            "postcode": "NG2 3HE",
+            "location": {
+              "latitude": 52.9414767,
+              "longitude": -1.1351396
+            },
+            "prices": {
+              "E10": 136.9,
+              "B7": 141.9,
+              "SDV": 161.9
+            }
+          },
+          {
+            "site_id": "gcqesnn4yu1e",
+            "brand": "Esso",
+            "address": "150 Cannock Road, Burntwood, Staffordshire",
+            "postcode": "WS7 0BQ",
+            "location": {
+              "latitude": 52.6799374,
+              "longitude": -1.9250622
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gfn080nd3x11",
+            "brand": "Shell",
+            "address": "Bridge Street, St Andrews, Fife",
+            "postcode": "KY16 9EX",
+            "location": {
+              "latitude": 56.3383147,
+              "longitude": -2.8035078
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 146.9,
+              "SDV": 166.9
+            }
+          },
+          {
+            "site_id": "gcvz29f18yt5",
+            "brand": "BP",
+            "address": "St Clair Street, Kirkcaldy, Fife",
+            "postcode": "KY1 2BX",
+            "location": {
+              "latitude": 56.12807,
+              "longitude": -3.1393043
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcjdn8c8px1g",
+            "brand": "Texaco",
+            "address": "Longforth Road, Wellington",
+            "postcode": "TA21 8RQ",
+            "location": {
+              "latitude": 50.9807205,
+              "longitude": -3.2275962
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 148.9
+            }
+          },
+          {
+            "site_id": "gfj8cerdy3ew",
+            "brand": "BP",
+            "address": "2 Dunkeld Road, Perth, Tayside",
+            "postcode": "PH1 5RG",
+            "location": {
+              "latitude": 56.40017,
+              "longitude": -3.4391343
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcpvn90068kh",
+            "brand": "Texaco",
+            "address": "77 - 101 The Highway, Shadwell, London",
+            "postcode": "E1W 2BN",
+            "location": {
+              "latitude": 51.5094444,
+              "longitude": -0.0658051
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcpvqm57swuy",
+            "brand": "Texaco",
+            "address": "2 High Road,  Stamford Hill, Greater London",
+            "postcode": "N15 6LS",
+            "location": {
+              "latitude": 51.5759555,
+              "longitude": -0.0722415
+            },
+            "prices": {
+              "E5": 163.9,
+              "E10": 142.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcqrsfx21fme",
+            "brand": "Shell",
+            "address": "Manchester",
+            "postcode": "M22 5WX",
+            "location": {
+              "latitude": 53.3633549,
+              "longitude": -2.2421583
+            },
+            "prices": {
+              "E5": 164.9,
+              "E10": 143.9,
+              "B7": 149.9,
+              "SDV": 169.9
+            }
+          },
+          {
+            "site_id": "gcq2e3ep8u36",
+            "brand": "Texaco",
+            "address": "285 Worcester Road, Malvern, Worcestershire",
+            "postcode": "WR14 1AB",
+            "location": {
+              "latitude": 52.128691,
+              "longitude": -2.3139612
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "u12e83j74exf",
+            "brand": "BP",
+            "address": "A47 Bypass, Swaffham, Norfolk",
+            "postcode": "PE37 7TZ",
+            "location": {
+              "latitude": 52.6525117,
+              "longitude": 0.7214391
+            },
+            "prices": {
+              "E5": 160.9,
+              "E10": 139.9,
+              "B7": 148.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gcr5z0wx8hvk",
+            "brand": "Shell",
+            "address": "50/52 Wanlip Road, Syston, Leicester",
+            "postcode": "LE7 1PA",
+            "location": {
+              "latitude": 52.6944899,
+              "longitude": -1.0896991
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcnryfp6zt69",
+            "brand": "Shell",
+            "address": "Mitton Manor Garage, Bredon Road, Tewkesbury, Gloucestershire",
+            "postcode": "GL20 5DA",
+            "location": {
+              "latitude": 51.9987915,
+              "longitude": -2.1540249
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcpvju9kj9kv",
+            "brand": "Texaco",
+            "address": "241 City Road, Islington, London",
+            "postcode": "EC1V 1JQ",
+            "location": {
+              "latitude": 51.5293198,
+              "longitude": -0.0969179
+            },
+            "prices": {
+              "E5": 164.9,
+              "E10": 143.9,
+              "B7": 151.9,
+              "SDV": 171.9
+            }
+          },
+          {
+            "site_id": "gcx2fp6uc0h5",
+            "brand": "Texaco",
+            "address": "South Parade, Thorne, Doncaster",
+            "postcode": "DN8 5DZ",
+            "location": {
+              "latitude": 53.6099773,
+              "longitude": -0.962972
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcvje0gr5319",
+            "brand": "BP",
+            "address": "10 Bothwell Road, Uddingston",
+            "postcode": "G71 7ET",
+            "location": {
+              "latitude": 55.815874,
+              "longitude": -4.0823092
+            },
+            "prices": {
+              "E5": 157.9,
+              "E10": 136.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "u10zky98e3hm",
+            "brand": "Texaco",
+            "address": "394 Main Road, Harwich, Essex",
+            "postcode": "CO12 4DN",
+            "location": {
+              "latitude": 51.9352118,
+              "longitude": 1.265633
+            },
+            "prices": {
+              "E5": 161.9,
+              "E10": 140.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcpsq8w2zp5z",
+            "brand": "Texaco",
+            "address": "66 Hersham Road, Walton on Thames, Surrey",
+            "postcode": "KT12 1RZ",
+            "location": {
+              "latitude": 51.3749845,
+              "longitude": -0.4085917
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 148.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gcqcspng72t1",
+            "brand": "Texaco",
+            "address": "203 Warwick Road, Kenilworth, Warwickshire",
+            "postcode": "CV8 1FB",
+            "location": {
+              "latitude": 52.3339348,
+              "longitude": -1.5726153
+            },
+            "prices": {
+              "E5": 163.9,
+              "E10": 142.9,
+              "B7": 148.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gcusxb5zm1ff",
+            "brand": "BP",
+            "address": "Western Road, Kilmarnock, Ayrshire",
+            "postcode": "KA3 1TX",
+            "location": {
+              "latitude": 55.6360199,
+              "longitude": -4.5759306
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcwfnye2xyn0",
+            "brand": "BP",
+            "address": "York Road, Leeds",
+            "postcode": "LS14 2AA",
+            "location": {
+              "latitude": 53.8248861,
+              "longitude": -1.4563777
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcx0emt01wc8",
+            "brand": "Esso",
+            "address": "A1 Northbound, Doncaster, South Yorkshire",
+            "postcode": "DN6 8LR",
+            "location": {
+              "latitude": 53.5556394,
+              "longitude": -1.2564946
+            },
+            "prices": {
+              "E5": 162.9,
+              "E10": 141.9,
+              "B7": 150.9,
+              "SDV": 170.9
+            }
+          },
+          {
+            "site_id": "gcnhy24xtbjv",
+            "brand": "Texaco",
+            "address": "19-29 Bell Hill Road, Bristol",
+            "postcode": "BS5 7LT",
+            "location": {
+              "latitude": 51.4612493,
+              "longitude": -2.5341539
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "gcq2y5k6sg29",
+            "brand": "BP",
+            "address": "Whittington Road, Worcester, Worcestershire",
+            "postcode": "WR5 2JY",
+            "location": {
+              "latitude": 52.1813856,
+              "longitude": -2.1912243
+            },
+            "prices": {
+              "E5": 157.9,
+              "E10": 136.9,
+              "B7": 144.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcnz0jd1u8pv",
+            "brand": "Valero",
+            "address": "Station Road, Bourton On The Water, Gloucestershire",
+            "postcode": "GL542EP",
+            "location": {
+              "latitude": 51.8859825,
+              "longitude": -1.7548621
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 147.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gcq1fsmq50uy",
+            "brand": "Valero",
+            "address": "Foldgate Lane, Ludlow, Shropshire",
+            "postcode": "SY81LS",
+            "location": {
+              "latitude": 52.3632482,
+              "longitude": -2.6952917
+            },
+            "prices": {
+              "E5": 159.9,
+              "E10": 138.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          },
+          {
+            "site_id": "  gcny1efvebv0",
+            "brand": "Texaco",
+            "address": "Station Road, Lechlade, Gloucestershire",
+            "postcode": "GL7 3ER",
+            "location": {
+              "latitude": 51.7012351,
+              "longitude": -1.6879501
+            },
+            "prices": {
+              "E5": 158.9,
+              "E10": 137.9,
+              "B7": 145.9,
+              "SDV": 165.9
+            }
+          }
+        ]
+      }
+    },
+    {
       "name": "Shell",
       "data": {
-        "last_updated": "14/02/2025 00:00:00",
+        "last_updated": "15/02/2025 00:00:00",
         "stations": [
           {
             "site_id": "gbujt4qe0k18",
@@ -52597,8 +54174,8 @@
               "longitude": -2.581671
             },
             "prices": {
-              "B7": 148.9,
-              "E10": 142.9
+              "B7": 146.9,
+              "E10": 141.9
             }
           },
           {
@@ -53031,8 +54608,8 @@
               "longitude": -1.29602
             },
             "prices": {
-              "B7": 147.9,
-              "E10": 142.9
+              "B7": 146.9,
+              "E10": 141.9
             }
           },
           {
@@ -53633,8 +55210,8 @@
               "longitude": -0.077154
             },
             "prices": {
-              "B7": 153.9,
-              "E10": 145.9
+              "B7": 151.9,
+              "E10": 143.9
             }
           },
           {
@@ -53774,7 +55351,7 @@
             },
             "prices": {
               "B7": 151.9,
-              "E10": 139.9
+              "E10": 143.9
             }
           },
           {
@@ -53899,8 +55476,8 @@
               "longitude": -0.753151
             },
             "prices": {
-              "B7": 151.9,
-              "E10": 142.9
+              "B7": 149.9,
+              "E10": 141.9
             }
           },
           {
@@ -54571,8 +56148,8 @@
               "longitude": -0.075627
             },
             "prices": {
-              "B7": 153.9,
-              "E10": 145.9
+              "B7": 149.9,
+              "E10": 144.9
             }
           },
           {
@@ -55369,8 +56946,8 @@
               "longitude": -0.200451
             },
             "prices": {
-              "B7": 155.9,
-              "E10": 143.9
+              "B7": 156.9,
+              "E10": 144.9
             }
           },
           {
@@ -55650,7 +57227,7 @@
             },
             "prices": {
               "B7": 146.9,
-              "E10": 138.9
+              "E10": 139.9
             }
           },
           {
@@ -56364,7 +57941,7 @@
             },
             "prices": {
               "B7": 149.9,
-              "E10": 141.9
+              "E10": 142.9
             }
           },
           {
@@ -56433,8 +58010,8 @@
               "longitude": -1.095369
             },
             "prices": {
-              "B7": 151.9,
-              "E10": 143.9
+              "B7": 148.9,
+              "E10": 142.9
             }
           },
           {
@@ -56503,8 +58080,8 @@
               "longitude": -0.696469
             },
             "prices": {
-              "B7": 145.9,
-              "E10": 141.9
+              "B7": 146.9,
+              "E10": 142.9
             }
           },
           {
@@ -56713,8 +58290,8 @@
               "longitude": -0.221206
             },
             "prices": {
-              "B7": 148.9,
-              "E10": 139.9
+              "B7": 147.9,
+              "E10": 138.9
             }
           },
           {
@@ -56937,8 +58514,8 @@
               "longitude": -0.925632
             },
             "prices": {
-              "B7": 152.9,
-              "E10": 143.9
+              "B7": 150.9,
+              "E10": 142.9
             }
           },
           {
@@ -56951,8 +58528,8 @@
               "longitude": -0.920711
             },
             "prices": {
-              "B7": 151.9,
-              "E10": 142.9
+              "B7": 149.9,
+              "E10": 141.9
             }
           },
           {
@@ -56979,7 +58556,7 @@
               "longitude": -0.369172
             },
             "prices": {
-              "B7": 149.9,
+              "B7": 148.9,
               "E10": 139.9
             }
           },
@@ -57063,8 +58640,8 @@
               "longitude": -2.936823
             },
             "prices": {
-              "B7": 141.9,
-              "E10": 133.9
+              "B7": 139.9,
+              "E10": 132.9
             }
           },
           {
@@ -57175,7 +58752,7 @@
               "longitude": -4.452486
             },
             "prices": {
-              "B7": 149.9,
+              "B7": 148.9,
               "E10": 138.9
             }
           },
@@ -57371,8 +58948,8 @@
               "longitude": -3.232126
             },
             "prices": {
-              "B7": 150.9,
-              "E10": 143.9
+              "B7": 151.9,
+              "E10": 144.9
             }
           },
           {
@@ -58239,7 +59816,7 @@
               "longitude": -2.092622
             },
             "prices": {
-              "B7": 147.9,
+              "B7": 146.9,
               "E10": 138.9
             }
           },
@@ -58253,7 +59830,7 @@
               "longitude": -2.088872
             },
             "prices": {
-              "B7": 147.9,
+              "B7": 146.9,
               "E10": 138.9
             }
           },
@@ -59537,7 +61114,7 @@
     {
       "name": "Tesco",
       "data": {
-        "last_updated": "14/02/2025 11:18:58",
+        "last_updated": "15/02/2025 11:19:01",
         "stations": [
           {
             "site_id": "gcx1zhq978t7",
