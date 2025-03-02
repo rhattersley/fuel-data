@@ -933,7 +933,7 @@
     {
       "name": "Ascona Group",
       "data": {
-        "last_updated": "01/03/2025 11:50:13",
+        "last_updated": "02/03/2025 11:50:14",
         "stations": [
           {
             "site_id": "gcqfydrhb9q5",
@@ -973,8 +973,8 @@
               "longitude": 0.178065
             },
             "prices": {
-              "E10": 139.9,
-              "B7": 145.9
+              "E10": 138.9,
+              "B7": 144.9
             }
           },
           {
@@ -1169,7 +1169,7 @@
               "longitude": -3.13793
             },
             "prices": {
-              "E10": 137.9,
+              "E10": 136.9,
               "B7": 144.9
             }
           },
@@ -1282,7 +1282,7 @@
             },
             "prices": {
               "E10": 139.9,
-              "B7": 147.9
+              "B7": 146.9
             }
           },
           {
@@ -1477,8 +1477,8 @@
               "longitude": -4.1042152
             },
             "prices": {
-              "E10": 138.9,
-              "B7": 142.9
+              "E10": 138.7,
+              "B7": 142.7
             }
           },
           {
@@ -1519,7 +1519,7 @@
               "longitude": -1.141752
             },
             "prices": {
-              "E10": 138.9,
+              "E10": 139.9,
               "B7": 143.9
             }
           },
@@ -1547,8 +1547,8 @@
               "longitude": -4.9853626
             },
             "prices": {
-              "E10": 137.9,
-              "B7": 145.9
+              "E10": 136.9,
+              "B7": 144.9
             }
           },
           {
@@ -1590,7 +1590,7 @@
             },
             "prices": {
               "E10": 139.9,
-              "B7": 147.9
+              "B7": 146.9
             }
           },
           {
@@ -1739,7 +1739,7 @@
     {
       "name": "Asda",
       "data": {
-        "last_updated": "01/03/2025 11:00:00",
+        "last_updated": "02/03/2025 11:00:00",
         "stations": [
           {
             "site_id": "gcqfn1wd5k4j",
@@ -13633,7 +13633,7 @@
     {
       "name": "bp",
       "data": {
-        "last_updated": "01/03/2025 11:00:05",
+        "last_updated": "02/03/2025 11:00:05",
         "stations": [
           {
             "site_id": "gbux3kms73vy",
@@ -14159,8 +14159,8 @@
             "prices": {
               "E5": 160.9,
               "E10": 141.9,
-              "B7": 145.9,
-              "SDV": 163.9
+              "B7": 146.9,
+              "SDV": 164.9
             }
           },
           {
@@ -21519,7 +21519,7 @@
     {
       "name": "JET Retail UK",
       "data": {
-        "last_updated": "01/03/2025 11:45:32",
+        "last_updated": "02/03/2025 11:45:32",
         "stations": [
           {
             "site_id": "gcxc46cnjv5k",
@@ -21613,8 +21613,7 @@
             "prices": {
               "E5": 141.9,
               "E10": 132.9,
-              "B7": 142.9,
-              "SDV": 152.89999999999998
+              "B7": 142.9
             }
           },
           {
@@ -22363,7 +22362,7 @@
     {
       "name": "Morrisons",
       "data": {
-        "last_updated": "01/03/2025 11:30:12",
+        "last_updated": "02/03/2025 11:30:11",
         "stations": [
           {
             "site_id": "gcpvxdc3p8p9",
@@ -22429,7 +22428,7 @@
     {
       "name": "Moto",
       "data": {
-        "last_updated": "02/03/2025 05:58:01",
+        "last_updated": "02/03/2025 13:58:00",
         "stations": [
           {
             "site_id": "gcw2trbpdxqk",
@@ -46363,7 +46362,7 @@
             "brand": "Esso"
           }
         ],
-        "last_updated": "01/03/2025 10:55:04"
+        "last_updated": "02/03/2025 10:55:04"
       }
     },
     {
@@ -52775,7 +52774,7 @@
     {
       "name": "Shell",
       "data": {
-        "last_updated": "01/03/2025 00:00:00",
+        "last_updated": "02/03/2025 00:00:00",
         "stations": [
           {
             "site_id": "gbujt4qe0k18",
@@ -54090,7 +54089,7 @@
             },
             "prices": {
               "B7": 151.9,
-              "E10": 144.9
+              "E10": 143.9
             }
           },
           {
@@ -54286,7 +54285,7 @@
             },
             "prices": {
               "B7": 149.9,
-              "E10": 142.9
+              "E10": 143.9
             }
           },
           {
@@ -60609,7 +60608,7 @@
     {
       "name": "Tesco",
       "data": {
-        "last_updated": "01/03/2025 11:18:56",
+        "last_updated": "02/03/2025 11:20:20",
         "stations": [
           {
             "site_id": "gcx1zhq978t7",
@@ -60729,21 +60728,6 @@
               "E5": 142.9,
               "E10": 135.9,
               "B7": 142.9
-            }
-          },
-          {
-            "site_id": "gbvx81ypwvuc",
-            "brand": "TESCO",
-            "address": "106 Bitton Park Rd Teignmouth",
-            "postcode": "TQ14 9DD",
-            "location": {
-              "latitude": 50.548041,
-              "longitude": -3.507089
-            },
-            "prices": {
-              "E5": 143.9,
-              "E10": 135.9,
-              "B7": 146.9
             }
           },
           {
@@ -62663,21 +62647,6 @@
               "E5": 142.9,
               "E10": 135.9,
               "B7": 142.9
-            }
-          },
-          {
-            "site_id": "gcpkx3gqtyg9",
-            "brand": "TESCO",
-            "address": "17 County Lane Warfield Bracknell",
-            "postcode": "RG42 3JP",
-            "location": {
-              "latitude": 51.426781,
-              "longitude": -0.731369
-            },
-            "prices": {
-              "E5": 147.9,
-              "E10": 139.9,
-              "B7": 146.9
             }
           },
           {
