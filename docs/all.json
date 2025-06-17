@@ -1,939 +1,9 @@
 {
   "retailers": [
     {
-      "name": "Applegreen UK",
-      "data": {
-        "last_updated": "26/02/2025 11:45:37",
-        "stations": [
-          {
-            "site_id": "u101fnnp8yzb",
-            "brand": "AppleGreen",
-            "address": "High Street, Uckfield",
-            "postcode": "TN22 5DL",
-            "location": {
-              "latitude": 50.9669,
-              "longitude": 0.096173
-            },
-            "prices": {
-              "E10": 138.8,
-              "E5": 153.8,
-              "B7": 145.8
-            }
-          },
-          {
-            "site_id": "u12b5jrwy51b",
-            "brand": "AppleGreen",
-            "address": "23 Woodbridge Road East, Ipswich",
-            "postcode": "IP4 5QN",
-            "location": {
-              "latitude": 52.061264,
-              "longitude": 1.197083
-            },
-            "prices": {
-              "B7": 141.8,
-              "E5": 149.8,
-              "E10": 134.8
-            }
-          },
-          {
-            "site_id": "u124qw88psv0",
-            "brand": "AppleGreen",
-            "address": "A10 Bypass, Ely",
-            "postcode": "CB6 1SE",
-            "location": {
-              "latitude": 52.462489,
-              "longitude": 0.28666
-            },
-            "prices": {
-              "B7": 148.8,
-              "E5": 154.8,
-              "E10": 140.8
-            }
-          },
-          {
-            "site_id": "gcmg8dcg0n1p",
-            "brand": "AppleGreen",
-            "address": "Salop Road, Welshpool",
-            "postcode": "SY21 7ET",
-            "location": {
-              "latitude": 52.662139,
-              "longitude": -3.139685
-            },
-            "prices": {
-              "B7": 145.8
-            }
-          },
-          {
-            "site_id": "gcq4bhpx5gp9",
-            "brand": "AppleGreen",
-            "address": "Crossways, Church Stretton",
-            "postcode": "SY6 6PQ",
-            "location": {
-              "latitude": 52.537839,
-              "longitude": -2.802029
-            },
-            "prices": {
-              "B7": 148.8,
-              "E5": 158.8,
-              "E10": 143.8
-            }
-          },
-          {
-            "site_id": "gcq044g47vhh",
-            "brand": "AppleGreen",
-            "address": "Ross Road, Hereford",
-            "postcode": "HR2 7RJ",
-            "location": {
-              "latitude": 52.04677,
-              "longitude": -2.720323
-            },
-            "prices": {
-              "B7": 143.8,
-              "E5": 149.8,
-              "E10": 134.8
-            }
-          },
-          {
-            "site_id": "u12gsgwb2j9y",
-            "brand": "AppleGreen",
-            "address": "160 Cromer Road, Norwich",
-            "postcode": "NR6 6XA",
-            "location": {
-              "latitude": 52.665784,
-              "longitude": 1.2727
-            },
-            "prices": {
-              "B7": 143.8
-            }
-          },
-          {
-            "site_id": "u12gev6eezzb",
-            "brand": "AppleGreen",
-            "address": "3-5 Fakenham Road, Drayton, Norwich",
-            "postcode": "NR8 6PL",
-            "location": {
-              "latitude": 52.675966,
-              "longitude": 1.223087
-            },
-            "prices": {
-              "B7": 143.8
-            }
-          },
-          {
-            "site_id": "gcpqv4phzzrt",
-            "brand": "AppleGreen",
-            "address": "Bicester Road, Aylesbury",
-            "postcode": "HP19 3BB",
-            "location": {
-              "latitude": 51.823365,
-              "longitude": -0.825005
-            },
-            "prices": {
-              "B7": 144.8,
-              "E5": 150.8,
-              "E10": 135.8
-            }
-          },
-          {
-            "site_id": "gcjmnb068hbn",
-            "brand": "AppleGreen",
-            "address": "Tremains Road, Bridgend",
-            "postcode": "CF31 1TZ",
-            "location": {
-              "latitude": 51.504362,
-              "longitude": -3.570213
-            },
-            "prices": {
-              "B7": 140.8,
-              "E10": 135.8
-            }
-          },
-          {
-            "site_id": "gcpv228yzupu",
-            "brand": "AppleGreen",
-            "address": "1091 Greenford Road, Greenford",
-            "postcode": "UB6 0EJ",
-            "location": {
-              "latitude": 51.551779,
-              "longitude": -0.339203
-            },
-            "prices": {
-              "B7": 146.8,
-              "E5": 153.8,
-              "E10": 138.8
-            }
-          },
-          {
-            "site_id": "gcp1c24r7frz",
-            "brand": "AppleGreen",
-            "address": "Swaythling Rd, Southampton",
-            "postcode": "SO30 3AG",
-            "location": {
-              "latitude": 50.933875,
-              "longitude": -1.348057
-            },
-            "prices": {
-              "B7": 144.8,
-              "E10": 137.8
-            }
-          },
-          {
-            "site_id": "gcput0dgbnbm",
-            "brand": "AppleGreen",
-            "address": "275 Streatham Common High Rd, Streatham",
-            "postcode": "SW16 3BS",
-            "location": {
-              "latitude": 51.419443,
-              "longitude": -0.128059
-            },
-            "prices": {
-              "B7": 147.8
-            }
-          },
-          {
-            "site_id": "gcpxn7pzk61f",
-            "brand": "AppleGreen",
-            "address": "157-159 Castle Street, Luton",
-            "postcode": "LU1 3AA",
-            "location": {
-              "latitude": 51.873204,
-              "longitude": -0.417639
-            },
-            "prices": {
-              "B7": 145.8
-            }
-          },
-          {
-            "site_id": "gcpvtsnr7grd",
-            "brand": "AppleGreen",
-            "address": "243 North Circular Road, Palmers Green",
-            "postcode": "N13 5JF",
-            "location": {
-              "latitude": 51.615032,
-              "longitude": -0.101109
-            },
-            "prices": {
-              "B7": 145.8
-            }
-          },
-          {
-            "site_id": "gcrj646s0xk1",
-            "brand": "AppleGreen",
-            "address": "Derby Road, Ilkeston",
-            "postcode": "DE7 5FH",
-            "location": {
-              "latitude": 52.967187,
-              "longitude": -1.314899
-            },
-            "prices": {
-              "B7": 142.8,
-              "E5": 155.8,
-              "E10": 137.8
-            }
-          },
-          {
-            "site_id": "u10dgyvq5bx8",
-            "brand": "AppleGreen",
-            "address": "North Street, Ashford",
-            "postcode": "TN24 8LQ",
-            "location": {
-              "latitude": 51.14651,
-              "longitude": 0.875301
-            },
-            "prices": {
-              "B7": 147.8,
-              "E5": 154.8,
-              "E10": 139.8
-            }
-          },
-          {
-            "site_id": "u104x1q4cce9",
-            "brand": "AppleGreen",
-            "address": "Station Road, Wadhurst",
-            "postcode": "TN5 6RP",
-            "location": {
-              "latitude": 51.0718,
-              "longitude": 0.315937
-            },
-            "prices": {
-              "E10": 140.8,
-              "E5": 155.8,
-              "B7": 148.8
-            }
-          },
-          {
-            "site_id": "u1243hdmundq",
-            "brand": "AppleGreen",
-            "address": "22 West Park Street, Chatteris",
-            "postcode": "PE16 6AJ",
-            "location": {
-              "latitude": 52.4525,
-              "longitude": 0.04721
-            },
-            "prices": {
-              "E10": 137.8,
-              "E5": 152.8,
-              "B7": 143.8
-            }
-          },
-          {
-            "site_id": "gcppm8z8rhrf",
-            "brand": "AppleGreen",
-            "address": "Banbury Road, Bicester",
-            "postcode": "OX26 2HJ",
-            "location": {
-              "latitude": 51.9036,
-              "longitude": -1.15394
-            },
-            "prices": {
-              "B7": 140.8
-            }
-          },
-          {
-            "site_id": "gcqdfjdub1k2",
-            "brand": "AppleGreen",
-            "address": "Holloway Bank, Wednesbury",
-            "postcode": "WS10 0NP",
-            "location": {
-              "latitude": 52.545683,
-              "longitude": -2.017702
-            },
-            "prices": {
-              "B7": 145.8
-            }
-          },
-          {
-            "site_id": "gcn7vwmfq076",
-            "brand": "AppleGreen",
-            "address": "Bythesea Road, Trowbridge",
-            "postcode": "BA14 8HR",
-            "location": {
-              "latitude": 51.3189,
-              "longitude": -2.21108
-            },
-            "prices": {
-              "E10": 136.8,
-              "E5": 149.8,
-              "B7": 143.8
-            }
-          },
-          {
-            "site_id": "gcqdmx4vbbt3",
-            "brand": "AppleGreen",
-            "address": "Small Heath Highway, Birmingham",
-            "postcode": "B10 0AE",
-            "location": {
-              "latitude": 52.4662,
-              "longitude": -1.86386
-            },
-            "prices": {
-              "E10": 139.8,
-              "B7": 146.8
-            }
-          },
-          {
-            "site_id": "gcpw62hpksnx",
-            "brand": "AppleGreen",
-            "address": "Ashley Green Road, Chesham",
-            "postcode": "HP5 3PG",
-            "location": {
-              "latitude": 51.7249,
-              "longitude": -0.598553
-            },
-            "prices": {
-              "E10": 142.8
-            }
-          },
-          {
-            "site_id": "gcrfgnmzstum",
-            "brand": "AppleGreen",
-            "address": "Whittlesey Road, Peterborough",
-            "postcode": "PE2 8RR",
-            "location": {
-              "latitude": 52.5503,
-              "longitude": -0.211631
-            },
-            "prices": {
-              "E10": 136.8,
-              "E5": 152.8
-            }
-          },
-          {
-            "site_id": "u10q6y3965c9",
-            "brand": "AppleGreen",
-            "address": "74 Main Road, Broomfield",
-            "postcode": "CM1 7DH",
-            "location": {
-              "latitude": 51.7582,
-              "longitude": 0.47456
-            },
-            "prices": {
-              "B7": 146.8
-            }
-          },
-          {
-            "site_id": "gcq11edvjb28",
-            "brand": "AppleGreen",
-            "address": "A44 Bargates, Leominster",
-            "postcode": "HR6 8EY",
-            "location": {
-              "latitude": 52.227117,
-              "longitude": -2.742558
-            },
-            "prices": {
-              "B7": 148.8,
-              "E5": 156.8,
-              "E10": 141.8
-            }
-          },
-          {
-            "site_id": "gcqfzgmq7vh0",
-            "brand": "AppleGreen",
-            "address": "A5 Watling Street, Hinckley",
-            "postcode": "LE10 3ED",
-            "location": {
-              "latitude": 52.533601,
-              "longitude": -1.40986
-            },
-            "prices": {
-              "B7": 144.8,
-              "E10": 138.8
-            }
-          },
-          {
-            "site_id": "gcjjyucqgp8d",
-            "brand": "AppleGreen",
-            "address": "Neath Road, Swansea",
-            "postcode": "SA6 8EF",
-            "location": {
-              "latitude": 51.663034,
-              "longitude": -3.920273
-            },
-            "prices": {
-              "E5": 151.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcjm3zzvxzsn",
-            "brand": "AppleGreen",
-            "address": "Port Talbot Road, Swansea",
-            "postcode": "SA13 1HN",
-            "location": {
-              "latitude": 51.591409,
-              "longitude": -3.779302
-            },
-            "prices": {
-              "B7": 143.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcpvt4wcxb26",
-            "brand": "AppleGreen",
-            "address": "2 Bounds Green Road, Bowes Park",
-            "postcode": "N11 2QH",
-            "location": {
-              "latitude": 51.605789,
-              "longitude": -0.122233
-            },
-            "prices": {
-              "B7": 146.8,
-              "E5": 154.8,
-              "E10": 139.8
-            }
-          },
-          {
-            "site_id": "gcpuvgg4nxzs",
-            "brand": "AppleGreen",
-            "address": "96-106 Camberwell Road, Camberwell",
-            "postcode": "SE5 0EG",
-            "location": {
-              "latitude": 51.480946,
-              "longitude": -0.094468
-            },
-            "prices": {
-              "B7": 142.8,
-              "E5": 151.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcz02v4pkr3d",
-            "brand": "AppleGreen",
-            "address": "Dame Dorothy Street, Sunderland",
-            "postcode": "SR6 0EZ",
-            "location": {
-              "latitude": 54.916445,
-              "longitude": -1.37036
-            },
-            "prices": {
-              "E5": 151.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcq5yscqvvvr",
-            "brand": "AppleGreen",
-            "address": "Shawbirch Crossroads, Telford",
-            "postcode": "TF1 3QA",
-            "location": {
-              "latitude": 52.717713,
-              "longitude": -2.524885
-            },
-            "prices": {
-              "B7": 142.8
-            }
-          },
-          {
-            "site_id": "gcqe73z3bnnz",
-            "brand": "AppleGreen",
-            "address": "Lichfield Road, Walsall",
-            "postcode": "WS4 1PQ",
-            "location": {
-              "latitude": 52.612486,
-              "longitude": -1.956587
-            },
-            "prices": {
-              "B7": 143.8,
-              "E10": 137.8
-            }
-          },
-          {
-            "site_id": "gcmy3c6d7svb",
-            "brand": "AppleGreen",
-            "address": "Wrexham Road, Mold",
-            "postcode": "CH7 4HL",
-            "location": {
-              "latitude": 53.137161,
-              "longitude": -3.083567
-            },
-            "prices": {
-              "B7": 144.8,
-              "E10": 138.8
-            }
-          },
-          {
-            "site_id": "gcjgef0c95ph",
-            "brand": "AppleGreen",
-            "address": "124 Berrow Road, Burnham on Sea",
-            "postcode": "TA8 2PG",
-            "location": {
-              "latitude": 51.251495,
-              "longitude": -2.998185
-            },
-            "prices": {
-              "B7": 146.8,
-              "E10": 139.8
-            }
-          },
-          {
-            "site_id": "u103324hnhj1",
-            "brand": "AppleGreen",
-            "address": "Barnhorn Road, Bexhill",
-            "postcode": "TN39 4QR",
-            "location": {
-              "latitude": 50.845435,
-              "longitude": 0.409505
-            },
-            "prices": {
-              "B7": 144.8
-            }
-          },
-          {
-            "site_id": "gcqdex003p1p",
-            "brand": "AppleGreen",
-            "address": "122 Holyhead Road, Birmingham",
-            "postcode": "B21 0LL",
-            "location": {
-              "latitude": 52.509237,
-              "longitude": -1.955522
-            },
-            "prices": {
-              "B7": 144.8,
-              "E5": 151.8,
-              "E10": 137.8
-            }
-          },
-          {
-            "site_id": "gcmzgu3fqmc9",
-            "brand": "AppleGreen",
-            "address": "121-129 Great Howard Street, Liverpool",
-            "postcode": "L3 7AT",
-            "location": {
-              "latitude": 53.417318,
-              "longitude": -2.996594
-            },
-            "prices": {
-              "B7": 144.8,
-              "SDV": 159.8
-            }
-          },
-          {
-            "site_id": "gctctpg34pt1",
-            "brand": "AppleGreen",
-            "address": "Preston Road, St Annes, Lytham",
-            "postcode": "FY8 5AT",
-            "location": {
-              "latitude": 53.743956,
-              "longitude": -2.93978
-            },
-            "prices": {
-              "B7": 142.8,
-              "E10": 138.8
-            }
-          },
-          {
-            "site_id": "gctfkhrefvtt",
-            "brand": "AppleGreen",
-            "address": "Mains Lane, Little Singleton, Poulton Le Fylde",
-            "postcode": "FY6 7LJ",
-            "location": {
-              "latitude": 53.857028,
-              "longitude": -2.977856
-            },
-            "prices": {
-              "B7": 144.8
-            }
-          },
-          {
-            "site_id": "gcqd6w8fmjqp",
-            "brand": "AppleGreen",
-            "address": "Hagley Road West, Birmingham",
-            "postcode": "B32 2AL",
-            "location": {
-              "latitude": 52.462879,
-              "longitude": -1.998259
-            },
-            "prices": {
-              "E5": 151.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcqdvnk62zp6",
-            "brand": "AppleGreen",
-            "address": "551 Kingstanding Road, Birmingham",
-            "postcode": "B44 9TD",
-            "location": {
-              "latitude": 52.549405,
-              "longitude": -1.88377
-            },
-            "prices": {
-              "B7": 143.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcmy2x6kjhm3",
-            "brand": "AppleGreen",
-            "address": "Roundabout Service Station King Street, Clwyd",
-            "postcode": "CH7 1LB",
-            "location": {
-              "latitude": 53.170418,
-              "longitude": -3.138778
-            },
-            "prices": {
-              "B7": 143.8,
-              "E10": 137.8
-            }
-          },
-          {
-            "site_id": "gcmwcrwndntb",
-            "brand": "AppleGreen",
-            "address": "Seaways Service Station, The Roe, Clwyd",
-            "postcode": "LL17 OLY",
-            "location": {
-              "latitude": 53.260123,
-              "longitude": -3.45236
-            },
-            "prices": {
-              "B7": 146.8,
-              "E10": 141.8
-            }
-          },
-          {
-            "site_id": "u10mdbhc7k84",
-            "brand": "AppleGreen",
-            "address": "Summerhill Service Station, Basildon",
-            "postcode": "SS14 3AS",
-            "location": {
-              "latitude": 51.592036,
-              "longitude": 0.479075
-            },
-            "prices": {
-              "B7": 142.8,
-              "E5": 150.8,
-              "E10": 135.8
-            }
-          },
-          {
-            "site_id": "gcqdcf2xqyy1",
-            "brand": "AppleGreen",
-            "address": "232 Whitehall road, Tipton",
-            "postcode": "DY4 7EX",
-            "location": {
-              "latitude": 52.528289,
-              "longitude": -2.031486
-            },
-            "prices": {
-              "B7": 142.8,
-              "E10": 135.8
-            }
-          },
-          {
-            "site_id": "u10z06qejt9q",
-            "brand": "AppleGreen",
-            "address": "Colchester Road, Colchester",
-            "postcode": "CO7 8RX",
-            "location": {
-              "latitude": 51.868374,
-              "longitude": 1.074838
-            },
-            "prices": {
-              "B7": 147.8,
-              "E5": 154.8,
-              "E10": 139.8
-            }
-          },
-          {
-            "site_id": "gcqfwqvvmuhx",
-            "brand": "AppleGreen",
-            "address": "Bedworth Service Station, Nuneaton",
-            "postcode": "CV10 7DA",
-            "location": {
-              "latitude": 52.508706,
-              "longitude": -1.475005
-            },
-            "prices": {
-              "B7": 147.8,
-              "SDV": 162.8
-            }
-          },
-          {
-            "site_id": "gctqq3rgq458",
-            "brand": "AppleGreen",
-            "address": "Back Corkickle, Cumbria",
-            "postcode": "CA28 7TS",
-            "location": {
-              "latitude": 54.543568,
-              "longitude": -3.581624
-            },
-            "prices": {
-              "B7": 146.8,
-              "E5": 153.8,
-              "E10": 137.8
-            }
-          },
-          {
-            "site_id": "gcxcwt0zbyww",
-            "brand": "AppleGreen",
-            "address": "Hull Road, North Humberside",
-            "postcode": "HU12 8DJ",
-            "location": {
-              "latitude": 53.730004,
-              "longitude": -0.064847
-            },
-            "prices": {
-              "B7": 146.8,
-              "SDV": 161.8
-            }
-          },
-          {
-            "site_id": "gcx0kbwgbkw1",
-            "brand": "AppleGreen",
-            "address": "Edlington Lane, Doncaster",
-            "postcode": "DN12 1BS",
-            "location": {
-              "latitude": 53.48486,
-              "longitude": -1.188221
-            },
-            "prices": {
-              "B7": 144.8,
-              "SDV": 159.8,
-              "E10": 135.8
-            }
-          },
-          {
-            "site_id": "gcqdmx4ghd51",
-            "brand": "AppleGreen",
-            "address": "Small Heath Highway, Birmingham",
-            "postcode": "B10 0AE",
-            "location": {
-              "latitude": 52.465736,
-              "longitude": -1.863702
-            },
-            "prices": {
-              "B7": 146.8,
-              "E10": 139.8
-            }
-          },
-          {
-            "site_id": "gcx0w227tm7n",
-            "brand": "AppleGreen",
-            "address": "Doncaster St George Service Station, Doncaster",
-            "postcode": "DN1 2RE",
-            "location": {
-              "latitude": 53.527394,
-              "longitude": -1.131019
-            },
-            "prices": {
-              "B7": 145.8,
-              "SDV": 160.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "u10n6c4h8b2r",
-            "brand": "AppleGreen",
-            "address": "High Road, Epping",
-            "postcode": "CM16 6LX",
-            "location": {
-              "latitude": 51.729901,
-              "longitude": 0.123629
-            },
-            "prices": {
-              "B7": 140.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcq1czndpyxf",
-            "brand": "AppleGreen",
-            "address": "Bromfield Road, Ludlow",
-            "postcode": "SY8 1DN",
-            "location": {
-              "latitude": 52.377698,
-              "longitude": -2.726326
-            },
-            "prices": {
-              "B7": 146.8,
-              "E5": 154.8,
-              "E10": 139.8
-            }
-          },
-          {
-            "site_id": "gcqmy04ug1ef",
-            "brand": "AppleGreen",
-            "address": "Waterloo Road, Stoke on Trent",
-            "postcode": "ST6 2EH",
-            "location": {
-              "latitude": 53.042816,
-              "longitude": -2.193355
-            },
-            "prices": {
-              "B7": 142.8
-            }
-          },
-          {
-            "site_id": "gcwycucveh38",
-            "brand": "AppleGreen",
-            "address": "Cockton Hill Road, Co Durham",
-            "postcode": "DL14 6JN",
-            "location": {
-              "latitude": 54.651083,
-              "longitude": -1.678374
-            },
-            "prices": {
-              "B7": 142.8,
-              "E10": 135.8
-            }
-          },
-          {
-            "site_id": "gcqfhy6pr8qx",
-            "brand": "AppleGreen",
-            "address": "Holyhead Road Service Station, Coventry",
-            "postcode": "CV5 8ND",
-            "location": {
-              "latitude": 52.418392,
-              "longitude": -1.545995
-            },
-            "prices": {
-              "B7": 146.8,
-              "E10": 140.8
-            }
-          },
-          {
-            "site_id": "gcqp4qb3cc6x",
-            "brand": "AppleGreen",
-            "address": "Frodsham Sevice Station, Frodsham",
-            "postcode": "Wa6 7HN",
-            "location": {
-              "latitude": 53.299106,
-              "longitude": -2.713201
-            },
-            "prices": {
-              "B7": 143.8,
-              "E5": 152.8,
-              "E10": 136.8
-            }
-          },
-          {
-            "site_id": "gcqdmfucrgyx",
-            "brand": "AppleGreen",
-            "address": "Stratford Road, Birmingham",
-            "postcode": "B28 8BN",
-            "location": {
-              "latitude": 52.4421,
-              "longitude": -1.849825
-            },
-            "prices": {
-              "B7": 143.8
-            }
-          },
-          {
-            "site_id": "gcr5qw8hj0tb",
-            "brand": "AppleGreen",
-            "address": "131 Humberstone Road, Leicester",
-            "postcode": "LE5 3AD",
-            "location": {
-              "latitude": 52.638934,
-              "longitude": -1.120383
-            },
-            "prices": {
-              "B7": 145.8,
-              "E5": 155.8,
-              "E10": 140.8
-            }
-          },
-          {
-            "site_id": "gcqu6ktbnppj",
-            "brand": "AppleGreen",
-            "address": "1 Wellington Road, Burton",
-            "postcode": "DE14 2AP",
-            "location": {
-              "latitude": 52.803078,
-              "longitude": -1.650772
-            },
-            "prices": {
-              "B7": 147.9,
-              "SDV": 165.9,
-              "E5": 156.9,
-              "E10": 140.9
-            }
-          },
-          {
-            "site_id": "gcnjjtf5qtmm",
-            "brand": "AppleGreen",
-            "address": "Applegreen Patchway Service Station, Bristol",
-            "postcode": "BS34 6NA",
-            "location": {
-              "latitude": 51.536079,
-              "longitude": -2.567768
-            },
-            "prices": {
-              "B7": 144.8,
-              "E5": 152.8,
-              "E10": 137.8
-            }
-          }
-        ]
-      }
-    },
-    {
       "name": "Ascona Group",
       "data": {
-        "last_updated": "16/06/2025 11:50:16",
+        "last_updated": "17/06/2025 11:50:17",
         "stations": [
           {
             "site_id": "gcqfydrhb9q5",
@@ -945,8 +15,8 @@
               "longitude": -1.462525
             },
             "prices": {
-              "E10": 129.9,
-              "B7": 135.9
+              "E10": 130.9,
+              "B7": 136.9
             }
           },
           {
@@ -973,7 +43,7 @@
               "longitude": 0.178065
             },
             "prices": {
-              "E10": 129.7,
+              "E10": 130.7,
               "B7": 136.7
             }
           },
@@ -987,8 +57,8 @@
               "longitude": -2.795245
             },
             "prices": {
-              "E10": 138.8,
-              "B7": 138.9
+              "E10": 135.9,
+              "B7": 139.9
             }
           },
           {
@@ -1029,8 +99,8 @@
               "longitude": -0.268575
             },
             "prices": {
-              "E10": 123.7,
-              "B7": 132.7
+              "E10": 124.7,
+              "B7": 133.7
             }
           },
           {
@@ -1043,8 +113,8 @@
               "longitude": -0.537736
             },
             "prices": {
-              "E10": 125.7,
-              "B7": 132.7
+              "E10": 126.7,
+              "B7": 133.7
             }
           },
           {
@@ -1057,8 +127,8 @@
               "longitude": -2.958342
             },
             "prices": {
-              "E10": 132.7,
-              "B7": 135.7
+              "E10": 133.7,
+              "B7": 136.7
             }
           },
           {
@@ -1085,8 +155,8 @@
               "longitude": -3.41212
             },
             "prices": {
-              "E10": 131.9,
-              "B7": 137.9
+              "E10": 132.9,
+              "B7": 138.9
             }
           },
           {
@@ -1170,7 +240,7 @@
             },
             "prices": {
               "E10": 129.7,
-              "B7": 135.7
+              "B7": 136.7
             }
           },
           {
@@ -1183,8 +253,8 @@
               "longitude": -3.440762
             },
             "prices": {
-              "E10": 131.9,
-              "B7": 137.9
+              "E10": 132.9,
+              "B7": 138.9
             }
           },
           {
@@ -1198,7 +268,7 @@
             },
             "prices": {
               "E10": 128.9,
-              "B7": 135.9
+              "B7": 136.9
             }
           },
           {
@@ -1211,8 +281,8 @@
               "longitude": -4.470685
             },
             "prices": {
-              "E10": 130.7,
-              "B7": 136.7
+              "E10": 131.7,
+              "B7": 137.7
             }
           },
           {
@@ -1253,8 +323,8 @@
               "longitude": -4.0732025
             },
             "prices": {
-              "E10": 129.9,
-              "B7": 134.9
+              "E10": 130.9,
+              "B7": 135.9
             }
           },
           {
@@ -1295,8 +365,8 @@
               "longitude": -1.49879
             },
             "prices": {
-              "E10": 130.9,
-              "B7": 134.9
+              "E10": 131.9,
+              "B7": 135.9
             }
           },
           {
@@ -1351,8 +421,8 @@
               "longitude": -3.2413339
             },
             "prices": {
-              "E10": 131.7,
-              "B7": 137.7
+              "E10": 131.9,
+              "B7": 137.9
             }
           },
           {
@@ -1365,8 +435,8 @@
               "longitude": -1.0936058
             },
             "prices": {
-              "E10": 129.7,
-              "B7": 138.7
+              "E10": 129.9,
+              "B7": 138.9
             }
           },
           {
@@ -1380,7 +450,7 @@
             },
             "prices": {
               "E10": 128.9,
-              "B7": 135.9
+              "B7": 136.9
             }
           },
           {
@@ -1393,8 +463,8 @@
               "longitude": -2.1628836
             },
             "prices": {
-              "E10": 127.9,
-              "B7": 133.9
+              "E10": 128.9,
+              "B7": 134.9
             }
           },
           {
@@ -1407,8 +477,8 @@
               "longitude": -3.0251629
             },
             "prices": {
-              "E10": 131.9,
-              "B7": 137.9
+              "E10": 132.9,
+              "B7": 138.9
             }
           },
           {
@@ -1421,8 +491,8 @@
               "longitude": -0.241974
             },
             "prices": {
-              "E10": 127.9,
-              "B7": 135.9
+              "E10": 128.9,
+              "B7": 136.9
             }
           },
           {
@@ -1435,8 +505,8 @@
               "longitude": -0.243434
             },
             "prices": {
-              "E10": 127.9,
-              "B7": 135.9
+              "E10": 128.9,
+              "B7": 136.9
             }
           },
           {
@@ -1450,7 +520,7 @@
             },
             "prices": {
               "E10": 132.9,
-              "B7": 137.9
+              "B7": 138.9
             }
           },
           {
@@ -1464,7 +534,7 @@
             },
             "prices": {
               "E10": 132.9,
-              "B7": 136.9
+              "B7": 137.9
             }
           },
           {
@@ -1491,7 +561,7 @@
               "longitude": -2.7528124
             },
             "prices": {
-              "E10": 129.9,
+              "E10": 130.9,
               "B7": 136.9
             }
           },
@@ -1505,8 +575,8 @@
               "longitude": -0.4245391
             },
             "prices": {
-              "E10": 127.9,
-              "B7": 133.9
+              "E10": 128.9,
+              "B7": 134.9
             }
           },
           {
@@ -1519,7 +589,7 @@
               "longitude": -1.141752
             },
             "prices": {
-              "E10": 129.9,
+              "E10": 130.9,
               "B7": 136.9
             }
           },
@@ -1561,8 +631,8 @@
               "longitude": -3.7048278
             },
             "prices": {
-              "E10": 129.9,
-              "B7": 136.9
+              "E10": 131.9,
+              "B7": 137.9
             }
           },
           {
@@ -1646,7 +716,7 @@
             },
             "prices": {
               "E10": 128.9,
-              "B7": 135.9
+              "B7": 136.9
             }
           },
           {
@@ -1660,7 +730,7 @@
             },
             "prices": {
               "E10": 133.9,
-              "B7": 136.9
+              "B7": 137.9
             }
           },
           {
@@ -1687,8 +757,8 @@
               "longitude": -1.2962651
             },
             "prices": {
-              "E10": 127.7,
-              "B7": 134.7
+              "E10": 127.9,
+              "B7": 134.9
             }
           },
           {
@@ -1701,8 +771,8 @@
               "longitude": -0.4853114
             },
             "prices": {
-              "E10": 131.7,
-              "B7": 138.7
+              "E10": 131.9,
+              "B7": 138.9
             }
           },
           {
@@ -1715,8 +785,8 @@
               "longitude": -0.7904087
             },
             "prices": {
-              "E10": 128.7,
-              "B7": 134.7
+              "E10": 129.9,
+              "B7": 135.9
             }
           },
           {
@@ -1744,7 +814,7 @@
             },
             "prices": {
               "E10": 129.7,
-              "B7": 135.7
+              "B7": 136.7
             }
           },
           {
@@ -1772,7 +842,7 @@
             },
             "prices": {
               "E10": 134.9,
-              "B7": 138.9
+              "B7": 139.9
             }
           },
           {
@@ -1786,7 +856,7 @@
             },
             "prices": {
               "E10": 134.9,
-              "B7": 138.9
+              "B7": 139.9
             }
           }
         ]
@@ -1795,7 +865,7 @@
     {
       "name": "Asda",
       "data": {
-        "last_updated": "16/06/2025 11:00:00",
+        "last_updated": "17/06/2025 11:00:00",
         "stations": [
           {
             "site_id": "gcqfn1wd5k4j",
@@ -2760,9 +1830,9 @@
               "longitude": -0.063939
             },
             "prices": {
-              "E10": 128.9,
+              "E10": 129.9,
               "E5": 128.7,
-              "B7": 134.9
+              "B7": 135.9
             }
           },
           {
@@ -3031,8 +2101,8 @@
               "longitude": -4.094542
             },
             "prices": {
-              "E10": 127.7,
-              "B7": 134.7
+              "E10": 128.7,
+              "B7": 135.7
             }
           },
           {
@@ -3105,8 +2175,8 @@
               "longitude": -1.462712
             },
             "prices": {
-              "E10": 123.7,
-              "B7": 131.7
+              "E10": 124.7,
+              "B7": 132.7
             }
           },
           {
@@ -3133,7 +2203,7 @@
               "longitude": -2.96952
             },
             "prices": {
-              "E10": 126.9,
+              "E10": 127.9,
               "B7": 132.9
             }
           },
@@ -3147,8 +2217,8 @@
               "longitude": -2.998387
             },
             "prices": {
-              "E10": 126.9,
-              "B7": 131.9
+              "E10": 127.9,
+              "B7": 132.9
             }
           },
           {
@@ -3251,8 +2321,8 @@
               "longitude": -1.728379
             },
             "prices": {
-              "E10": 125.7,
-              "B7": 132.7
+              "E10": 126.7,
+              "B7": 133.7
             }
           },
           {
@@ -6032,8 +5102,8 @@
               "longitude": 0.361967
             },
             "prices": {
-              "E10": 133.7,
-              "B7": 139.7
+              "E10": 134.7,
+              "B7": 140.7
             }
           },
           {
@@ -6136,8 +5206,8 @@
               "longitude": 0.278578
             },
             "prices": {
-              "E10": 133.9,
-              "B7": 138.9
+              "E10": 134.9,
+              "B7": 139.9
             }
           },
           {
@@ -6291,8 +5361,8 @@
               "longitude": -1.88621
             },
             "prices": {
-              "E10": 128.7,
-              "B7": 134.7,
+              "E10": 129.7,
+              "B7": 135.7,
               "SDV": 150
             }
           },
@@ -6780,8 +5850,8 @@
               "longitude": -0.373527
             },
             "prices": {
-              "E10": 128.7,
-              "B7": 133.7
+              "E10": 129.7,
+              "B7": 134.7
             }
           },
           {
@@ -6841,8 +5911,8 @@
               "longitude": -0.779515
             },
             "prices": {
-              "E10": 132.7,
-              "B7": 138.7
+              "E10": 131.7,
+              "B7": 137.7
             }
           },
           {
@@ -8041,8 +7111,8 @@
               "longitude": -1.769808
             },
             "prices": {
-              "E10": 125.9,
-              "B7": 132.9
+              "E10": 126.9,
+              "B7": 133.9
             }
           },
           {
@@ -8254,8 +7324,8 @@
               "longitude": -2.496633
             },
             "prices": {
-              "E10": 126.9,
-              "B7": 133.9
+              "E10": 127.9,
+              "B7": 134.9
             }
           },
           {
@@ -8420,7 +7490,7 @@
               "longitude": -1.168417
             },
             "prices": {
-              "E10": 125.7,
+              "E10": 126.7,
               "B7": 132.7
             }
           },
@@ -9268,7 +8338,7 @@
             },
             "prices": {
               "E10": 129.7,
-              "E5": 128.7,
+              "E5": 129.7,
               "B7": 132.7
             }
           },
@@ -9836,8 +8906,8 @@
               "longitude": -4.09854
             },
             "prices": {
-              "E10": 130.7,
-              "B7": 135.7
+              "E10": 131.7,
+              "B7": 136.7
             }
           },
           {
@@ -9970,7 +9040,7 @@
               "longitude": -2.13523
             },
             "prices": {
-              "E10": 128.7,
+              "E10": 127.7,
               "B7": 133.9
             }
           },
@@ -11076,8 +10146,8 @@
               "longitude": -2.740529
             },
             "prices": {
-              "E10": 125.7,
-              "B7": 132.7
+              "E10": 126.7,
+              "B7": 133.7
             }
           },
           {
@@ -11618,8 +10688,8 @@
               "longitude": 0.55522
             },
             "prices": {
-              "E10": 125.7,
-              "B7": 132.7
+              "E10": 126.7,
+              "B7": 133.7
             }
           },
           {
@@ -12285,8 +11355,8 @@
               "longitude": -3.082304
             },
             "prices": {
-              "E10": 128.7,
-              "B7": 131.7
+              "E10": 129.7,
+              "B7": 132.7
             }
           },
           {
@@ -12421,7 +11491,7 @@
               "longitude": 0.347092
             },
             "prices": {
-              "E10": 126.9,
+              "E10": 127.9,
               "B7": 133.9
             }
           },
@@ -12751,8 +11821,8 @@
               "longitude": -1.499387
             },
             "prices": {
-              "E10": 127.9,
-              "B7": 134.9
+              "E10": 128.9,
+              "B7": 135.9
             }
           },
           {
@@ -13043,8 +12113,8 @@
               "longitude": -2.629926
             },
             "prices": {
-              "E10": 124.9,
-              "B7": 130.9
+              "E10": 125.9,
+              "B7": 131.9
             }
           },
           {
@@ -13272,8 +12342,8 @@
               "longitude": -2.647467
             },
             "prices": {
-              "E10": 124.7,
-              "B7": 131.7
+              "E10": 125.7,
+              "B7": 132.7
             }
           },
           {
@@ -13720,7 +12790,7 @@
     {
       "name": "bp",
       "data": {
-        "last_updated": "16/06/2025 11:00:05",
+        "last_updated": "17/06/2025 11:00:05",
         "stations": [
           {
             "site_id": "gbux3kms73vy",
@@ -13748,10 +12818,10 @@
               "longitude": -3.66013
             },
             "prices": {
-              "E5": 146.9,
-              "E10": 126.9,
-              "B7": 131.9,
-              "SDV": 150.9
+              "E5": 147.9,
+              "E10": 127.9,
+              "B7": 132.9,
+              "SDV": 151.9
             }
           },
           {
@@ -13814,8 +12884,8 @@
             "prices": {
               "E5": 149.9,
               "E10": 129.9,
-              "B7": 133.9,
-              "SDV": 152.9
+              "B7": 134.9,
+              "SDV": 153.9
             }
           },
           {
@@ -13830,8 +12900,8 @@
             "prices": {
               "E5": 157.9,
               "E10": 137.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -13940,8 +13010,8 @@
               "longitude": -1.976028
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
+              "E5": 154.9,
+              "E10": 134.9,
               "B7": 137.9,
               "SDV": 156.9
             }
@@ -13972,10 +13042,10 @@
               "longitude": -1.75306
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 139.9,
-              "SDV": 158.9
+              "E5": 155.9,
+              "E10": 135.9,
+              "B7": 141.9,
+              "SDV": 160.9
             }
           },
           {
@@ -13988,10 +13058,10 @@
               "longitude": -1.45076
             },
             "prices": {
-              "E5": 175.9,
-              "E10": 155.9,
-              "B7": 162.9,
-              "SDV": 181.9
+              "E5": 176.9,
+              "E10": 156.9,
+              "B7": 164.9,
+              "SDV": 183.9
             }
           },
           {
@@ -14004,10 +13074,10 @@
               "longitude": -1.44663
             },
             "prices": {
-              "E5": 175.9,
-              "E10": 155.9,
-              "B7": 162.9,
-              "SDV": 181.9
+              "E5": 176.9,
+              "E10": 156.9,
+              "B7": 164.9,
+              "SDV": 183.9
             }
           },
           {
@@ -14038,8 +13108,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 134.9,
-              "B7": 136.9,
-              "SDV": 155.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -14052,10 +13122,10 @@
               "longitude": -1.41193
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 129.9,
-              "B7": 136.9,
-              "SDV": 155.9
+              "E5": 151.9,
+              "E10": 131.9,
+              "B7": 137.9,
+              "SDV": 156.9
             }
           },
           {
@@ -14086,8 +13156,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 134.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -14164,10 +13234,10 @@
               "longitude": -2.1161
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "E5": 153.9,
+              "E10": 133.9,
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -14262,8 +13332,8 @@
             "prices": {
               "E5": 151.9,
               "E10": 131.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -14310,8 +13380,8 @@
             "prices": {
               "E5": 159.9,
               "E10": 139.9,
-              "B7": 148.9,
-              "SDV": 167.9
+              "B7": 149.9,
+              "SDV": 168.9
             }
           },
           {
@@ -14372,10 +13442,10 @@
               "longitude": -1.08682
             },
             "prices": {
-              "E5": 156.9,
-              "E10": 136.9,
-              "B7": 142.9,
-              "SDV": 161.9
+              "E5": 157.9,
+              "E10": 137.9,
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -14404,10 +13474,10 @@
               "longitude": -1.04423
             },
             "prices": {
-              "E5": 158.9,
-              "E10": 138.9,
-              "B7": 142.9,
-              "SDV": 161.9
+              "E5": 159.9,
+              "E10": 139.9,
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -14468,8 +13538,8 @@
               "longitude": -0.870859
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
+              "E5": 155.9,
+              "E10": 135.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -14486,8 +13556,8 @@
             "prices": {
               "E5": 151.9,
               "E10": 131.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -14516,10 +13586,10 @@
               "longitude": -0.51007
             },
             "prices": {
-              "E5": 155.9,
-              "E10": 135.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "E5": 157.9,
+              "E10": 137.9,
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -14548,10 +13618,10 @@
               "longitude": -0.387306
             },
             "prices": {
-              "E5": 159.9,
-              "E10": 139.9,
-              "B7": 144.9,
-              "SDV": 163.9
+              "E5": 158.9,
+              "E10": 138.9,
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -14580,8 +13650,8 @@
               "longitude": -0.124763
             },
             "prices": {
-              "E5": 155.9,
-              "E10": 135.9,
+              "E5": 156.9,
+              "E10": 136.9,
               "B7": 142.9,
               "SDV": 161.9
             }
@@ -14676,10 +13746,10 @@
               "longitude": -0.263526
             },
             "prices": {
-              "E5": 151.9,
-              "E10": 131.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "E5": 152.9,
+              "E10": 132.9,
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -14694,8 +13764,8 @@
             "prices": {
               "E5": 152.9,
               "E10": 132.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -14708,8 +13778,8 @@
               "longitude": -0.33041
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
+              "E5": 154.9,
+              "E10": 134.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -14724,8 +13794,8 @@
               "longitude": -0.2121
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
+              "E5": 155.9,
+              "E10": 135.9,
               "B7": 141.9,
               "SDV": 160.9
             }
@@ -14742,8 +13812,8 @@
             "prices": {
               "E5": 158.9,
               "E10": 138.9,
-              "B7": 145.9,
-              "SDV": 164.9
+              "B7": 146.9,
+              "SDV": 165.9
             }
           },
           {
@@ -14756,10 +13826,10 @@
               "longitude": -0.15529
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "E5": 155.9,
+              "E10": 135.9,
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -14772,10 +13842,10 @@
               "longitude": -0.17045
             },
             "prices": {
-              "E5": 155.9,
-              "E10": 135.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "E5": 156.9,
+              "E10": 136.9,
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -14852,10 +13922,10 @@
               "longitude": -1.03346
             },
             "prices": {
-              "E5": 175.9,
-              "E10": 155.9,
-              "B7": 162.9,
-              "SDV": 181.9
+              "E5": 176.9,
+              "E10": 156.9,
+              "B7": 164.9,
+              "SDV": 183.9
             }
           },
           {
@@ -14868,10 +13938,10 @@
               "longitude": -1.031351
             },
             "prices": {
-              "E5": 175.9,
-              "E10": 155.9,
-              "B7": 162.9,
-              "SDV": 181.9
+              "E5": 176.9,
+              "E10": 156.9,
+              "B7": 164.9,
+              "SDV": 183.9
             }
           },
           {
@@ -14950,8 +14020,8 @@
             "prices": {
               "E5": 152.9,
               "E10": 132.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -15012,10 +14082,10 @@
               "longitude": -0.76101
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "E5": 156.9,
+              "E10": 136.9,
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -15028,8 +14098,8 @@
               "longitude": -0.71154
             },
             "prices": {
-              "E5": 159.9,
-              "E10": 139.9,
+              "E5": 161.9,
+              "E10": 141.9,
               "B7": 141.9,
               "SDV": 160.9
             }
@@ -15076,10 +14146,10 @@
               "longitude": -1.22863
             },
             "prices": {
-              "E5": 159.9,
-              "E10": 139.9,
-              "B7": 144.9,
-              "SDV": 163.9
+              "E5": 161.9,
+              "E10": 141.9,
+              "B7": 145.9,
+              "SDV": 164.9
             }
           },
           {
@@ -15108,10 +14178,10 @@
               "longitude": -0.98288
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
-              "B7": 139.9,
-              "SDV": 158.9
+              "E5": 155.9,
+              "E10": 135.9,
+              "B7": 141.9,
+              "SDV": 160.9
             }
           },
           {
@@ -15142,8 +14212,8 @@
             "prices": {
               "E5": 153.9,
               "E10": 133.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -15158,8 +14228,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 134.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -15220,10 +14290,10 @@
               "longitude": -0.5365
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "E5": 154.9,
+              "E10": 134.9,
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -15334,8 +14404,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 134.9,
-              "B7": 139.9,
-              "SDV": 158.9
+              "B7": 141.9,
+              "SDV": 160.9
             }
           },
           {
@@ -15380,8 +14450,8 @@
               "longitude": -0.43654
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
+              "E5": 153.9,
+              "E10": 133.9,
               "B7": 135.9,
               "SDV": 154.9
             }
@@ -15412,8 +14482,8 @@
               "longitude": -0.489086
             },
             "prices": {
-              "E5": 151.9,
-              "E10": 131.9,
+              "E5": 152.9,
+              "E10": 132.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -15462,8 +14532,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 136.9,
-              "B7": 142.9,
-              "SDV": 161.9
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -15556,8 +14626,8 @@
               "longitude": -0.21788
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
+              "E5": 155.9,
+              "E10": 135.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -15574,8 +14644,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 136.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -15590,8 +14660,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 136.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -15604,8 +14674,8 @@
               "longitude": -0.111
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
+              "E5": 154.9,
+              "E10": 134.9,
               "B7": 141.9,
               "SDV": 160.9
             }
@@ -15620,10 +14690,10 @@
               "longitude": -0.03774
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 143.9,
-              "SDV": 162.9
+              "E5": 155.9,
+              "E10": 135.9,
+              "B7": 144.9,
+              "SDV": 163.9
             }
           },
           {
@@ -15686,8 +14756,8 @@
             "prices": {
               "E5": 152.9,
               "E10": 132.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -15700,8 +14770,8 @@
               "longitude": -0.32541
             },
             "prices": {
-              "E5": 155.9,
-              "E10": 135.9,
+              "E5": 156.9,
+              "E10": 136.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -15718,8 +14788,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 136.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -15844,8 +14914,8 @@
               "longitude": -0.17512
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
+              "E5": 154.9,
+              "E10": 134.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -15860,8 +14930,8 @@
               "longitude": -0.13658
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
+              "E5": 154.9,
+              "E10": 134.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -15876,8 +14946,8 @@
               "longitude": -0.14172
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
+              "E5": 154.9,
+              "E10": 134.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -16036,8 +15106,8 @@
               "longitude": -0.21487
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
+              "E5": 155.9,
+              "E10": 135.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -16292,8 +15362,8 @@
               "longitude": -1.825718
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 129.9,
+              "E5": 148.9,
+              "E10": 128.9,
               "B7": 135.9,
               "SDV": 154.9
             }
@@ -16324,10 +15394,10 @@
               "longitude": -1.90612
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 129.9,
-              "B7": 135.9,
-              "SDV": 154.9
+              "E5": 151.9,
+              "E10": 131.9,
+              "B7": 136.9,
+              "SDV": 155.9
             }
           },
           {
@@ -16342,8 +15412,8 @@
             "prices": {
               "E5": 153.9,
               "E10": 133.9,
-              "B7": 139.9,
-              "SDV": 158.9
+              "B7": 141.9,
+              "SDV": 160.9
             }
           },
           {
@@ -16372,10 +15442,10 @@
               "longitude": -2.337502
             },
             "prices": {
-              "E5": 176.9,
-              "E10": 156.9,
-              "B7": 163.9,
-              "SDV": 182.9
+              "E5": 177.9,
+              "E10": 157.9,
+              "B7": 165.9,
+              "SDV": 184.9
             }
           },
           {
@@ -16388,10 +15458,10 @@
               "longitude": -2.335456
             },
             "prices": {
-              "E5": 176.9,
-              "E10": 156.9,
-              "B7": 163.9,
-              "SDV": 182.9
+              "E5": 177.9,
+              "E10": 157.9,
+              "B7": 165.9,
+              "SDV": 184.9
             }
           },
           {
@@ -16406,8 +15476,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 134.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -16436,10 +15506,10 @@
               "longitude": -2.21134
             },
             "prices": {
-              "E5": 148.9,
-              "E10": 128.9,
-              "B7": 135.9,
-              "SDV": 154.9
+              "E5": 149.9,
+              "E10": 129.9,
+              "B7": 136.9,
+              "SDV": 155.9
             }
           },
           {
@@ -16548,8 +15618,8 @@
               "longitude": -0.80058
             },
             "prices": {
-              "E5": 156.9,
-              "E10": 136.9,
+              "E5": 155.9,
+              "E10": 135.9,
               "B7": 143.9,
               "SDV": 162.9
             }
@@ -16564,8 +15634,8 @@
               "longitude": -0.71004
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
+              "E5": 155.9,
+              "E10": 135.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -16692,8 +15762,8 @@
               "longitude": -1.059653
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
+              "E5": 153.9,
+              "E10": 133.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -16836,10 +15906,10 @@
               "longitude": -0.25096
             },
             "prices": {
-              "E5": 161.9,
-              "E10": 141.9,
-              "B7": 149.9,
-              "SDV": 168.9
+              "E5": 162.9,
+              "E10": 142.9,
+              "B7": 151.9,
+              "SDV": 170.9
             }
           },
           {
@@ -16963,8 +16033,8 @@
               "longitude": -4.31102
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
+              "E5": 153.9,
+              "E10": 133.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -16979,8 +16049,8 @@
               "longitude": -4.27608
             },
             "prices": {
-              "E5": 157.9,
-              "E10": 137.9,
+              "E5": 158.9,
+              "E10": 138.9,
               "B7": 137.9,
               "SDV": 156.9
             }
@@ -17013,8 +16083,8 @@
             "prices": {
               "E5": 152.9,
               "E10": 132.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -17027,8 +16097,8 @@
               "longitude": -4.32058
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
+              "E5": 153.9,
+              "E10": 133.9,
               "B7": 138.9,
               "SDV": 157.9
             }
@@ -17189,8 +16259,8 @@
             "prices": {
               "E5": 157.9,
               "E10": 137.9,
-              "B7": 142.9,
-              "SDV": 161.9
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -17219,10 +16289,10 @@
               "longitude": -3.36559
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "E5": 155.9,
+              "E10": 135.9,
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -17235,10 +16305,10 @@
               "longitude": -3.40793
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "E5": 155.9,
+              "E10": 135.9,
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -17379,10 +16449,10 @@
               "longitude": -2.63674
             },
             "prices": {
-              "E5": 175.9,
-              "E10": 155.9,
-              "B7": 162.9,
-              "SDV": 181.9
+              "E5": 176.9,
+              "E10": 156.9,
+              "B7": 164.9,
+              "SDV": 183.9
             }
           },
           {
@@ -17395,10 +16465,10 @@
               "longitude": -1.248726
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "E5": 155.9,
+              "E10": 135.9,
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -17427,10 +16497,10 @@
               "longitude": -1.063798
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 129.9,
-              "B7": 135.9,
-              "SDV": 154.9
+              "E5": 151.9,
+              "E10": 131.9,
+              "B7": 136.9,
+              "SDV": 155.9
             }
           },
           {
@@ -17491,10 +16561,10 @@
               "longitude": -4.22135
             },
             "prices": {
-              "E5": 157.9,
-              "E10": 137.9,
-              "B7": 145.9,
-              "SDV": 164.9
+              "E5": 158.9,
+              "E10": 138.9,
+              "B7": 146.9,
+              "SDV": 165.9
             }
           },
           {
@@ -17557,8 +16627,8 @@
             "prices": {
               "E5": 155.9,
               "E10": 135.9,
-              "B7": 142.9,
-              "SDV": 161.9
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -17571,8 +16641,8 @@
               "longitude": -2.25407
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 129.9,
+              "E5": 151.9,
+              "E10": 131.9,
               "B7": 136.9,
               "SDV": 155.9
             }
@@ -17669,8 +16739,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 136.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -17733,8 +16803,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 136.9,
-              "B7": 142.9,
-              "SDV": 161.9
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -17765,8 +16835,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 134.9,
-              "B7": 139.9,
-              "SDV": 158.9
+              "B7": 141.9,
+              "SDV": 160.9
             }
           },
           {
@@ -17781,8 +16851,8 @@
             "prices": {
               "E5": 151.9,
               "E10": 131.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -17797,8 +16867,8 @@
             "prices": {
               "E5": 151.9,
               "E10": 131.9,
-              "B7": 136.9,
-              "SDV": 155.9
+              "B7": 137.9,
+              "SDV": 156.9
             }
           },
           {
@@ -17827,10 +16897,10 @@
               "longitude": 0.1109
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "E5": 153.9,
+              "E10": 133.9,
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -17861,8 +16931,8 @@
             "prices": {
               "E5": 153.9,
               "E10": 133.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -17939,8 +17009,8 @@
               "longitude": 0.08517
             },
             "prices": {
-              "E5": 151.9,
-              "E10": 131.9,
+              "E5": 152.9,
+              "E10": 132.9,
               "B7": 139.9,
               "SDV": 158.9
             }
@@ -17955,8 +17025,8 @@
               "longitude": 0.08175
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
+              "E5": 155.9,
+              "E10": 135.9,
               "B7": 144.9,
               "SDV": 163.9
             }
@@ -18067,10 +17137,10 @@
               "longitude": 0.51929
             },
             "prices": {
-              "E5": 151.9,
-              "E10": 131.9,
-              "B7": 136.9,
-              "SDV": 155.9
+              "E5": 152.9,
+              "E10": 132.9,
+              "B7": 137.9,
+              "SDV": 156.9
             }
           },
           {
@@ -18115,10 +17185,10 @@
               "longitude": 0.42408
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 129.9,
-              "B7": 135.9,
-              "SDV": 154.9
+              "E5": 151.9,
+              "E10": 131.9,
+              "B7": 137.9,
+              "SDV": 156.9
             }
           },
           {
@@ -18197,8 +17267,8 @@
             "prices": {
               "E5": 151.9,
               "E10": 131.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -18227,10 +17297,10 @@
               "longitude": 0.70174
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 132.9,
-              "B7": 139.9,
-              "SDV": 158.9
+              "E5": 151.9,
+              "E10": 131.9,
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -18277,8 +17347,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 136.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -18293,8 +17363,8 @@
             "prices": {
               "E5": 157.9,
               "E10": 137.9,
-              "B7": 142.9,
-              "SDV": 161.9
+              "B7": 143.9,
+              "SDV": 162.9
             }
           },
           {
@@ -18307,8 +17377,8 @@
               "longitude": 0.24814
             },
             "prices": {
-              "E5": 156.9,
-              "E10": 136.9,
+              "E5": 157.9,
+              "E10": 137.9,
               "B7": 142.9,
               "SDV": 161.9
             }
@@ -18325,8 +17395,8 @@
             "prices": {
               "E5": 153.9,
               "E10": 133.9,
-              "B7": 138.9,
-              "SDV": 157.9
+              "B7": 139.9,
+              "SDV": 158.9
             }
           },
           {
@@ -18341,8 +17411,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 134.9,
-              "B7": 146.9,
-              "SDV": 165.9
+              "B7": 147.9,
+              "SDV": 166.9
             }
           },
           {
@@ -18373,8 +17443,8 @@
             "prices": {
               "E5": 149.9,
               "E10": 129.9,
-              "B7": 137.9,
-              "SDV": 156.9
+              "B7": 138.9,
+              "SDV": 157.9
             }
           },
           {
@@ -18387,8 +17457,8 @@
               "longitude": 0.898565
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 133.9,
+              "E5": 154.9,
+              "E10": 134.9,
               "B7": 138.9,
               "SDV": 157.9
             }
@@ -18419,10 +17489,10 @@
               "longitude": 0.175593
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 134.9,
-              "B7": 141.9,
-              "SDV": 160.9
+              "E5": 156.9,
+              "E10": 136.9,
+              "B7": 142.9,
+              "SDV": 161.9
             }
           },
           {
@@ -18595,10 +17665,10 @@
               "longitude": 1.05124
             },
             "prices": {
-              "E5": 162.9,
-              "E10": 142.9,
-              "B7": 148.9,
-              "SDV": 167.9
+              "E5": 163.9,
+              "E10": 143.9,
+              "B7": 149.9,
+              "SDV": 168.9
             }
           },
           {
@@ -18627,10 +17697,10 @@
               "longitude": 1.316377
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 129.9,
-              "B7": 135.9,
-              "SDV": 154.9
+              "E5": 151.9,
+              "E10": 131.9,
+              "B7": 136.9,
+              "SDV": 155.9
             }
           },
           {
@@ -21318,7 +20388,7 @@
     {
       "name": "JET Retail UK",
       "data": {
-        "last_updated": "16/06/2025 10:45:17",
+        "last_updated": "17/06/2025 10:45:17",
         "stations": [
           {
             "site_id": "gcxc46cnjv5k",
@@ -21330,8 +20400,8 @@
               "longitude": -0.251061
             },
             "prices": {
-              "E5": 136.9,
-              "E10": 127.9,
+              "E5": 137.9,
+              "E10": 128.9,
               "B7": 135.9,
               "SDV": 144.9
             }
@@ -21363,7 +20433,7 @@
             },
             "prices": {
               "E5": 136.9,
-              "E10": 127.9,
+              "E10": 128.9,
               "B7": 135.9,
               "SDV": 144.9
             }
@@ -21378,8 +20448,8 @@
               "longitude": -1.06494
             },
             "prices": {
-              "E5": 136.9,
-              "E10": 127.9,
+              "E5": 137.9,
+              "E10": 128.9,
               "B7": 135.9,
               "SDV": 144.9
             }
@@ -21394,8 +20464,8 @@
               "longitude": -1.544487
             },
             "prices": {
-              "E5": 135.9,
-              "E10": 126.9,
+              "E5": 136.9,
+              "E10": 127.9,
               "B7": 134.9,
               "SDV": 143.9
             }
@@ -21426,8 +20496,8 @@
               "longitude": -1.154083
             },
             "prices": {
-              "E5": 136.9,
-              "E10": 127.9,
+              "E5": 137.9,
+              "E10": 128.9,
               "B7": 135.9,
               "SDV": 144.9
             }
@@ -21442,8 +20512,8 @@
               "longitude": -1.884935
             },
             "prices": {
-              "E5": 134.9,
-              "E10": 125.9,
+              "E5": 135.9,
+              "E10": 126.9,
               "B7": 134.9,
               "SDV": 143.9
             }
@@ -21498,7 +20568,7 @@
     {
       "name": "Morrisons",
       "data": {
-        "last_updated": "16/06/2025 10:30:15",
+        "last_updated": "17/06/2025 10:30:14",
         "stations": [
           {
             "site_id": "gcpvxdc3p8p9",
@@ -21564,7 +20634,7 @@
     {
       "name": "Moto",
       "data": {
-        "last_updated": "17/06/2025 05:58:00",
+        "last_updated": "17/06/2025 13:58:01",
         "stations": [
           {
             "site_id": "gcw2trbpdxqk",
@@ -31847,22 +30917,6 @@
             }
           },
           {
-            "site_id": "u1271p1ydncw",
-            "brand": "ESSO",
-            "address": "MFG Stone Cross, A10 Bexwell, Downham Market",
-            "postcode": "PE38 0AD",
-            "location": {
-              "latitude": 52.598199,
-              "longitude": 0.397999
-            },
-            "prices": {
-              "E10": 133.9,
-              "E5": 155.9,
-              "B7": 141.9,
-              "SDV": 159.9
-            }
-          },
-          {
             "site_id": "u12453r5h35u",
             "brand": "ESSO",
             "address": "MFG Witcham Toll, Ely Road, Witcham Toll / Ely",
@@ -39926,21 +38980,6 @@
             }
           },
           {
-            "site_id": "gcpy2v5gqmve",
-            "brand": "Morrisons",
-            "address": "MFG Morrisons St Albans, Hatfield Road, ST ALBANS",
-            "postcode": "AL1 4LW",
-            "location": {
-              "latitude": 51.751688,
-              "longitude": -0.313178
-            },
-            "prices": {
-              "E10": 132.9,
-              "E5": 145.9,
-              "B7": 138.9
-            }
-          },
-          {
             "site_id": "gcpyevw0d8p5",
             "brand": "Morrisons",
             "address": "MFG Morrisons Welwyn Garden City, Black Fan Road, WELWYN GARDEN CITY",
@@ -40541,22 +39580,6 @@
               "E5": 145.9,
               "B7": 136.9,
               "SDV": 146.9
-            }
-          },
-          {
-            "site_id": "gcpvf1v81766",
-            "brand": "Morrisons",
-            "address": "MFG Morrisons Borehamwood, Stirling Way, BOREHAMWOOD",
-            "postcode": "WD6 2BT",
-            "location": {
-              "latitude": 51.645373,
-              "longitude": -0.256062
-            },
-            "prices": {
-              "E10": 125.9,
-              "E5": 145.9,
-              "B7": 133.9,
-              "SDV": 143.9
             }
           },
           {
@@ -41594,9 +40617,9 @@
               "latitude": 52.98835
             },
             "prices": {
-              "E5": 140.9,
-              "E10": 126.9,
-              "B7": 132.9
+              "E5": 141.9,
+              "E10": 127.9,
+              "B7": 133.9
             },
             "site_id": "gcqmmqhzw267",
             "postcode": "ST5 4AE",
@@ -41654,9 +40677,9 @@
               "latitude": 53.63677
             },
             "prices": {
-              "E5": 143.9,
-              "E10": 129.9,
-              "B7": 137.9
+              "E5": 141.9,
+              "E10": 127.9,
+              "B7": 134.9
             },
             "site_id": "gcw9pk22gdtg",
             "postcode": "HD1 3QU",
@@ -41669,10 +40692,10 @@
               "latitude": 50.82871
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 151.9,
-              "E10": 133.9,
-              "B7": 137.9
+              "E5": 148.9,
+              "SDV": 152.9,
+              "E10": 134.9,
+              "B7": 138.9
             },
             "site_id": "gcp3nj44tn73",
             "postcode": "PO19 8FH",
@@ -41685,10 +40708,10 @@
               "latitude": 51.08286
             },
             "prices": {
-              "E5": 146.9,
-              "SDV": 151.9,
-              "E10": 132.9,
-              "B7": 139.9
+              "E5": 145.9,
+              "SDV": 152.9,
+              "E10": 131.9,
+              "B7": 138.9
             },
             "site_id": "u106xg35nprc",
             "postcode": "TN30 6DD",
@@ -41701,10 +40724,10 @@
               "latitude": 51.31804
             },
             "prices": {
-              "E5": 146.9,
-              "SDV": 153.9,
-              "E10": 132.9,
-              "B7": 139.9
+              "E5": 147.9,
+              "SDV": 154.9,
+              "E10": 133.9,
+              "B7": 140.9
             },
             "site_id": "gcpecynjm0hb",
             "postcode": "GU21 2PP",
@@ -41808,9 +40831,9 @@
               "latitude": 53.41001
             },
             "prices": {
-              "E5": 146.9,
-              "E10": 134.9,
-              "B7": 142.9
+              "E5": 147.9,
+              "E10": 133.9,
+              "B7": 138.9
             },
             "site_id": "gcqruduzbeqx",
             "postcode": "M22 4FW",
@@ -41839,9 +40862,9 @@
               "latitude": 52.90459
             },
             "prices": {
-              "SDV": 155.9,
-              "E10": 133.9,
-              "B7": 141.9
+              "SDV": 156.9,
+              "E10": 134.9,
+              "B7": 142.9
             },
             "site_id": "gcrscwbz86ks",
             "postcode": "NG31 6HS",
@@ -41854,9 +40877,9 @@
               "latitude": 55.06658
             },
             "prices": {
-              "SDV": 150.9,
-              "E10": 129.9,
-              "B7": 136.9
+              "SDV": 152.9,
+              "E10": 132.9,
+              "B7": 138.9
             },
             "site_id": "gcyc6b9fhdsb",
             "postcode": "NE13 6BP",
@@ -41900,9 +40923,9 @@
               "latitude": 53.07869
             },
             "prices": {
-              "E5": 143.9,
-              "E10": 129.9,
-              "B7": 133.9
+              "E5": 144.9,
+              "E10": 130.9,
+              "B7": 135.9
             },
             "site_id": "gcrjbntvg2gn",
             "postcode": "DE55 1BG",
@@ -42007,10 +41030,10 @@
               "latitude": 51.30584
             },
             "prices": {
-              "E5": 146.9,
-              "SDV": 153.9,
-              "E10": 132.9,
-              "B7": 139.9
+              "E5": 147.9,
+              "SDV": 154.9,
+              "E10": 133.9,
+              "B7": 140.9
             },
             "site_id": "gcpeceznhjc8",
             "postcode": "GU24 0HH",
@@ -42053,10 +41076,10 @@
               "latitude": 51.69813
             },
             "prices": {
-              "E5": 142.9,
-              "SDV": 151.9,
-              "E10": 130.9,
-              "B7": 137.9
+              "E5": 145.9,
+              "SDV": 152.9,
+              "E10": 131.9,
+              "B7": 138.9
             },
             "site_id": "gcjy5567mmcj",
             "postcode": "NP4 8AN",
@@ -42085,10 +41108,10 @@
               "latitude": 51.48483
             },
             "prices": {
-              "E5": 142.9,
-              "SDV": 148.9,
-              "E10": 128.9,
-              "B7": 134.9
+              "E5": 143.9,
+              "SDV": 149.9,
+              "E10": 129.9,
+              "B7": 135.9
             },
             "site_id": "gcjsys9bz5vj",
             "postcode": "CF5 1BP",
@@ -42101,9 +41124,9 @@
               "latitude": 51.50791
             },
             "prices": {
-              "SDV": 150.9,
-              "E10": 130.9,
-              "B7": 136.9
+              "SDV": 152.9,
+              "E10": 133.9,
+              "B7": 138.9
             },
             "site_id": "gcjm5b9r7f7g",
             "postcode": "CF33 4RE",
@@ -42132,9 +41155,9 @@
               "latitude": 51.53097
             },
             "prices": {
-              "E5": 141.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 142.9,
+              "E10": 128.9,
+              "B7": 136.9
             },
             "site_id": "gcnjjsfj9mpc",
             "postcode": "BS34 5BB",
@@ -42147,10 +41170,10 @@
               "latitude": 51.01237
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 150.9,
-              "E10": 130.9,
-              "B7": 136.9
+              "E5": 143.9,
+              "SDV": 147.9,
+              "E10": 129.9,
+              "B7": 133.9
             },
             "site_id": "gcjf0yd2tej8",
             "postcode": "TA1 5LU",
@@ -42179,9 +41202,9 @@
               "latitude": 53.74744
             },
             "prices": {
-              "E5": 150.9,
-              "E10": 136.9,
-              "B7": 141.9
+              "E5": 151.9,
+              "E10": 137.9,
+              "B7": 142.9
             },
             "site_id": "gcxccb3tt340",
             "postcode": "HU9 5QN",
@@ -42194,10 +41217,10 @@
               "latitude": 55.03791
             },
             "prices": {
-              "E5": 146.9,
-              "SDV": 151.9,
-              "E10": 132.9,
-              "B7": 137.9
+              "E5": 147.9,
+              "SDV": 152.9,
+              "E10": 133.9,
+              "B7": 138.9
             },
             "site_id": "gcycjem54409",
             "postcode": "NE27 0HH",
@@ -42210,10 +41233,10 @@
               "latitude": 51.56361
             },
             "prices": {
-              "E5": 143.9,
-              "SDV": 150.9,
-              "E10": 129.9,
-              "B7": 136.9
+              "E5": 144.9,
+              "SDV": 151.9,
+              "E10": 130.9,
+              "B7": 137.9
             },
             "site_id": "u10mqdgeb3s6",
             "postcode": "SS9 4QR",
@@ -42272,9 +41295,9 @@
               "latitude": 52.44136
             },
             "prices": {
-              "E5": 145.9,
-              "E10": 131.9,
-              "B7": 137.9
+              "E5": 146.9,
+              "E10": 132.9,
+              "B7": 138.9
             },
             "site_id": "gcqd748t16n9",
             "postcode": "B29 5RR",
@@ -42303,9 +41326,9 @@
               "latitude": 51.43071
             },
             "prices": {
-              "E5": 142.9,
-              "E10": 128.9,
-              "B7": 135.9
+              "E5": 143.9,
+              "E10": 129.9,
+              "B7": 136.9
             },
             "site_id": "gcnhxdej97hz",
             "postcode": "BS30 6EF",
@@ -42347,8 +41370,8 @@
               "latitude": 53.90422
             },
             "prices": {
-              "E10": 133.9,
-              "B7": 141.9
+              "E10": 135.9,
+              "B7": 143.9
             },
             "site_id": "gcwddubwb6vv",
             "postcode": "BD20 7DT",
@@ -42361,10 +41384,10 @@
               "latitude": 52.42837
             },
             "prices": {
-              "E5": 145.9,
+              "E5": 146.9,
               "SDV": 149.9,
-              "E10": 131.9,
-              "B7": 134.9
+              "E10": 132.9,
+              "B7": 135.9
             },
             "site_id": "gcqfr0r97ue9",
             "postcode": "CV2 2EU",
@@ -42435,8 +41458,8 @@
               "latitude": 52.39235
             },
             "prices": {
-              "E10": 132.9,
-              "B7": 139.9
+              "E10": 133.9,
+              "B7": 140.9
             },
             "site_id": "gcqd51wpw9bm",
             "postcode": "B31 4QH",
@@ -42527,9 +41550,9 @@
               "latitude": 53.80479
             },
             "prices": {
-              "E5": 147.9,
+              "E5": 146.9,
               "SDV": 153.9,
-              "E10": 133.9,
+              "E10": 132.9,
               "B7": 139.9
             },
             "site_id": "gcwf54ge9eu4",
@@ -42543,10 +41566,10 @@
               "latitude": 54.91356
             },
             "prices": {
-              "E5": 141.9,
-              "SDV": 148.9,
-              "E10": 127.9,
-              "B7": 134.9
+              "E5": 142.9,
+              "SDV": 149.9,
+              "E10": 128.9,
+              "B7": 135.9
             },
             "site_id": "gcybrheq9jwb",
             "postcode": "SR5 3NX",
@@ -42590,10 +41613,10 @@
               "latitude": 51.12816
             },
             "prices": {
-              "E5": 146.9,
-              "SDV": 153.9,
-              "E10": 131.9,
-              "B7": 138.9
+              "E5": 147.9,
+              "SDV": 154.9,
+              "E10": 132.9,
+              "B7": 139.9
             },
             "site_id": "gcpfzes745zd",
             "postcode": "RH19 1DJ",
@@ -42622,10 +41645,10 @@
               "latitude": 51.34535
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 152.9,
-              "E10": 132.9,
-              "B7": 137.9
+              "E5": 148.9,
+              "SDV": 153.9,
+              "E10": 133.9,
+              "B7": 138.9
             },
             "site_id": "u10h47ns66bp",
             "postcode": "BR6 7SE",
@@ -42685,10 +41708,10 @@
               "latitude": 51.43716
             },
             "prices": {
-              "E5": 150.9,
-              "SDV": 156.9,
-              "E10": 135.9,
-              "B7": 141.9
+              "E5": 151.9,
+              "SDV": 157.9,
+              "E10": 136.9,
+              "B7": 142.9
             },
             "site_id": "u10ht7v5pmx5",
             "postcode": "DA1 1YT",
@@ -42701,10 +41724,10 @@
               "latitude": 51.35157
             },
             "prices": {
-              "E5": 150.9,
-              "SDV": 158.9,
-              "E10": 135.9,
-              "B7": 143.9
+              "E5": 151.9,
+              "SDV": 167.9,
+              "E10": 136.9,
+              "B7": 144.9
             },
             "site_id": "gcpuphk2s4mq",
             "postcode": "CR2 8JT",
@@ -42717,10 +41740,10 @@
               "latitude": 51.45028
             },
             "prices": {
-              "E5": 149.9,
-              "SDV": 154.9,
-              "E10": 134.9,
-              "B7": 139.9
+              "E5": 150.9,
+              "SDV": 155.9,
+              "E10": 135.9,
+              "B7": 140.9
             },
             "site_id": "u10hww4xseqf",
             "postcode": "DA9 9EJ",
@@ -42733,10 +41756,10 @@
               "latitude": 51.75852
             },
             "prices": {
-              "E5": 149.9,
-              "SDV": 155.9,
-              "E10": 135.9,
-              "B7": 141.9
+              "E5": 150.9,
+              "SDV": 156.9,
+              "E10": 136.9,
+              "B7": 142.9
             },
             "site_id": "u10n6w7ejpkn",
             "postcode": "CM18 6NQ",
@@ -42797,10 +41820,10 @@
               "latitude": 51.56755
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 149.9,
-              "E10": 130.9,
-              "B7": 135.9
+              "E5": 145.9,
+              "SDV": 150.9,
+              "E10": 131.9,
+              "B7": 136.9
             },
             "site_id": "gcpvr5xfc0p1",
             "postcode": "E10 7PN",
@@ -42813,9 +41836,9 @@
               "latitude": 52.45101
             },
             "prices": {
-              "E5": 145.9,
-              "E10": 131.9,
-              "B7": 138.9
+              "E5": 146.9,
+              "E10": 132.9,
+              "B7": 139.9
             },
             "site_id": "gcqdmh2mq2vj",
             "postcode": "B13 8AA",
@@ -42921,9 +41944,9 @@
               "latitude": 50.84584
             },
             "prices": {
-              "SDV": 153.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "SDV": 154.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "gcn9r01y7zd9",
             "postcode": "BH24 2AA",
@@ -42936,9 +41959,9 @@
               "latitude": 51.49168
             },
             "prices": {
-              "E5": 144.9,
-              "E10": 130.9,
-              "B7": 136.9
+              "E5": 151.9,
+              "E10": 136.9,
+              "B7": 142.9
             },
             "site_id": "gcpucjf0z0b5",
             "postcode": "TW8 9AD",
@@ -42951,9 +41974,9 @@
               "latitude": 51.73289
             },
             "prices": {
-              "E5": 146.9,
-              "E10": 132.9,
-              "B7": 137.9
+              "E5": 147.9,
+              "E10": 133.9,
+              "B7": 138.9
             },
             "site_id": "u10q63smcmxv",
             "postcode": "CM1 2RY",
@@ -42966,10 +41989,10 @@
               "latitude": 53.73331
             },
             "prices": {
-              "E5": 140.9,
-              "SDV": 147.9,
-              "E10": 126.9,
-              "B7": 133.9
+              "E5": 141.9,
+              "SDV": 148.9,
+              "E10": 127.9,
+              "B7": 134.9
             },
             "site_id": "gcw9xvg7pqgr",
             "postcode": "BD12 9LN",
@@ -42982,9 +42005,9 @@
               "latitude": 52.58494
             },
             "prices": {
-              "E5": 145.9,
-              "E10": 131.9,
-              "B7": 136.9
+              "E5": 146.9,
+              "E10": 132.9,
+              "B7": 137.9
             },
             "site_id": "gcr5nuuc7pm3",
             "postcode": "LE18 1PA",
@@ -42997,9 +42020,9 @@
               "latitude": 53.35439
             },
             "prices": {
-              "E5": 143.9,
-              "E10": 129.9,
-              "B7": 138.9
+              "E5": 144.9,
+              "E10": 130.9,
+              "B7": 139.9
             },
             "site_id": "gcqzw2c5z5pv",
             "postcode": "S8 0RS",
@@ -43012,10 +42035,10 @@
               "latitude": 52.36755
             },
             "prices": {
-              "E5": 143.9,
-              "SDV": 153.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 144.9,
+              "SDV": 151.9,
+              "E10": 130.9,
+              "B7": 137.9
             },
             "site_id": "gcq9vj4ph4ze",
             "postcode": "B47 6AP",
@@ -43028,9 +42051,9 @@
               "latitude": 53.72733
             },
             "prices": {
-              "E5": 142.9,
+              "E5": 144.9,
               "SDV": 150.9,
-              "E10": 128.9,
+              "E10": 130.9,
               "B7": 136.9
             },
             "site_id": "gcx9xky27snp",
@@ -43060,10 +42083,10 @@
               "latitude": 51.3455
             },
             "prices": {
-              "E5": 146.9,
-              "SDV": 153.9,
-              "E10": 132.9,
-              "B7": 139.9
+              "E5": 147.9,
+              "SDV": 154.9,
+              "E10": 133.9,
+              "B7": 140.9
             },
             "site_id": "gcps470vjybv",
             "postcode": "GU24 8AJ",
@@ -43077,9 +42100,9 @@
             },
             "prices": {
               "E5": 150.9,
-              "SDV": 154.9,
+              "SDV": 165.9,
               "E10": 136.9,
-              "B7": 140.9
+              "B7": 143.9
             },
             "site_id": "gcpcj7jcj1qm",
             "postcode": "BN2 5JJ",
@@ -43123,9 +42146,9 @@
               "latitude": 53.73276
             },
             "prices": {
-              "E5": 143.9,
-              "E10": 129.9,
-              "B7": 135.9
+              "E5": 144.9,
+              "E10": 130.9,
+              "B7": 136.9
             },
             "site_id": "gcx9wjubh0qn",
             "postcode": "HU13 9AU",
@@ -43274,10 +42297,10 @@
               "latitude": 51.74019
             },
             "prices": {
-              "E5": 150.9,
-              "SDV": 165.9,
-              "E10": 136.9,
-              "B7": 143.9
+              "E5": 146.9,
+              "SDV": 153.9,
+              "E10": 132.9,
+              "B7": 139.9
             },
             "site_id": "gcnqmen2mqrr",
             "postcode": "GL5 2AX",
@@ -43305,9 +42328,9 @@
               "latitude": 51.75758
             },
             "prices": {
-              "E5": 142.9,
-              "E10": 128.9,
-              "B7": 136.9
+              "E5": 143.9,
+              "E10": 129.9,
+              "B7": 137.9
             },
             "site_id": "gchqqq4my80q",
             "postcode": "SA62 3PJ",
@@ -43320,10 +42343,10 @@
               "latitude": 51.58035
             },
             "prices": {
-              "E5": 145.9,
-              "SDV": 153.9,
-              "E10": 131.9,
-              "B7": 139.9
+              "E5": 146.9,
+              "SDV": 154.9,
+              "E10": 132.9,
+              "B7": 140.9
             },
             "site_id": "u10jmmgvr4jh",
             "postcode": "RM11 3EA",
@@ -43351,10 +42374,10 @@
               "latitude": 53.77289
             },
             "prices": {
-              "E5": 145.9,
-              "SDV": 150.9,
-              "E10": 131.9,
-              "B7": 136.9
+              "E5": 146.9,
+              "SDV": 151.9,
+              "E10": 132.9,
+              "B7": 137.9
             },
             "site_id": "gcxcbtj1v1nx",
             "postcode": "HU7 0DF",
@@ -43367,9 +42390,9 @@
               "latitude": 51.36721
             },
             "prices": {
-              "E5": 142.9,
-              "E10": 128.9,
-              "B7": 132.9
+              "E5": 143.9,
+              "E10": 129.9,
+              "B7": 133.9
             },
             "site_id": "gcnkpr1gdjgx",
             "postcode": "SN12 6DE",
@@ -43382,9 +42405,9 @@
               "latitude": 51.2572
             },
             "prices": {
-              "SDV": 148.9,
-              "E10": 131.9,
-              "B7": 134.9
+              "SDV": 149.9,
+              "E10": 132.9,
+              "B7": 135.9
             },
             "site_id": "gcn7w70fg4xg",
             "postcode": "BA13 3PJ",
@@ -43397,10 +42420,10 @@
               "latitude": 51.90508
             },
             "prices": {
-              "E5": 148.9,
-              "SDV": 152.9,
-              "E10": 134.9,
-              "B7": 138.9
+              "E5": 147.9,
+              "SDV": 153.9,
+              "E10": 133.9,
+              "B7": 139.9
             },
             "site_id": "u10pk3j3524q",
             "postcode": "CM24 8BX",
@@ -43429,10 +42452,10 @@
               "latitude": 51.66811
             },
             "prices": {
-              "E5": 141.9,
-              "SDV": 147.9,
-              "E10": 127.9,
-              "B7": 133.9
+              "E5": 142.9,
+              "SDV": 148.9,
+              "E10": 128.9,
+              "B7": 134.9
             },
             "site_id": "gcptyvyuecf9",
             "postcode": "WD24 4AE",
@@ -43476,9 +42499,9 @@
               "latitude": 52.33845
             },
             "prices": {
-              "SDV": 160.9,
-              "E10": 136.9,
-              "B7": 145.9
+              "SDV": 161.9,
+              "E10": 137.9,
+              "B7": 146.9
             },
             "site_id": "u123sput84hz",
             "postcode": "IP28 6AE",
@@ -43507,10 +42530,10 @@
               "latitude": 51.12393
             },
             "prices": {
-              "E5": 149.9,
-              "SDV": 156.9,
-              "E10": 134.9,
-              "B7": 141.9
+              "E5": 150.9,
+              "SDV": 157.9,
+              "E10": 135.9,
+              "B7": 142.9
             },
             "site_id": "u104vdz4rz7c",
             "postcode": "TN4 8HJ",
@@ -43538,10 +42561,10 @@
               "latitude": 52.50011
             },
             "prices": {
-              "E5": 143.9,
-              "SDV": 165.9,
-              "E10": 128.9,
-              "B7": 134.9
+              "E5": 144.9,
+              "SDV": 149.9,
+              "E10": 130.9,
+              "B7": 135.9
             },
             "site_id": "gcqdxvq7k9cf",
             "postcode": "B36 0LB",
@@ -43570,10 +42593,10 @@
               "latitude": 53.1775
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 149.9,
-              "E10": 130.9,
-              "B7": 135.9
+              "E5": 150.9,
+              "SDV": 157.9,
+              "E10": 136.9,
+              "B7": 143.9
             },
             "site_id": "gcrw98xv7s6z",
             "postcode": "LN6 9AJ",
@@ -43617,10 +42640,10 @@
               "latitude": 50.83995
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 153.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 150.9,
+              "SDV": 154.9,
+              "E10": 136.9,
+              "B7": 140.9
             },
             "site_id": "gcp95xjkhvd4",
             "postcode": "BN17 7QQ",
@@ -43633,10 +42656,10 @@
               "latitude": 52.42832
             },
             "prices": {
-              "E5": 148.9,
-              "SDV": 152.9,
-              "E10": 134.9,
-              "B7": 138.9
+              "E5": 149.9,
+              "SDV": 153.9,
+              "E10": 135.9,
+              "B7": 139.9
             },
             "site_id": "gcqfmb3c5e4w",
             "postcode": "CV6 5NY",
@@ -43665,9 +42688,9 @@
               "latitude": 51.39734
             },
             "prices": {
-              "SDV": 150.9,
-              "E10": 132.9,
-              "B7": 136.9
+              "SDV": 151.9,
+              "E10": 133.9,
+              "B7": 137.9
             },
             "site_id": "gcphmk851qde",
             "postcode": "RG7 5RT",
@@ -43680,10 +42703,10 @@
               "latitude": 52.2991
             },
             "prices": {
-              "E5": 141.9,
-              "SDV": 152.9,
-              "E10": 132.9,
-              "B7": 138.9
+              "E5": 142.9,
+              "SDV": 151.9,
+              "E10": 128.9,
+              "B7": 137.9
             },
             "site_id": "gcr998z0k4ce",
             "postcode": "NN10 6AP",
@@ -43724,10 +42747,10 @@
               "latitude": 54.95326
             },
             "prices": {
-              "E5": 145.9,
-              "SDV": 150.9,
-              "E10": 131.9,
-              "B7": 136.9
+              "E5": 146.9,
+              "SDV": 151.9,
+              "E10": 132.9,
+              "B7": 137.9
             },
             "site_id": "gcybdgcmuw4k",
             "postcode": "NE8 2QX",
@@ -43755,10 +42778,10 @@
               "latitude": 53.75567
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 153.9,
-              "E10": 130.9,
-              "B7": 139.9
+              "E5": 145.9,
+              "SDV": 154.9,
+              "E10": 131.9,
+              "B7": 140.9
             },
             "site_id": "gcwcg1cm2xnm",
             "postcode": "LS27 7LG",
@@ -43772,9 +42795,9 @@
             },
             "prices": {
               "E5": 144.9,
-              "SDV": 151.9,
+              "SDV": 149.9,
               "E10": 130.9,
-              "B7": 137.9
+              "B7": 135.9
             },
             "site_id": "gcw9y8g2zue2",
             "postcode": "HX3 7JT",
@@ -43819,10 +42842,10 @@
               "latitude": 52.04794
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 153.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 148.9,
+              "SDV": 154.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "gcr2ng190phz",
             "postcode": "MK14 7BF",
@@ -43866,10 +42889,10 @@
               "latitude": 50.70731
             },
             "prices": {
-              "E5": 143.9,
-              "SDV": 151.9,
-              "E10": 130.9,
-              "B7": 137.9
+              "E5": 145.9,
+              "SDV": 152.9,
+              "E10": 131.9,
+              "B7": 138.9
             },
             "site_id": "gcj2rqzzmzen",
             "postcode": "EX2 8NA",
@@ -43882,9 +42905,9 @@
               "latitude": 51.23787
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 135.9,
-              "B7": 139.9
+              "E5": 150.9,
+              "E10": 136.9,
+              "B7": 140.9
             },
             "site_id": "gcjg7zdfpppz",
             "postcode": "TA8 1EW",
@@ -43897,10 +42920,10 @@
               "latitude": 51.50852
             },
             "prices": {
-              "E5": 154.9,
-              "SDV": 164.9,
-              "E10": 139.9,
-              "B7": 149.9
+              "E5": 155.9,
+              "SDV": 165.9,
+              "E10": 140.9,
+              "B7": 150.9
             },
             "site_id": "gcjthbb4cup4",
             "postcode": "CF72 8SA",
@@ -43913,10 +42936,10 @@
               "latitude": 51.41207
             },
             "prices": {
-              "E5": 142.9,
-              "SDV": 149.9,
-              "E10": 128.9,
-              "B7": 135.9
+              "E5": 143.9,
+              "SDV": 150.9,
+              "E10": 129.9,
+              "B7": 136.9
             },
             "site_id": "gcnhrr33hbkr",
             "postcode": "BS31 1NN",
@@ -43929,10 +42952,10 @@
               "latitude": 54.6091
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 149.9,
-              "E10": 133.9,
-              "B7": 138.9
+              "E5": 142.9,
+              "SDV": 150.9,
+              "E10": 128.9,
+              "B7": 136.9
             },
             "site_id": "gcwysm31h6nf",
             "postcode": "DL5 6EH",
@@ -44023,10 +43046,10 @@
               "latitude": 51.40966
             },
             "prices": {
-              "E5": 149.9,
-              "SDV": 153.9,
-              "E10": 135.9,
-              "B7": 139.9
+              "E5": 150.9,
+              "SDV": 154.9,
+              "E10": 136.9,
+              "B7": 140.9
             },
             "site_id": "u10h7qbfgzjp",
             "postcode": "DA14 5JA",
@@ -44039,9 +43062,9 @@
               "latitude": 52.58389
             },
             "prices": {
-              "E5": 146.9,
-              "E10": 132.9,
-              "B7": 142.9
+              "E5": 147.9,
+              "E10": 133.9,
+              "B7": 143.9
             },
             "site_id": "gcrens852ewd",
             "postcode": "PE8 6LB",
@@ -44086,10 +43109,10 @@
               "latitude": 51.39311
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 153.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 148.9,
+              "SDV": 154.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "gcjs6ecfwdp4",
             "postcode": "CF62 4JA",
@@ -44165,10 +43188,10 @@
               "latitude": 51.66229
             },
             "prices": {
-              "E5": 141.9,
-              "SDV": 148.9,
-              "E10": 127.9,
-              "B7": 134.9
+              "E5": 142.9,
+              "SDV": 149.9,
+              "E10": 128.9,
+              "B7": 135.9
             },
             "site_id": "gcjjzhfddhfg",
             "postcode": "SA7 9AD",
@@ -44181,10 +43204,10 @@
               "latitude": 51.2375
             },
             "prices": {
-              "E5": 148.9,
-              "SDV": 154.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 149.9,
+              "SDV": 155.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "gcpg2xe8h430",
             "postcode": "RH4 1JA",
@@ -44213,10 +43236,10 @@
               "latitude": 51.38516
             },
             "prices": {
-              "E5": 143.9,
-              "SDV": 151.9,
-              "E10": 133.9,
-              "B7": 137.9
+              "E5": 144.9,
+              "SDV": 150.9,
+              "E10": 130.9,
+              "B7": 136.9
             },
             "site_id": "u10k6fmsk047",
             "postcode": "ME2 2NY",
@@ -44244,10 +43267,10 @@
               "latitude": 51.43962
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 153.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 148.9,
+              "SDV": 154.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "u10hss23804j",
             "postcode": "DA1 2PZ",
@@ -44275,10 +43298,10 @@
               "latitude": 51.39206
             },
             "prices": {
-              "E5": 148.9,
-              "SDV": 154.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 149.9,
+              "SDV": 155.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "gcnk67wuknqg",
             "postcode": "BA1 6PF",
@@ -44291,10 +43314,10 @@
               "latitude": 50.71951
             },
             "prices": {
-              "E5": 150.9,
-              "SDV": 157.9,
-              "E10": 135.9,
-              "B7": 142.9
+              "E5": 151.9,
+              "SDV": 158.9,
+              "E10": 136.9,
+              "B7": 143.9
             },
             "site_id": "gcj2835n89zq",
             "postcode": "EX20 2QT",
@@ -44307,10 +43330,10 @@
               "latitude": 51.54068
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 152.9,
-              "E10": 130.9,
-              "B7": 138.9
+              "E5": 145.9,
+              "SDV": 153.9,
+              "E10": 131.9,
+              "B7": 139.9
             },
             "site_id": "gcnm0wwn5z55",
             "postcode": "BS37 4PS",
@@ -44323,9 +43346,9 @@
               "latitude": 51.96994
             },
             "prices": {
-              "E5": 145.9,
-              "E10": 131.9,
-              "B7": 136.9
+              "E5": 146.9,
+              "E10": 132.9,
+              "B7": 137.9
             },
             "site_id": "gcpzehu4udbp",
             "postcode": "SG6 2AZ",
@@ -44354,10 +43377,10 @@
               "latitude": 51.39019
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 154.9,
-              "E10": 133.9,
-              "B7": 140.9
+              "E5": 148.9,
+              "SDV": 155.9,
+              "E10": 134.9,
+              "B7": 141.9
             },
             "site_id": "gcpukgrcs3v0",
             "postcode": "CR0 3AB",
@@ -44370,10 +43393,10 @@
               "latitude": 51.5293
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 154.9,
-              "E10": 132.9,
-              "B7": 139.9
+              "E5": 148.9,
+              "SDV": 155.9,
+              "E10": 133.9,
+              "B7": 140.9
             },
             "site_id": "u10j1uwgfj8p",
             "postcode": "IG11 0AT",
@@ -44386,8 +43409,8 @@
               "latitude": 52.9221
             },
             "prices": {
-              "E10": 134.9,
-              "B7": 140.9
+              "E10": 128.9,
+              "B7": 134.9
             },
             "site_id": "gcrj54njd4qr",
             "postcode": "NG9 7JD",
@@ -44400,9 +43423,9 @@
               "latitude": 51.80993
             },
             "prices": {
-              "SDV": 153.9,
-              "E10": 136.9,
-              "B7": 139.9
+              "SDV": 162.9,
+              "E10": 137.9,
+              "B7": 140.9
             },
             "site_id": "gcpyxrwydwcq",
             "postcode": "SG12 7AQ",
@@ -44446,9 +43469,9 @@
               "latitude": 52.5349
             },
             "prices": {
-              "E5": 143.9,
-              "E10": 129.9,
-              "B7": 134.9
+              "E5": 144.9,
+              "E10": 130.9,
+              "B7": 135.9
             },
             "site_id": "gcqdggwjzppm",
             "postcode": "B43 5EP",
@@ -44581,7 +43604,7 @@
             },
             "prices": {
               "E10": 133.9,
-              "B7": 138.9
+              "B7": 139.9
             },
             "site_id": "gcq3u23jd108",
             "postcode": "DY13 9AN",
@@ -44626,9 +43649,9 @@
               "latitude": 51.03582
             },
             "prices": {
-              "E5": 148.9,
-              "E10": 134.9,
-              "B7": 139.9
+              "E5": 149.9,
+              "E10": 135.9,
+              "B7": 140.9
             },
             "site_id": "gcn6k4y9pqqs",
             "postcode": "SP8 4UA",
@@ -44779,9 +43802,9 @@
               "latitude": 53.63761
             },
             "prices": {
-              "E5": 140.9,
-              "E10": 126.9,
-              "B7": 132.9
+              "E5": 141.9,
+              "E10": 127.9,
+              "B7": 133.9
             },
             "site_id": "gcwc0skm9p0q",
             "postcode": "HD5 8RL",
@@ -44809,9 +43832,9 @@
               "latitude": 51.43324
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 135.9,
-              "B7": 143.9
+              "E5": 150.9,
+              "E10": 136.9,
+              "B7": 144.9
             },
             "site_id": "gcpueg1s36fg",
             "postcode": "SW17 0NP",
@@ -44824,9 +43847,9 @@
               "latitude": 51.36227
             },
             "prices": {
-              "E5": 147.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 148.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "gcns5n4nvvh6",
             "postcode": "SN10 2EP",
@@ -44869,9 +43892,9 @@
               "latitude": 51.22729
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 135.9,
-              "B7": 139.9
+              "E5": 150.9,
+              "E10": 136.9,
+              "B7": 140.9
             },
             "site_id": "gcjgkj9hs4ux",
             "postcode": "TA9 3EJ",
@@ -44900,10 +43923,10 @@
               "latitude": 53.79648
             },
             "prices": {
-              "E5": 145.9,
+              "E5": 144.9,
               "SDV": 150.9,
-              "E10": 129.9,
-              "B7": 135.9
+              "E10": 130.9,
+              "B7": 136.9
             },
             "site_id": "gctfh1655nsr",
             "postcode": "FY4 4XQ",
@@ -44931,9 +43954,9 @@
               "latitude": 53.12841
             },
             "prices": {
-              "SDV": 146.9,
-              "E10": 130.9,
-              "B7": 136.9
+              "SDV": 147.9,
+              "E10": 127.9,
+              "B7": 133.9
             },
             "site_id": "gcrnjz9z6t6y",
             "postcode": "NG18 4LE",
@@ -44961,10 +43984,10 @@
               "latitude": 52.74493
             },
             "prices": {
-              "E5": 143.9,
-              "SDV": 149.9,
-              "E10": 129.9,
-              "B7": 135.9
+              "E5": 144.9,
+              "SDV": 150.9,
+              "E10": 130.9,
+              "B7": 136.9
             },
             "site_id": "gcqsh3bv6x85",
             "postcode": "WS15 1DX",
@@ -44977,10 +44000,10 @@
               "latitude": 51.31017
             },
             "prices": {
-              "E5": 140.9,
-              "SDV": 149.9,
-              "E10": 126.9,
-              "B7": 135.9
+              "E5": 141.9,
+              "SDV": 150.9,
+              "E10": 127.9,
+              "B7": 136.9
             },
             "site_id": "u10gyswp6ubn",
             "postcode": "CT13 9NL",
@@ -45009,9 +44032,9 @@
               "latitude": 53.19336
             },
             "prices": {
-              "E5": 147.9,
-              "E10": 133.9,
-              "B7": 137.9
+              "E5": 150.9,
+              "E10": 136.9,
+              "B7": 144.9
             },
             "site_id": "gcrwegscz3h2",
             "postcode": "LN4 2ND",
@@ -45024,10 +44047,10 @@
               "latitude": 53.45371
             },
             "prices": {
-              "E5": 141.9,
-              "SDV": 147.9,
-              "E10": 127.9,
-              "B7": 133.9
+              "E5": 142.9,
+              "SDV": 148.9,
+              "E10": 128.9,
+              "B7": 134.9
             },
             "site_id": "gcw0hdbqqvf2",
             "postcode": "WA12 8BJ",
@@ -45056,9 +44079,9 @@
               "latitude": 52.99368
             },
             "prices": {
-              "SDV": 150.9,
+              "SDV": 151.9,
               "E10": 130.9,
-              "B7": 136.9
+              "B7": 137.9
             },
             "site_id": "gcmv7p0y81uy",
             "postcode": "LL14 6YY",
@@ -45071,10 +44094,10 @@
               "latitude": 51.29273
             },
             "prices": {
-              "E5": 150.9,
-              "SDV": 156.9,
-              "E10": 136.9,
-              "B7": 142.9
+              "E5": 151.9,
+              "SDV": 165.9,
+              "E10": 137.9,
+              "B7": 143.9
             },
             "site_id": "u10gbce3fccs",
             "postcode": "CT2 7PX",
@@ -45102,10 +44125,10 @@
               "latitude": 51.09558
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 154.9,
-              "E10": 132.9,
-              "B7": 139.9
+              "E5": 148.9,
+              "SDV": 155.9,
+              "E10": 133.9,
+              "B7": 140.9
             },
             "site_id": "u10f9t9j36mx",
             "postcode": "CT18 8XX",
@@ -45118,10 +44141,10 @@
               "latitude": 53.79547
             },
             "prices": {
-              "E5": 143.9,
-              "SDV": 147.9,
-              "E10": 127.9,
-              "B7": 133.9
+              "E5": 144.9,
+              "SDV": 150.9,
+              "E10": 130.9,
+              "B7": 136.9
             },
             "site_id": "gctf49jjm4qn",
             "postcode": "FY1 6BF",
@@ -45136,7 +44159,7 @@
             "prices": {
               "E5": 142.9,
               "E10": 128.9,
-              "B7": 134.9
+              "B7": 135.9
             },
             "site_id": "u10m4e8wy1xt",
             "postcode": "SS17 9AP",
@@ -45149,9 +44172,9 @@
               "latitude": 52.65927
             },
             "prices": {
-              "SDV": 150.9,
-              "E10": 129.9,
-              "B7": 136.9
+              "SDV": 151.9,
+              "E10": 130.9,
+              "B7": 137.9
             },
             "site_id": "gcr5x6kf6xkt",
             "postcode": "LE4 9UX",
@@ -45194,10 +44217,10 @@
               "latitude": 51.41834
             },
             "prices": {
-              "E5": 141.9,
-              "SDV": 148.9,
-              "E10": 127.9,
-              "B7": 134.9
+              "E5": 142.9,
+              "SDV": 149.9,
+              "E10": 128.9,
+              "B7": 135.9
             },
             "site_id": "gcnht06tt1k1",
             "postcode": "BS4 1UJ",
@@ -45210,9 +44233,9 @@
               "latitude": 52.5178
             },
             "prices": {
-              "SDV": 153.9,
-              "E10": 132.9,
-              "B7": 139.9
+              "SDV": 152.9,
+              "E10": 133.9,
+              "B7": 138.9
             },
             "site_id": "gcr4bbt47e7p",
             "postcode": "LE10 2JQ",
@@ -45240,9 +44263,9 @@
               "latitude": 50.82631
             },
             "prices": {
-              "SDV": 152.9,
-              "E10": 133.9,
-              "B7": 137.9
+              "SDV": 153.9,
+              "E10": 134.9,
+              "B7": 138.9
             },
             "site_id": "gcp3nkdksyuh",
             "postcode": "PO19 8TH",
@@ -45269,10 +44292,10 @@
               "latitude": 53.76965
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 149.9,
-              "E10": 130.9,
-              "B7": 135.9
+              "E5": 143.9,
+              "SDV": 150.9,
+              "E10": 129.9,
+              "B7": 136.9
             },
             "site_id": "gcx1zuknuvjp",
             "postcode": "YO8 8SQ",
@@ -45285,10 +44308,10 @@
               "latitude": 53.83456
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 149.9,
-              "E10": 130.9,
-              "B7": 135.9
+              "E5": 145.9,
+              "SDV": 150.9,
+              "E10": 131.9,
+              "B7": 136.9
             },
             "site_id": "gcxdq8qcj97e",
             "postcode": "HU17 0XL",
@@ -45331,9 +44354,9 @@
               "latitude": 50.86472
             },
             "prices": {
-              "E5": 148.9,
-              "E10": 134.9,
-              "B7": 141.9
+              "E5": 149.9,
+              "E10": 135.9,
+              "B7": 142.9
             },
             "site_id": "gcpcr58skxh1",
             "postcode": "BN7 3JJ",
@@ -45362,9 +44385,9 @@
               "latitude": 51.404
             },
             "prices": {
-              "E5": 146.9,
-              "E10": 132.9,
-              "B7": 136.9
+              "E5": 147.9,
+              "E10": 133.9,
+              "B7": 137.9
             },
             "site_id": "gcph7tgfh8nk",
             "postcode": "RG18 4LQ",
@@ -45377,10 +44400,10 @@
               "latitude": 54.96584
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 153.9,
-              "E10": 133.9,
-              "B7": 139.9
+              "E5": 148.9,
+              "SDV": 154.9,
+              "E10": 134.9,
+              "B7": 140.9
             },
             "site_id": "gcy8xnnz5xjz",
             "postcode": "NE40 4NU",
@@ -45439,8 +44462,8 @@
             },
             "prices": {
               "E5": 146.9,
-              "E10": 134.9,
-              "B7": 141.9
+              "E10": 135.9,
+              "B7": 142.9
             },
             "site_id": "u104znegqph5",
             "postcode": "TN2 4NG",
@@ -45468,9 +44491,9 @@
               "latitude": 50.82287
             },
             "prices": {
-              "E5": 146.9,
-              "E10": 132.9,
-              "B7": 136.9
+              "E5": 147.9,
+              "E10": 133.9,
+              "B7": 137.9
             },
             "site_id": "gcp1jkp8dm8s",
             "postcode": "PO13 0XL",
@@ -45483,9 +44506,9 @@
               "latitude": 50.91442
             },
             "prices": {
-              "E5": 150.9,
-              "E10": 136.9,
-              "B7": 143.9
+              "E5": 144.9,
+              "E10": 130.9,
+              "B7": 136.9
             },
             "site_id": "gcp19sdtzxv1",
             "postcode": "SO18 5TQ",
@@ -45498,10 +44521,10 @@
               "latitude": 51.79547
             },
             "prices": {
-              "E5": 146.9,
-              "SDV": 153.9,
-              "E10": 131.9,
-              "B7": 138.9
+              "E5": 147.9,
+              "SDV": 154.9,
+              "E10": 132.9,
+              "B7": 139.9
             },
             "site_id": "gcpw8vpfrx2v",
             "postcode": "HP23 5ED",
@@ -45530,10 +44553,10 @@
               "latitude": 51.63301
             },
             "prices": {
-              "E5": 149.9,
-              "SDV": 157.9,
-              "E10": 134.9,
-              "B7": 142.9
+              "E5": 150.9,
+              "SDV": 166.9,
+              "E10": 135.9,
+              "B7": 143.9
             },
             "site_id": "u10j8xt006xt",
             "postcode": "IG9 5UA",
@@ -45546,9 +44569,9 @@
               "latitude": 50.83942
             },
             "prices": {
-              "E5": 148.9,
-              "E10": 134.9,
-              "B7": 138.9
+              "E5": 149.9,
+              "E10": 135.9,
+              "B7": 139.9
             },
             "site_id": "gcp1pxjcjfv1",
             "postcode": "PO6 2SJ",
@@ -45608,10 +44631,10 @@
               "latitude": 50.94945
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 152.9,
-              "E10": 133.9,
-              "B7": 138.9
+              "E5": 144.9,
+              "SDV": 151.9,
+              "E10": 130.9,
+              "B7": 137.9
             },
             "site_id": "gcn1y7pdn9f7",
             "postcode": "DT9 4BQ",
@@ -45655,10 +44678,10 @@
               "latitude": 55.40147
             },
             "prices": {
-              "E5": 148.9,
-              "SDV": 153.9,
-              "E10": 134.9,
-              "B7": 139.9
+              "E5": 149.9,
+              "SDV": 154.9,
+              "E10": 135.9,
+              "B7": 140.9
             },
             "site_id": "gcyg1t80vqwc",
             "postcode": "NE66 2HA",
@@ -45671,10 +44694,10 @@
               "latitude": 53.53818
             },
             "prices": {
-              "E5": 144.9,
-              "SDV": 147.9,
-              "E10": 132.9,
-              "B7": 135.9
+              "E5": 145.9,
+              "SDV": 148.9,
+              "E10": 133.9,
+              "B7": 136.9
             },
             "site_id": "gcw284mfd84g",
             "postcode": "BL5 1EE",
@@ -45713,7 +44736,7 @@
             "brand": "Shell"
           }
         ],
-        "last_updated": "16/06/2025 10:55:03"
+        "last_updated": "17/06/2025 10:55:07"
       }
     },
     {
@@ -50467,7 +49490,7 @@
     {
       "name": "SGN",
       "data": {
-        "last_updated": "16/06/2025 14:23:28",
+        "last_updated": "17/06/2025 15:36:49",
         "stations": [
           {
             "site_id": "gcnnjmn122t0",
@@ -50526,8 +49549,8 @@
               "longitude": 0.8543349
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 132.9,
+              "E5": 154.9,
+              "E10": 133.9,
               "B7": 139.9
             }
           },
@@ -50557,9 +49580,9 @@
               "longitude": -0.1583459
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 131.9,
-              "B7": 136.9
+              "E5": 153.9,
+              "E10": 132.9,
+              "B7": 137.9
             }
           },
           {
@@ -50572,10 +49595,10 @@
               "longitude": -1.9195418
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 133.9,
-              "B7": 137.9,
-              "SDV": 158.9
+              "E5": 155.9,
+              "E10": 134.9,
+              "B7": 138.9,
+              "SDV": 159.9
             }
           },
           {
@@ -50716,10 +49739,10 @@
               "longitude": -0.0998641
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 133.9,
-              "B7": 141.9,
-              "SDV": 162.9
+              "E5": 155.9,
+              "E10": 134.9,
+              "B7": 142.9,
+              "SDV": 163.9
             }
           },
           {
@@ -50732,7 +49755,7 @@
               "longitude": -1.434529
             },
             "prices": {
-              "E10": 129.9,
+              "E10": 130.9,
               "B7": 140.9
             }
           },
@@ -50746,10 +49769,10 @@
               "longitude": -2.054865
             },
             "prices": {
-              "E5": 156.9,
-              "E10": 135.9,
-              "B7": 142.9,
-              "SDV": 163.9
+              "E5": 157.9,
+              "E10": 136.9,
+              "B7": 143.9,
+              "SDV": 164.9
             }
           },
           {
@@ -50762,10 +49785,10 @@
               "longitude": -4.066244
             },
             "prices": {
-              "E5": 150.9,
-              "E10": 129.9,
-              "B7": 136.9,
-              "SDV": 157.9
+              "E5": 151.9,
+              "E10": 130.9,
+              "B7": 137.9,
+              "SDV": 158.9
             }
           },
           {
@@ -51048,8 +50071,8 @@
               "longitude": -2.5318664
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 128.9,
+              "E5": 150.9,
+              "E10": 129.9,
               "B7": 136.9,
               "SDV": 157.9
             }
@@ -51113,8 +50136,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 133.9,
-              "B7": 141.9,
-              "SDV": 162.9
+              "B7": 142.9,
+              "SDV": 163.9
             }
           },
           {
@@ -51142,8 +50165,8 @@
               "longitude": -0.082958
             },
             "prices": {
-              "E5": 153.9,
-              "E10": 132.9,
+              "E5": 154.9,
+              "E10": 133.9,
               "B7": 139.9,
               "SDV": 160.9
             }
@@ -51190,8 +50213,8 @@
               "longitude": -1.9159035
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 131.9,
+              "E5": 153.9,
+              "E10": 132.9,
               "B7": 135.9,
               "SDV": 156.9
             }
@@ -51256,8 +50279,8 @@
             "prices": {
               "E5": 154.9,
               "E10": 133.9,
-              "B7": 137.9,
-              "SDV": 158.9
+              "B7": 138.9,
+              "SDV": 159.9
             }
           },
           {
@@ -51286,8 +50309,8 @@
               "longitude": -2.0915302
             },
             "prices": {
-              "E5": 156.9,
-              "E10": 135.9,
+              "E5": 157.9,
+              "E10": 136.9,
               "B7": 139.9,
               "SDV": 160.9
             }
@@ -51304,8 +50327,8 @@
             "prices": {
               "E5": 152.9,
               "E10": 131.9,
-              "B7": 138.9,
-              "SDV": 159.9
+              "B7": 139.9,
+              "SDV": 160.9
             }
           },
           {
@@ -51491,10 +50514,10 @@
               "longitude": 0.5570643
             },
             "prices": {
-              "E5": 150.9,
-              "E10": 129.9,
-              "B7": 135.9,
-              "SDV": 156.9
+              "E5": 151.9,
+              "E10": 130.9,
+              "B7": 136.9,
+              "SDV": 157.9
             }
           },
           {
@@ -51541,8 +50564,8 @@
             "prices": {
               "E5": 152.9,
               "E10": 131.9,
-              "B7": 137.9,
-              "SDV": 158.9
+              "B7": 138.9,
+              "SDV": 159.9
             }
           },
           {
@@ -51571,10 +50594,10 @@
               "longitude": -3.5672312
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 131.9,
-              "B7": 137.9,
-              "SDV": 158.9
+              "E5": 153.9,
+              "E10": 132.9,
+              "B7": 138.9,
+              "SDV": 159.9
             }
           },
           {
@@ -51683,10 +50706,10 @@
               "longitude": -2.829842
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 131.9,
-              "B7": 135.9,
-              "SDV": 156.9
+              "E5": 153.9,
+              "E10": 132.9,
+              "B7": 136.9,
+              "SDV": 157.9
             }
           },
           {
@@ -51699,9 +50722,9 @@
               "longitude": -1.1351396
             },
             "prices": {
-              "E10": 127.9,
-              "B7": 134.9,
-              "SDV": 155.9
+              "E10": 128.9,
+              "B7": 135.9,
+              "SDV": 156.9
             }
           },
           {
@@ -51730,10 +50753,10 @@
               "longitude": -2.8035078
             },
             "prices": {
-              "E5": 155.9,
-              "E10": 134.9,
-              "B7": 139.9,
-              "SDV": 160.9
+              "E5": 156.9,
+              "E10": 135.9,
+              "B7": 140.9,
+              "SDV": 161.9
             }
           },
           {
@@ -51777,10 +50800,10 @@
               "longitude": -3.4391343
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 133.9,
-              "B7": 139.9,
-              "SDV": 160.9
+              "E5": 155.9,
+              "E10": 134.9,
+              "B7": 140.9,
+              "SDV": 161.9
             }
           },
           {
@@ -51825,10 +50848,10 @@
               "longitude": -2.2421583
             },
             "prices": {
-              "E5": 152.9,
-              "E10": 131.9,
-              "B7": 137.9,
-              "SDV": 158.9
+              "E5": 153.9,
+              "E10": 132.9,
+              "B7": 138.9,
+              "SDV": 159.9
             }
           },
           {
@@ -51843,8 +50866,8 @@
             "prices": {
               "E5": 152.9,
               "E10": 131.9,
-              "B7": 138.9,
-              "SDV": 159.9
+              "B7": 139.9,
+              "SDV": 160.9
             }
           },
           {
@@ -51921,10 +50944,10 @@
               "longitude": -0.962972
             },
             "prices": {
-              "E5": 151.9,
-              "E10": 130.9,
-              "B7": 137.9,
-              "SDV": 158.9
+              "E5": 153.9,
+              "E10": 132.9,
+              "B7": 138.9,
+              "SDV": 159.9
             }
           },
           {
@@ -51987,8 +51010,8 @@
             "prices": {
               "E5": 156.9,
               "E10": 135.9,
-              "B7": 141.9,
-              "SDV": 162.9
+              "B7": 142.9,
+              "SDV": 163.9
             }
           },
           {
@@ -52001,10 +51024,10 @@
               "longitude": -4.5759306
             },
             "prices": {
-              "E5": 149.9,
-              "E10": 128.9,
-              "B7": 135.9,
-              "SDV": 156.9
+              "E5": 150.9,
+              "E10": 129.9,
+              "B7": 136.9,
+              "SDV": 157.9
             }
           },
           {
@@ -52033,10 +51056,10 @@
               "longitude": -1.2564946
             },
             "prices": {
-              "E5": 154.9,
-              "E10": 133.9,
-              "B7": 141.9,
-              "SDV": 162.9
+              "E5": 155.9,
+              "E10": 134.9,
+              "B7": 142.9,
+              "SDV": 163.9
             }
           },
           {
@@ -52081,8 +51104,8 @@
               "longitude": -1.7548621
             },
             "prices": {
-              "E5": 150.9,
-              "E10": 129.9,
+              "E5": 152.9,
+              "E10": 131.9,
               "B7": 137.9,
               "SDV": 158.9
             }
@@ -52173,7 +51196,7 @@
     {
       "name": "Shell",
       "data": {
-        "last_updated": "16/06/2025 00:00:00",
+        "last_updated": "17/06/2025 00:00:00",
         "stations": [
           {
             "site_id": "gbujt4qe0k18",
@@ -52311,7 +51334,7 @@
               "longitude": -4.06001
             },
             "prices": {
-              "B7": 146.9,
+              "B7": 144.9,
               "E10": 135.9
             }
           },
@@ -53041,20 +52064,6 @@
             "prices": {
               "B7": 143.9,
               "E10": 137.9
-            }
-          },
-          {
-            "site_id": "gcnhtsyshhsq",
-            "brand": "SHELL",
-            "address": "ST PHILIPS CAUSEWAY",
-            "postcode": "BS4 3EX",
-            "location": {
-              "latitude": 51.44282,
-              "longitude": -2.561697
-            },
-            "prices": {
-              "B7": 136.9,
-              "E10": 129.9
             }
           },
           {
@@ -55280,7 +54289,7 @@
             },
             "prices": {
               "B7": 135.9,
-              "E10": 129.9
+              "E10": 127.9
             }
           },
           {
@@ -56707,7 +55716,7 @@
               "longitude": -0.996542
             },
             "prices": {
-              "B7": 149.9,
+              "B7": 148.9,
               "E10": 142.9
             }
           },
@@ -57365,8 +56374,8 @@
               "longitude": -0.925632
             },
             "prices": {
-              "B7": 144.9,
-              "E10": 136.9
+              "B7": 143.9,
+              "E10": 133.9
             }
           },
           {
@@ -59101,7 +58110,7 @@
               "longitude": 0.20807
             },
             "prices": {
-              "B7": 139.9,
+              "B7": 138.9,
               "E10": 135.9
             }
           },
@@ -59423,8 +58432,8 @@
               "longitude": 0.10665
             },
             "prices": {
-              "B7": 142.9,
-              "E10": 135.9
+              "B7": 139.9,
+              "E10": 133.9
             }
           },
           {
@@ -59951,7 +58960,7 @@
     {
       "name": "Tesco",
       "data": {
-        "last_updated": "16/06/2025 11:18:30",
+        "last_updated": "17/06/2025 11:19:47",
         "stations": [
           {
             "site_id": "gcx1zhq978t7",
@@ -62544,21 +61553,6 @@
               "E5": 137.9,
               "E10": 127.9,
               "B7": 132.9
-            }
-          },
-          {
-            "site_id": "gfjchm1rgh2k",
-            "brand": "TESCO",
-            "address": "Tesco Stores Ltd Riverside Drive Dundee",
-            "postcode": "DD2 1UG",
-            "location": {
-              "latitude": 56.454601,
-              "longitude": -2.975449
-            },
-            "prices": {
-              "E5": 133.9,
-              "E10": 124.9,
-              "B7": 131.9
             }
           },
           {
@@ -65713,21 +64707,6 @@
             }
           },
           {
-            "site_id": "gcvj9r8p8vjq",
-            "brand": "TESCO",
-            "address": "Annick St Shettleston Industrial Estate Glasgow",
-            "postcode": "G32 7JE",
-            "location": {
-              "latitude": 55.853061,
-              "longitude": -4.163779
-            },
-            "prices": {
-              "E5": 133.9,
-              "E10": 124.9,
-              "B7": 132.9
-            }
-          },
-          {
             "site_id": "gcvq958bxjf0",
             "brand": "TESCO",
             "address": "Glasgow Road Camelon Falkirk",
@@ -65825,7 +64804,7 @@
               "longitude": 0.769971
             },
             "prices": {
-              "E5": 138.9,
+              "E5": 139.9,
               "E10": 129.9,
               "B7": 136.9
             }
