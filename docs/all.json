@@ -17749,7 +17749,7 @@
     {
       "name": "Esso Tesco Alliance",
       "data": {
-        "last_updated": "20/09/2025 00:05:07",
+        "last_updated": "21/09/2025 00:05:07",
         "stations": [
           {
             "site_id": "gcw2c1djm2gb",
@@ -18300,8 +18300,6 @@
             },
             "prices": {
               "E10": 132.9,
-              "B7": 141.9,
-              "SDV": 155.9,
               "E5": 147.9
             }
           },
@@ -18541,9 +18539,7 @@
               "longitude": -2.660086
             },
             "prices": {
-              "E10": 132.9,
-              "B7": 141.9,
-              "E5": 147.9
+              "B7": 141.9
             }
           },
           {
@@ -18556,10 +18552,10 @@
               "longitude": -0.827504
             },
             "prices": {
-              "E5": 147.9,
-              "SDV": 153.9,
               "B7": 139.9,
-              "E10": 132.9
+              "E10": 132.9,
+              "E5": 147.9,
+              "SDV": 153.9
             }
           },
           {
@@ -19260,9 +19256,7 @@
             },
             "prices": {
               "E5": 148.9,
-              "SDV": 157.9,
-              "E10": 133.9,
-              "B7": 142.9
+              "E10": 133.9
             }
           },
           {
@@ -19275,10 +19269,10 @@
               "longitude": -1.297771
             },
             "prices": {
-              "B7": 141.9,
               "E10": 134.9,
-              "SDV": 155.9,
-              "E5": 149.9
+              "B7": 141.9,
+              "E5": 149.9,
+              "SDV": 155.9
             }
           },
           {
@@ -19291,10 +19285,10 @@
               "longitude": -1.318526
             },
             "prices": {
-              "E5": 147.9,
               "SDV": 154.9,
-              "E10": 132.9,
-              "B7": 140.9
+              "E5": 147.9,
+              "B7": 140.9,
+              "E10": 132.9
             }
           },
           {
@@ -19693,22 +19687,6 @@
             }
           },
           {
-            "site_id": "gcwbns7mwf85",
-            "brand": "ESSO",
-            "address": "BURNCROSS ROAD, SHEFFIELD",
-            "postcode": "S35 1RX",
-            "location": {
-              "latitude": 53.461804,
-              "longitude": -1.467415
-            },
-            "prices": {
-              "SDV": 154.9,
-              "E5": 146.9,
-              "E10": 131.9,
-              "B7": 140.9
-            }
-          },
-          {
             "site_id": "gcq6wtesp6z8",
             "brand": "ESSO",
             "address": "Moss Grove, KINGSWINFORD",
@@ -19718,9 +19696,9 @@
               "longitude": -2.170165
             },
             "prices": {
-              "B7": 141.9,
+              "E5": 148.9,
               "E10": 133.9,
-              "E5": 148.9
+              "B7": 141.9
             }
           },
           {
@@ -19733,8 +19711,6 @@
               "longitude": -2.096286
             },
             "prices": {
-              "E5": 147.9,
-              "E10": 132.9,
               "B7": 142.9
             }
           },
@@ -20056,8 +20032,6 @@
             },
             "prices": {
               "B7": 137.9,
-              "E10": 132.9,
-              "E5": 147.9,
               "SDV": 151.9
             }
           },
@@ -20073,8 +20047,8 @@
             "prices": {
               "SDV": 154.9,
               "E5": 148.9,
-              "E10": 133.9,
-              "B7": 140.9
+              "B7": 140.9,
+              "E10": 133.9
             }
           },
           {
@@ -20087,8 +20061,8 @@
               "longitude": -4.41556
             },
             "prices": {
-              "B7": 139.9,
               "E10": 130.9,
+              "B7": 139.9,
               "E5": 145.9,
               "SDV": 153.9
             }
@@ -20105,8 +20079,8 @@
             "prices": {
               "SDV": 155.9,
               "E5": 150.9,
-              "E10": 135.9,
-              "B7": 141.9
+              "B7": 141.9,
+              "E10": 135.9
             }
           },
           {
@@ -20119,8 +20093,8 @@
               "longitude": -0.556333
             },
             "prices": {
-              "B7": 145.9,
               "E10": 138.9,
+              "B7": 145.9,
               "E5": 153.9,
               "SDV": 159.9
             }
@@ -20137,8 +20111,8 @@
             "prices": {
               "SDV": 156.9,
               "E5": 150.9,
-              "E10": 135.9,
-              "B7": 142.9
+              "B7": 142.9,
+              "E10": 135.9
             }
           },
           {
@@ -20553,6 +20527,686 @@
       }
     },
     {
+      "name": "Karan Retail Ltd",
+      "data": {
+        "last_updated": "11/09/2025 13:01:55",
+        "stations": [
+          {
+            "site_id": "u10s191tc",
+            "brand": "BP",
+            "address": "Bapchild Service Station\u00a0London road, Sittingbourne, Kent",
+            "postcode": "ME9 9PP",
+            "location": {
+              "latitude": 51.33394241333008,
+              "longitude": 0.7711694836616516
+            },
+            "prices": {
+              "B7": 142.9,
+              "E10": 133.9,
+              "E5": 153.9,
+              "SDV": 167.9
+            }
+          },
+          {
+            "site_id": "gfhzp0yxu",
+            "brand": "Esso",
+            "address": "Clachnaharry Rd, Inverness",
+            "postcode": "IV3 8QH",
+            "location": {
+              "latitude": 57.4860725402832,
+              "longitude": -4.253624439239502
+            },
+            "prices": {
+              "B7": 139.7,
+              "E10": 131.7,
+              "E5": 147.7,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "u10y8ypsk",
+            "brand": "BP",
+            "address": "Karan Pumphill Garage B1027 Clacton Road, Clacton-On-Sea",
+            "postcode": "CO16 8HE",
+            "location": {
+              "latitude": 51.802223205566406,
+              "longitude": 1.0986629724502563
+            },
+            "prices": {
+              "B7": 137.9,
+              "E10": 129.9,
+              "E5": 144.9,
+              "SDV": 156.9
+            }
+          },
+          {
+            "site_id": "gcr5j0ex7",
+            "brand": "Texaco",
+            "address": "Camstone Service Station\u00a016 Cambridge Rd,\u00a0Whetstone, Leicester,Leicestershire ",
+            "postcode": "LE8 6LG",
+            "location": {
+              "latitude": 52.56229019165039,
+              "longitude": -1.1820282936096191
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 131.9,
+              "E5": 0.0,
+              "SDV": 159.9
+            }
+          },
+          {
+            "site_id": "u10j24jq5",
+            "brand": "BP",
+            "address": "Karan Leytonstone Services High Road, Leytonstone",
+            "postcode": "E11 4PG",
+            "location": {
+              "latitude": 51.5600700378418,
+              "longitude": 0.007321089040488005
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 131.9,
+              "E5": 146.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "u1060e31w",
+            "brand": "BP",
+            "address": "Burwash Service Station\u00a0Heathfield Road, Burwash, East Sussex",
+            "postcode": "TN19 7HN",
+            "location": {
+              "latitude": 50.99480056762695,
+              "longitude": 0.37513071298599243
+            },
+            "prices": {
+              "B7": 144.9,
+              "E10": 135.9,
+              "E5": 155.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "gcrd84vpt",
+            "brand": "Shell",
+            "address": "Corby Service Station Oakley road, Corby",
+            "postcode": "NN18 8AR",
+            "location": {
+              "latitude": 52.48470687866211,
+              "longitude": -0.697265088558197
+            },
+            "prices": {
+              "B7": 135.9,
+              "E10": 127.9,
+              "E5": 143.9,
+              "SDV": 155.9
+            }
+          },
+          {
+            "site_id": "u1280fydh",
+            "brand": "BP",
+            "address": "Sudbury Service Station (BP next to lookers Ford) Northern Road, Sudbury",
+            "postcode": "CO10 2XQ",
+            "location": {
+              "latitude": 52.04688262939453,
+              "longitude": 0.7451756000518799
+            },
+            "prices": {
+              "B7": 142.9,
+              "E10": 135.9,
+              "E5": 150.9,
+              "SDV": 162.9
+            }
+          },
+          {
+            "site_id": "u10j3fggh",
+            "brand": "BP",
+            "address": "Nutley Garage High Street, Nutley, Uckfield",
+            "postcode": "TN22 3NN",
+            "location": {
+              "latitude": 51.03340530395508,
+              "longitude": 0.05482703447341919
+            },
+            "prices": {
+              "B7": 141.9,
+              "E10": 132.9,
+              "E5": 144.9,
+              "SDV": 156.9
+            }
+          },
+          {
+            "site_id": "u10z3dunp",
+            "brand": "BP",
+            "address": "Lake Street BP Service Station 45 Lake Street, Leighton buzzard, Bedfordshire",
+            "postcode": "LU7 1RS",
+            "location": {
+              "latitude": 51.91569900512695,
+              "longitude": -0.6587699055671692
+            },
+            "prices": {
+              "B7": 134.7,
+              "E10": 126.7,
+              "E5": 138.9,
+              "SDV": 149.9
+            }
+          },
+          {
+            "site_id": "u12c3449g",
+            "brand": "BP",
+            "address": "Brockford Service Station A140 Norwich Road, Stowmartket, Ipswich",
+            "postcode": "IP14 5PF",
+            "location": {
+              "latitude": 52.2623176574707,
+              "longitude": 1.102184772491455
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 131.9,
+              "E5": 150.9,
+              "SDV": 163.9
+            }
+          },
+          {
+            "site_id": "gcruyj8dz",
+            "brand": "BP",
+            "address": "Norton Service station Woolpit Road, Norton Bury St, Edmonds",
+            "postcode": "IP31 3LU",
+            "location": {
+              "latitude": 52.25468826293945,
+              "longitude": 0.8665146827697754
+            },
+            "prices": {
+              "B7": 138.9,
+              "E10": 128.9,
+              "E5": 143.9,
+              "SDV": 158.9
+            }
+          },
+          {
+            "site_id": "u126mzgh3",
+            "brand": "BP",
+            "address": "Breckland Service Station\u00a0Lynn road, Weeting",
+            "postcode": "IP27 0QW",
+            "location": {
+              "latitude": 52.46858215332031,
+              "longitude": 0.6089887619018555
+            },
+            "prices": {
+              "B7": 143.9,
+              "E10": 134.9,
+              "E5": 154.9,
+              "SDV": 168.9
+            }
+          },
+          {
+            "site_id": "u12978wvr",
+            "brand": "Shell",
+            "address": "De Rodes Service Station\u00a0A17, East Heckington, Boston",
+            "postcode": "PE20 3QF",
+            "location": {
+              "latitude": 52.97837448120117,
+              "longitude": -0.20949336886405945
+            },
+            "prices": {
+              "B7": 136.9,
+              "E10": 128.9,
+              "E5": 147.9,
+              "SDV": 157.9
+            }
+          },
+          {
+            "site_id": "gcrum5wm6",
+            "brand": "BP",
+            "address": "Springfields Filling Station (Gulf) Springfield Roundabout, Holbeach Road, Spalding",
+            "postcode": "PE12 6JP",
+            "location": {
+              "latitude": 52.79852294921875,
+              "longitude": -0.12316776067018509
+            },
+            "prices": {
+              "B7": 138.9,
+              "E10": 130.9,
+              "E5": 148.9,
+              "SDV": 161.9
+            }
+          },
+          {
+            "site_id": "gcr73k6u7",
+            "brand": "BP",
+            "address": "Houghton Garage71-73, Uppington On Hill, Leicester",
+            "postcode": "LE7 9HJ",
+            "location": {
+              "latitude": 52.63615417480469,
+              "longitude": -0.9985774159431458
+            },
+            "prices": {
+              "B7": 140.9,
+              "E10": 133.9,
+              "E5": 0.0,
+              "SDV": 162.9
+            }
+          },
+          {
+            "site_id": "gcrgrddeu",
+            "brand": "BP",
+            "address": "New toll BP Station Thorney, Toll, Wisbech",
+            "postcode": "PE13 4AT",
+            "location": {
+              "latitude": 52.61695098876953,
+              "longitude": -0.018139470368623734
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 128.9,
+              "E5": 0.0,
+              "SDV": 162.9
+            }
+          },
+          {
+            "site_id": "gcrgrd8gr",
+            "brand": "BP",
+            "address": "Thorney Toll BP Station\u00a0Thorney, Toll, Wisbech",
+            "postcode": "PE13 4AX",
+            "location": {
+              "latitude": 52.61681365966797,
+              "longitude": -0.020517593249678612
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 127.9,
+              "E5": 145.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcpfgfkfu",
+            "brand": "BP",
+            "address": "Crawley Auto point BP Filling Station Woodfield road, Crawley",
+            "postcode": "RH10 8EP",
+            "location": {
+              "latitude": 51.12200164794922,
+              "longitude": -0.18065951764583588
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 131.9,
+              "E5": 143.9,
+              "SDV": 151.9
+            }
+          },
+          {
+            "site_id": "u121b1fwr",
+            "brand": "BP",
+            "address": "Bluntisham Service Station Station Road, Bluntisham, Cambridgeshire",
+            "postcode": "PE28 3PA",
+            "location": {
+              "latitude": 52.3497314453125,
+              "longitude": 0.003765898058190942
+            },
+            "prices": {
+              "B7": 140.9,
+              "E10": 133.9,
+              "E5": 148.9,
+              "SDV": 159.9
+            }
+          },
+          {
+            "site_id": "u1047xrvu",
+            "brand": "Esso",
+            "address": "Crowbrough Service Station Eridge Road, Crowbrough",
+            "postcode": "TN6 2SP",
+            "location": {
+              "latitude": 51.06098175048828,
+              "longitude": 0.16460971534252167
+            },
+            "prices": {
+              "B7": 138.9,
+              "E10": 130.9,
+              "E5": 149.9,
+              "SDV": 160.9
+            }
+          },
+          {
+            "site_id": "gcjnwyg5t",
+            "brand": "Texaco",
+            "address": "Glanamman service station Cwmamman road, Glanaman, Ammanford",
+            "postcode": "SA18 1DJ",
+            "location": {
+              "latitude": 51.80543899536133,
+              "longitude": -3.9177956581115723
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 133.9,
+              "E5": 148.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "u122mbe4c",
+            "brand": "BP",
+            "address": "Meredith Service Station Norwich Road, Whitton, Ipswich",
+            "postcode": "IP1 6JR",
+            "location": {
+              "latitude": 52.07868957519531,
+              "longitude": 1.1263328790664673
+            },
+            "prices": {
+              "B7": 136.9,
+              "E10": 129.9,
+              "E5": 145.9,
+              "SDV": 154.9
+            }
+          },
+          {
+            "site_id": "gcjq0j30g",
+            "brand": "Texaco",
+            "address": "Trebanos service station 142-146 Swansea road, Pontardawe, Trebanos, Swansea",
+            "postcode": "SA8 4BN",
+            "location": {
+              "latitude": 51.708709716796875,
+              "longitude": -3.865737199783325
+            },
+            "prices": {
+              "B7": 138.9,
+              "E10": 129.9,
+              "E5": 144.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcpsww0n1",
+            "brand": "Texaco",
+            "address": "Bedfontlane Service Station 174 Bedfont Lane, Feltham",
+            "postcode": "TW14 9NJ",
+            "location": {
+              "latitude": 51.461368560791016,
+              "longitude": -0.4170254170894623
+            },
+            "prices": {
+              "B7": 138.9,
+              "E10": 132.9,
+              "E5": 147.9,
+              "SDV": 156.9
+            }
+          },
+          {
+            "site_id": "gcq7y89nn",
+            "brand": "Shell",
+            "address": "Stretton Garage, Watling Street, Brewood, Stafford",
+            "postcode": "ST19 9LN",
+            "location": {
+              "latitude": 52.69432067871094,
+              "longitude": -2.1736066341400146
+            },
+            "prices": {
+              "B7": 144.9,
+              "E10": 134.9,
+              "E5": 150.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcqdxfr32",
+            "brand": "Esso",
+            "address": "Tile Cross Service Station Cooks Ln, Birmingham",
+            "postcode": "B37 6PB",
+            "location": {
+              "latitude": 52.483375549316406,
+              "longitude": -1.7588273286819458
+            },
+            "prices": {
+              "B7": 142.9,
+              "E10": 134.9,
+              "E5": 153.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gcq7ubtnk",
+            "brand": "BP",
+            "address": "Ivetsey Bank Service Station Ivetsey Rd, Wheaton Aston, Stafford",
+            "postcode": "ST19 9QT",
+            "location": {
+              "latitude": 52.69432830810547,
+              "longitude": -2.2451629638671875
+            },
+            "prices": {
+              "B7": 144.9,
+              "E10": 134.9,
+              "E5": 152.9,
+              "SDV": 164.9
+            }
+          },
+          {
+            "site_id": "gchr0s86p",
+            "brand": "Texaco",
+            "address": "Ocean Haze Service Station (Texaco), Haverford West Road, St Davids,Haverfordwes",
+            "postcode": "SA62 6QN",
+            "location": {
+              "latitude": 51.880741119384766,
+              "longitude": -5.250552654266357
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 129.9,
+              "E5": 147.9,
+              "SDV": 157.9
+            }
+          },
+          {
+            "site_id": "gcjj94sjw",
+            "brand": "Esso",
+            "address": "Herons Way Service Station (Esso), Llanrhidian, Gower, Swansea",
+            "postcode": "SA3 1ES",
+            "location": {
+              "latitude": 51.60670471191406,
+              "longitude": -4.168976306915283
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 131.9,
+              "E5": 150.9,
+              "SDV": 161.9
+            }
+          },
+          {
+            "site_id": "gfjb025r6",
+            "brand": "BP",
+            "address": "Bridgend Services (BP) A92 Ladybank Road, Freuchie, Cupar",
+            "postcode": "KY15 7HY",
+            "location": {
+              "latitude": 56.25130844116211,
+              "longitude": -3.1485166549682617
+            },
+            "prices": {
+              "B7": 141.9,
+              "E10": 129.9,
+              "E5": 141.9,
+              "SDV": 155.9
+            }
+          },
+          {
+            "site_id": "gcuwx8qx2",
+            "brand": "Esso",
+            "address": "Alexandria Service Station, 34-44 Main Street, Alexandria",
+            "postcode": "G83 0DX",
+            "location": {
+              "latitude": 55.98904037475586,
+              "longitude": -4.583301067352295
+            },
+            "prices": {
+              "B7": 142.9,
+              "E10": 134.9,
+              "E5": 154.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcqtd54gh",
+            "brand": "Shell",
+            "address": "Kingsley Moor Service Station Leek Rd, Stoke-on-Trent",
+            "postcode": "ST10 2EJ",
+            "location": {
+              "latitude": 53.01508712768555,
+              "longitude": -2.0175836086273193
+            },
+            "prices": {
+              "B7": 140.9,
+              "E10": 132.9,
+              "E5": 148.9,
+              "SDV": 160.9
+            }
+          },
+          {
+            "site_id": "u12d0un9y",
+            "brand": "BP",
+            "address": "Nuns' Bridges Filling Station Bury Rd, Thetford",
+            "postcode": "IP24 3ED",
+            "location": {
+              "latitude": 52.40511703491211,
+              "longitude": 0.7452825307846069
+            },
+            "prices": {
+              "B7": 140.9,
+              "E10": 134.9,
+              "E5": 148.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcqef28jr",
+            "brand": "Texaco",
+            "address": "Orbital Service Station Hawks Green Lane, Hawks Green Lane,Cannock",
+            "postcode": "WS11 7LH",
+            "location": {
+              "latitude": 52.6942253112793,
+              "longitude": -2.0101170539855957
+            },
+            "prices": {
+              "B7": 138.7,
+              "E10": 129.07,
+              "E5": 144.9,
+              "SDV": 154.9
+            }
+          },
+          {
+            "site_id": "gfhz4rpj7",
+            "brand": "Esso",
+            "address": "Ord Service Station, Great North Road, Muir of Ord",
+            "postcode": "IV6 7XR",
+            "location": {
+              "latitude": 57.519866943359375,
+              "longitude": -4.4616780281066895
+            },
+            "prices": {
+              "B7": 137.9,
+              "E10": 130.9,
+              "E5": 0.0,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gfh1h4grd",
+            "brand": "BP",
+            "address": "Halfway Filling Station, A85, Dunbeg, Oban",
+            "postcode": "PA37 1PX",
+            "location": {
+              "latitude": 56.44245910644531,
+              "longitude": -5.444516658782959
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 130.9,
+              "E5": 143.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gfh2cyd9g",
+            "brand": "BP",
+            "address": "Awe Service Station, A85, Taynuilt",
+            "postcode": "PA35 1HT",
+            "location": {
+              "latitude": 56.41816711425781,
+              "longitude": -5.190446376800537
+            },
+            "prices": {
+              "B7": 139.9,
+              "E10": 130.9,
+              "E5": 142.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcr52beb7",
+            "brand": "BP",
+            "address": "Eastwood Service station Ashby Road, Stapleton,Leicestershire",
+            "postcode": "LE9 8JE",
+            "location": {
+              "latitude": 52.60540008544922,
+              "longitude": -1.365143060684204
+            },
+            "prices": {
+              "B7": 141.9,
+              "E10": 133.9,
+              "E5": 0.0,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcj49v7w0",
+            "brand": "Murco",
+            "address": "Chivenor service Station Chivenor Cross, Chivenor, Braunton",
+            "postcode": "EX31 4BN",
+            "location": {
+              "latitude": 51.09434509277344,
+              "longitude": -4.137028217315674
+            },
+            "prices": {
+              "B7": 140.9,
+              "E10": 131.9,
+              "E5": 0.0,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcj4e392g",
+            "brand": "Texaco",
+            "address": "Global fuel sticklepath service station Sticklepath hill, Devon",
+            "postcode": "EX31 2BU",
+            "location": {
+              "latitude": 51.07286071777344,
+              "longitude": -4.0740556716918945
+            },
+            "prices": {
+              "B7": 134.9,
+              "E10": 127.9,
+              "E5": 142.9,
+              "SDV": 0.0
+            }
+          },
+          {
+            "site_id": "gcj49r7pb",
+            "brand": "Esso",
+            "address": "Exeter Road, Braunton",
+            "postcode": "EX33 2BJ",
+            "location": {
+              "latitude": 51.10565185546875,
+              "longitude": -4.159684658050537
+            },
+            "prices": {
+              "B7": 137.9,
+              "E10": 128.9,
+              "E5": 139.9,
+              "SDV": 0.0
+            }
+          }
+        ]
+      }
+    },
+    {
       "name": "Morrisons",
       "data": {
         "last_updated": "20/09/2025 10:30:10",
@@ -20621,7 +21275,7 @@
     {
       "name": "Moto",
       "data": {
-        "last_updated": "20/09/2025 13:58:00",
+        "last_updated": "21/09/2025 05:58:00",
         "stations": [
           {
             "site_id": "gcw2trbpdxqk",
@@ -21397,7 +22051,7 @@
     {
       "name": "Motor Fuel Group",
       "data": {
-        "last_updated": "20/09/2025 00:00:01",
+        "last_updated": "21/09/2025 00:00:01",
         "stations": [
           {
             "site_id": "gcp6cwwx0tje",
@@ -21966,7 +22620,7 @@
               "longitude": -0.644299
             },
             "prices": {
-              "E10": 136.9,
+              "E10": 137.9,
               "E5": 155.9,
               "B7": 144.9,
               "SDV": 165.9
@@ -21998,9 +22652,9 @@
               "longitude": -0.575577
             },
             "prices": {
-              "E10": 134.9,
+              "E10": 135.9,
               "E5": 155.9,
-              "B7": 142.9,
+              "B7": 143.9,
               "SDV": 165.9
             }
           },
@@ -22112,7 +22766,7 @@
             "prices": {
               "E10": 135.9,
               "E5": 155.9,
-              "B7": 140.9,
+              "B7": 141.9,
               "SDV": 165.9
             }
           },
@@ -22646,7 +23300,7 @@
               "longitude": -0.40647
             },
             "prices": {
-              "E10": 134.9,
+              "E10": 135.9,
               "E5": 155.9,
               "B7": 139.9,
               "SDV": 165.9
@@ -23316,9 +23970,9 @@
               "longitude": -1.534171
             },
             "prices": {
-              "E10": 129.9,
+              "E10": 130.9,
               "E5": 149.9,
-              "B7": 139.9,
+              "B7": 140.9,
               "SDV": 159.9
             }
           },
@@ -23506,7 +24160,7 @@
             "prices": {
               "E10": 139.9,
               "E5": 155.9,
-              "B7": 147.9,
+              "B7": 149.9,
               "SDV": 165.9
             }
           },
@@ -23854,7 +24508,7 @@
               "longitude": -1.407165
             },
             "prices": {
-              "E10": 133.9,
+              "E10": 134.9,
               "E5": 155.9,
               "B7": 141.9,
               "SDV": 165.9
@@ -23935,7 +24589,7 @@
             "prices": {
               "E10": 132.9,
               "E5": 149.9,
-              "B7": 141.9,
+              "B7": 142.9,
               "SDV": 159.9
             }
           },
@@ -24223,7 +24877,7 @@
             "prices": {
               "E10": 136.9,
               "E5": 155.9,
-              "B7": 144.9
+              "B7": 145.9
             }
           },
           {
@@ -24283,7 +24937,7 @@
               "longitude": -0.479332
             },
             "prices": {
-              "E10": 135.9,
+              "E10": 136.9,
               "E5": 155.9,
               "B7": 143.9,
               "SDV": 165.9
@@ -24875,7 +25529,7 @@
             "prices": {
               "E10": 136.9,
               "E5": 155.9,
-              "B7": 144.9,
+              "B7": 145.9,
               "SDV": 165.9
             }
           },
@@ -25304,9 +25958,9 @@
               "longitude": -1.48266
             },
             "prices": {
-              "E10": 133.9,
+              "E10": 134.9,
               "E5": 155.9,
-              "B7": 139.9,
+              "B7": 141.9,
               "SDV": 165.9
             }
           },
@@ -25466,7 +26120,7 @@
             "prices": {
               "E10": 136.9,
               "E5": 155.9,
-              "B7": 144.9,
+              "B7": 145.9,
               "SDV": 165.9
             }
           },
@@ -25544,7 +26198,7 @@
               "longitude": -2.16715
             },
             "prices": {
-              "E10": 133.9,
+              "E10": 134.9,
               "E5": 159.9,
               "B7": 142.9,
               "SDV": 169.9
@@ -25722,7 +26376,7 @@
             "prices": {
               "E10": 135.9,
               "E5": 155.9,
-              "B7": 141.9,
+              "B7": 142.9,
               "SDV": 165.9
             }
           },
@@ -26360,9 +27014,9 @@
               "longitude": 1.06725
             },
             "prices": {
-              "E10": 133.9,
+              "E10": 134.9,
               "E5": 155.9,
-              "B7": 139.9,
+              "B7": 141.9,
               "SDV": 165.9
             }
           },
@@ -27400,7 +28054,7 @@
               "longitude": -1.57374
             },
             "prices": {
-              "E10": 135.9,
+              "E10": 136.9,
               "E5": 155.9,
               "B7": 143.9,
               "SDV": 165.9
@@ -28167,7 +28821,7 @@
             "prices": {
               "E10": 135.9,
               "E5": 155.9,
-              "B7": 142.9,
+              "B7": 143.9,
               "SDV": 165.9
             }
           },
@@ -28277,7 +28931,7 @@
               "longitude": 0.028127
             },
             "prices": {
-              "E10": 135.9,
+              "E10": 136.9,
               "E5": 155.9,
               "B7": 142.9,
               "SDV": 165.9
@@ -29157,7 +29811,7 @@
               "longitude": -2.97133
             },
             "prices": {
-              "E10": 132.9,
+              "E10": 133.9,
               "E5": 155.9,
               "B7": 139.9,
               "SDV": 165.9
@@ -29223,7 +29877,7 @@
             "prices": {
               "E10": 135.9,
               "E5": 155.9,
-              "B7": 143.9,
+              "B7": 144.9,
               "SDV": 165.9
             }
           },
@@ -30053,7 +30707,7 @@
               "longitude": -1.44083
             },
             "prices": {
-              "E10": 133.9,
+              "E10": 134.9,
               "E5": 155.9,
               "B7": 141.9,
               "SDV": 165.9
@@ -30503,7 +31157,7 @@
             "prices": {
               "E10": 137.9,
               "E5": 155.9,
-              "B7": 142.9,
+              "B7": 143.9,
               "SDV": 165.9
             }
           },
@@ -30583,7 +31237,7 @@
             "prices": {
               "E10": 137.9,
               "E5": 155.9,
-              "B7": 142.9,
+              "B7": 143.9,
               "SDV": 165.9
             }
           },
@@ -31062,7 +31716,7 @@
             "prices": {
               "E10": 136.9,
               "E5": 155.9,
-              "B7": 144.9,
+              "B7": 145.9,
               "SDV": 165.9
             }
           },
@@ -31859,7 +32513,7 @@
               "longitude": 0.464182
             },
             "prices": {
-              "E10": 134.9,
+              "E10": 135.9,
               "E5": 155.9,
               "B7": 143.9,
               "SDV": 165.9
@@ -32099,7 +32753,7 @@
               "longitude": -4.23219
             },
             "prices": {
-              "E10": 134.9,
+              "E10": 135.9,
               "E5": 155.9,
               "B7": 145.9,
               "SDV": 165.9
@@ -32355,7 +33009,7 @@
               "longitude": -3.2428
             },
             "prices": {
-              "E10": 132.9,
+              "E10": 133.9,
               "E5": 155.9,
               "B7": 139.9,
               "SDV": 165.9
@@ -32675,7 +33329,7 @@
             "prices": {
               "E10": 137.9,
               "E5": 155.9,
-              "B7": 143.9,
+              "B7": 144.9,
               "SDV": 165.9
             }
           },
@@ -32883,7 +33537,7 @@
             "prices": {
               "E10": 132.9,
               "E5": 155.9,
-              "B7": 137.9,
+              "B7": 138.9,
               "SDV": 165.9
             }
           },
@@ -33440,7 +34094,7 @@
               "longitude": 0.716852
             },
             "prices": {
-              "E10": 134.9,
+              "E10": 135.9,
               "E5": 155.9,
               "B7": 141.9,
               "SDV": 165.9
@@ -35136,7 +35790,7 @@
             "prices": {
               "E10": 139.9,
               "E5": 155.9,
-              "B7": 147.9,
+              "B7": 149.9,
               "SDV": 165.9
             }
           },
@@ -35358,7 +36012,7 @@
             "prices": {
               "E10": 129.7,
               "E5": 145.9,
-              "B7": 137.7
+              "B7": 138.7
             }
           },
           {
@@ -35476,7 +36130,7 @@
               "longitude": -2.723698
             },
             "prices": {
-              "E10": 127.7,
+              "E10": 128.7,
               "E5": 145.9,
               "B7": 135.7
             }
@@ -35507,7 +36161,7 @@
             },
             "prices": {
               "E10": 127.9,
-              "B7": 135.9
+              "B7": 136.9
             }
           },
           {
@@ -35958,7 +36612,7 @@
               "longitude": -2.624032
             },
             "prices": {
-              "E10": 130.7,
+              "E10": 131.7,
               "E5": 145.9,
               "B7": 139.7
             }
@@ -37452,7 +38106,7 @@
               "longitude": -3.017866
             },
             "prices": {
-              "E10": 130.9,
+              "E10": 131.9,
               "E5": 145.9,
               "B7": 139.9,
               "SDV": 149.9
@@ -37468,9 +38122,9 @@
               "longitude": -4.023056
             },
             "prices": {
-              "E10": 130.9,
+              "E10": 131.9,
               "E5": 145.9,
-              "B7": 137.9
+              "B7": 138.9
             }
           },
           {
@@ -39628,8 +40282,8 @@
             "prices": {
               "E10": 133.9,
               "E5": 145.9,
-              "B7": 141.9,
-              "SDV": 151.9
+              "B7": 142.9,
+              "SDV": 152.9
             }
           },
           {
@@ -39973,8 +40627,8 @@
             "prices": {
               "E10": 134.9,
               "E5": 145.9,
-              "B7": 141.9,
-              "SDV": 151.9
+              "B7": 142.9,
+              "SDV": 152.9
             }
           },
           {
@@ -39987,10 +40641,10 @@
               "longitude": -0.770349
             },
             "prices": {
-              "E10": 131.9,
+              "E10": 132.9,
               "E5": 145.9,
-              "B7": 138.9,
-              "SDV": 148.9
+              "B7": 139.9,
+              "SDV": 149.9
             }
           },
           {
@@ -40050,10 +40704,10 @@
               "longitude": -3.517247
             },
             "prices": {
-              "E10": 130.9,
+              "E10": 131.9,
               "E5": 145.9,
-              "B7": 138.9,
-              "SDV": 148.9
+              "B7": 139.9,
+              "SDV": 149.9
             }
           },
           {
@@ -40414,7 +41068,7 @@
             "prices": {
               "E10": 131.9,
               "E5": 145.9,
-              "B7": 138.9
+              "B7": 139.9
             }
           },
           {
@@ -44793,7 +45447,7 @@
     {
       "name": "Sainsbury\u2019s",
       "data": {
-        "last_updated": "20/09/2025 02:00:16",
+        "last_updated": "21/09/2025 02:00:16",
         "stations": [
           {
             "site_id": "u100yq7n0zz3",
@@ -44925,8 +45579,8 @@
               "longitude": -1.77769
             },
             "prices": {
-              "E10": 126.9,
-              "E5": 138.9,
+              "E10": 127.9,
+              "E5": 139.9,
               "B7": 134.9
             }
           },
@@ -45585,8 +46239,8 @@
               "longitude": -0.22471
             },
             "prices": {
-              "E10": 136.9,
-              "E5": 148.9,
+              "E10": 135.9,
+              "E5": 147.9,
               "B7": 141.9
             }
           },
@@ -46170,8 +46824,8 @@
               "longitude": 1.13371
             },
             "prices": {
-              "E10": 127.9,
-              "E5": 139.9,
+              "E10": 125.9,
+              "E5": 137.9,
               "B7": 135.9
             }
           },
@@ -46515,8 +47169,8 @@
               "longitude": -0.9763
             },
             "prices": {
-              "E10": 135.9,
-              "E5": 147.9,
+              "E10": 137.9,
+              "E5": 149.9,
               "B7": 142.9
             }
           },
@@ -46590,8 +47244,8 @@
               "longitude": 1.16405
             },
             "prices": {
-              "E10": 136.9,
-              "E5": 148.9,
+              "E10": 135.9,
+              "E5": 147.9,
               "B7": 144.9
             }
           },
@@ -46665,8 +47319,8 @@
               "longitude": -3.48043
             },
             "prices": {
-              "E10": 132.9,
-              "E5": 144.9,
+              "E10": 131.9,
+              "E5": 143.9,
               "B7": 141.9
             }
           },
@@ -46965,8 +47619,8 @@
               "longitude": -1.54811
             },
             "prices": {
-              "E10": 134.9,
-              "E5": 146.9,
+              "E10": 135.9,
+              "E5": 147.9,
               "B7": 142.9
             }
           },
@@ -46982,7 +47636,7 @@
             "prices": {
               "E10": 134.9,
               "E5": 146.9,
-              "B7": 143.9
+              "B7": 144.9
             }
           },
           {
@@ -47190,8 +47844,8 @@
               "longitude": -1.49773
             },
             "prices": {
-              "E10": 132.9,
-              "E5": 144.9,
+              "E10": 133.9,
+              "E5": 145.9,
               "B7": 143.9
             }
           },
@@ -47280,8 +47934,8 @@
               "longitude": -0.28677
             },
             "prices": {
-              "E10": 133.9,
-              "E5": 145.9,
+              "E10": 132.9,
+              "E5": 144.9,
               "B7": 138.9
             }
           },
@@ -47297,7 +47951,7 @@
             "prices": {
               "E10": 133.9,
               "E5": 145.9,
-              "B7": 142.9
+              "B7": 143.9
             }
           },
           {
@@ -47595,8 +48249,8 @@
               "longitude": 1.20846
             },
             "prices": {
-              "E10": 127.9,
-              "E5": 139.9,
+              "E10": 125.9,
+              "E5": 137.9,
               "B7": 135.9
             }
           },
@@ -47852,7 +48506,7 @@
             "prices": {
               "E10": 128.9,
               "E5": null,
-              "B7": 137.9
+              "B7": 138.9
             }
           },
           {
@@ -47925,7 +48579,7 @@
               "longitude": 1.14791
             },
             "prices": {
-              "E10": 132.9,
+              "E10": 133.9,
               "E5": null,
               "B7": 140.9
             }
@@ -48045,9 +48699,9 @@
               "longitude": -2.46139
             },
             "prices": {
-              "E10": 135.9,
-              "E5": 147.9,
-              "B7": 143.9
+              "E10": 136.9,
+              "E5": 148.9,
+              "B7": 144.9
             }
           },
           {
@@ -48270,8 +48924,8 @@
               "longitude": -0.60172
             },
             "prices": {
-              "E10": 129.9,
-              "E5": 141.9,
+              "E10": 128.9,
+              "E5": 140.9,
               "B7": 137.9
             }
           },
@@ -48360,8 +49014,8 @@
               "longitude": 0.15846
             },
             "prices": {
-              "E10": 136.9,
-              "E5": 148.9,
+              "E10": 138.9,
+              "E5": 150.9,
               "B7": 143.9
             }
           },
@@ -48420,8 +49074,8 @@
               "longitude": -3.85042
             },
             "prices": {
-              "E10": 135.9,
-              "E5": 147.9,
+              "E10": 136.9,
+              "E5": 148.9,
               "B7": 144.9
             }
           },
@@ -48525,8 +49179,8 @@
               "longitude": -2.1751
             },
             "prices": {
-              "E10": 129.9,
-              "E5": 141.9,
+              "E10": 128.9,
+              "E5": 140.9,
               "B7": 135.9
             }
           },
@@ -48720,8 +49374,8 @@
               "longitude": -2.23196
             },
             "prices": {
-              "E10": 126.9,
-              "E5": 138.9,
+              "E10": 127.9,
+              "E5": 139.9,
               "B7": 133.9
             }
           },
@@ -48810,8 +49464,8 @@
               "longitude": 0.59562
             },
             "prices": {
-              "E10": 134.9,
-              "E5": 146.9,
+              "E10": 135.9,
+              "E5": 147.9,
               "B7": 138.9
             }
           },
@@ -48870,8 +49524,8 @@
               "longitude": -2.18682
             },
             "prices": {
-              "E10": 126.9,
-              "E5": 138.9,
+              "E10": 127.9,
+              "E5": 139.9,
               "B7": 133.9
             }
           },
@@ -49140,8 +49794,8 @@
               "longitude": -0.15564
             },
             "prices": {
-              "E10": 132.9,
-              "E5": 144.9,
+              "E10": 131.9,
+              "E5": 143.9,
               "B7": 140.9
             }
           },
@@ -49230,8 +49884,8 @@
               "longitude": -2.25266
             },
             "prices": {
-              "E10": 137.9,
-              "E5": 149.9,
+              "E10": 139.9,
+              "E5": 151.9,
               "B7": 146.9
             }
           },
@@ -49412,7 +50066,7 @@
             "prices": {
               "E10": 132.9,
               "E5": 144.9,
-              "B7": 137.9
+              "B7": 139.9
             }
           },
           {
@@ -49472,7 +50126,7 @@
             "prices": {
               "E10": 132.9,
               "E5": 144.9,
-              "B7": 140.9
+              "B7": 141.9
             }
           },
           {
@@ -49515,8 +50169,8 @@
               "longitude": 0.73473
             },
             "prices": {
-              "E10": 126.9,
-              "E5": 138.9,
+              "E10": 129.9,
+              "E5": 141.9,
               "B7": 136.9
             }
           },
