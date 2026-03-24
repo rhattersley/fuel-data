@@ -103,7 +103,10 @@ def station_batch(token, batch_number):
 
 def all_stations(token):
     batch_number = 1
-    while stations := station_batch(token, batch_number):
+    while True:
+        stations = station_batch(token, batch_number)
+        if not stations:
+            break
         yield from stations
         batch_number += 1
 
@@ -125,7 +128,10 @@ def price_batch(token, batch_number):
 
 def all_prices(token):
     batch_number = 1
-    while prices := price_batch(token, batch_number):
+    while True:
+        prices = price_batch(token, batch_number)
+        if not prices:
+            break
         yield from prices
         batch_number += 1
 
