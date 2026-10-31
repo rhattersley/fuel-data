@@ -310,12 +310,12 @@
         "price_last_updated": "2026-09-23T07:41:04.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-09-23T07:41:04.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T12:14:15.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-02T08:13:41.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T12:14:15.000Z"
       }
     }
   },
@@ -1936,8 +1936,8 @@
         "price_last_updated": "2026-10-26T14:54:13.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-26T14:46:32.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T09:25:20.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -2046,12 +2046,12 @@
     "node_id": "028b9ed29034b88ee96234d67b8e9881cf42c3a13983c021df6158ce1f815b8e",
     "prices": {
       "E5": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-23T11:48:32.402Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T09:37:56.546Z"
       },
       "E10": {
-        "price": 165.9,
-        "price_last_updated": "2026-10-23T11:48:32.402Z"
+        "price": 164.9,
+        "price_last_updated": "2026-10-31T09:37:56.546Z"
       },
       "B7_STANDARD": {
         "price": 190.9,
@@ -3032,8 +3032,8 @@
         "price_last_updated": "2026-09-28T14:28:01.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-28T12:09:48.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T12:33:15.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -3598,20 +3598,20 @@
     "node_id": "04d370124f2386797cbcdc2595a3ab39e59916a1e163a34ad7ff2e325788bf23",
     "prices": {
       "E5": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-30T20:41:06.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T07:41:07.000Z"
       },
       "E10": {
-        "price": 175.9,
-        "price_last_updated": "2026-10-30T20:41:06.000Z"
+        "price": 174.9,
+        "price_last_updated": "2026-10-31T07:31:01.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:41:06.000Z"
+        "price": 200.9,
+        "price_last_updated": "2026-10-31T07:41:07.000Z"
       },
       "B7_PREMIUM": {
-        "price": 222.9,
-        "price_last_updated": "2026-10-30T20:41:06.000Z"
+        "price": 220.9,
+        "price_last_updated": "2026-10-31T07:41:07.000Z"
       }
     }
   },
@@ -3654,8 +3654,8 @@
         "price_last_updated": "2026-09-21T12:50:45.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-09-18T15:12:05.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T09:18:06.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -4476,12 +4476,12 @@
     "node_id": "06577c36654eb1edca6b7ea2db3d5b28b39b12218c19e54a522bd25fb6243003",
     "prices": {
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-17T18:14:36.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T13:13:59.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.9,
-        "price_last_updated": "2026-10-17T18:15:28.000Z"
+        "price": 197.9,
+        "price_last_updated": "2026-10-31T13:14:33.000Z"
       }
     }
   },
@@ -4608,8 +4608,8 @@
         "price_last_updated": "2026-09-28T15:17:16.000Z"
       },
       "E10": {
-        "price": 166.9,
-        "price_last_updated": "2026-10-29T12:08:24.000Z"
+        "price": 165.9,
+        "price_last_updated": "2026-10-31T13:39:21.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -6074,12 +6074,12 @@
         "price_last_updated": "2026-10-29T10:30:17.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-22T10:00:21.000Z"
+        "price": 197.9,
+        "price_last_updated": "2026-10-31T10:00:54.000Z"
       },
       "B7_PREMIUM": {
-        "price": 219.9,
-        "price_last_updated": "2026-10-22T10:00:25.000Z"
+        "price": 217.9,
+        "price_last_updated": "2026-10-31T10:00:18.000Z"
       }
     }
   },
@@ -6328,8 +6328,8 @@
         "price_last_updated": "2026-09-22T14:08:37.000Z"
       },
       "E10": {
-        "price": 177.9,
-        "price_last_updated": "2026-09-22T14:06:33.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T11:42:32.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -6498,8 +6498,8 @@
         "price_last_updated": "2026-09-21T12:24:25.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-09-21T12:24:25.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T14:29:22.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -6922,12 +6922,12 @@
         "price_last_updated": "2026-09-23T12:55:58.417Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-26T07:18:18.201Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T15:33:04.918Z"
       },
       "B7_STANDARD": {
-        "price": 198.9,
-        "price_last_updated": "2026-10-20T12:45:43.284Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T15:33:04.918Z"
       }
     }
   },
@@ -7056,16 +7056,16 @@
     "node_id": "099013c7eb20f1d53e25fc98ecc827fdc47b636a25cb330cf392f1d20e3106d4",
     "prices": {
       "E5": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-17T11:31:20.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T12:29:54.000Z"
       },
       "E10": {
-        "price": 158.9,
-        "price_last_updated": "2026-10-27T14:56:17.000Z"
+        "price": 162.9,
+        "price_last_updated": "2026-10-31T12:59:28.000Z"
       },
       "B7_STANDARD": {
-        "price": 186.9,
-        "price_last_updated": "2026-10-30T12:26:11.000Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T12:59:28.000Z"
       }
     }
   },
@@ -9066,20 +9066,20 @@
     "node_id": "0c5dee22ecf242d1027b6118eac744e01755e080df95a19ae4b66109035f37bb",
     "prices": {
       "E5": {
-        "price": 229.9,
-        "price_last_updated": "2026-09-30T14:52:16.000Z"
+        "price": 249.9,
+        "price_last_updated": "2026-10-31T06:48:55.000Z"
       },
       "E10": {
-        "price": 168.7,
-        "price_last_updated": "2026-10-03T07:56:12.000Z"
+        "price": 167.7,
+        "price_last_updated": "2026-10-31T06:48:55.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-07T08:31:44.000Z"
+        "price": 199.7,
+        "price_last_updated": "2026-10-31T06:48:55.000Z"
       },
       "B7_PREMIUM": {
-        "price": 229.9,
-        "price_last_updated": "2026-09-30T14:52:16.000Z"
+        "price": 249.9,
+        "price_last_updated": "2026-10-31T06:50:20.000Z"
       }
     }
   },
@@ -9592,8 +9592,8 @@
         "price_last_updated": "2026-09-28T14:29:05.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-30T11:23:58.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T12:47:07.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -10432,8 +10432,8 @@
         "price_last_updated": "2026-09-25T10:21:45.000Z"
       },
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-21T10:43:39.000Z"
+        "price": 161.9,
+        "price_last_updated": "2026-10-31T12:31:25.000Z"
       },
       "B7_STANDARD": {
         "price": 189.9,
@@ -11098,12 +11098,12 @@
         "price_last_updated": "2026-09-15T10:35:56.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-19T10:19:22.000Z"
+        "price": 169.7,
+        "price_last_updated": "2026-10-31T09:18:14.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-13T07:49:16.000Z"
+        "price": 199.7,
+        "price_last_updated": "2026-10-31T09:18:14.000Z"
       }
     }
   },
@@ -12174,12 +12174,12 @@
     "node_id": "10b03252cc2cc7c6a4a2013649672cc039e3fd9310148eba4307e869677e4de5",
     "prices": {
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-13T13:32:00.000Z"
+        "price": 165.9,
+        "price_last_updated": "2026-10-31T10:16:25.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.9,
-        "price_last_updated": "2026-10-13T13:32:00.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T10:16:25.000Z"
       }
     }
   },
@@ -12420,12 +12420,12 @@
         "price_last_updated": "2026-10-18T14:53:21.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-29T16:57:22.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T11:45:09.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.9,
-        "price_last_updated": "2026-10-29T16:57:22.000Z"
+        "price": 198.7,
+        "price_last_updated": "2026-10-31T11:45:09.000Z"
       },
       "B7_PREMIUM": {
         "price": 208.9,
@@ -12866,12 +12866,12 @@
     "node_id": "11bf99ac012c445017bacfd18b407d3804ef4c91d91ed7c26a245c3c6ffb4963",
     "prices": {
       "E5": {
-        "price": 185.9,
-        "price_last_updated": "2026-10-13T06:39:04.000Z"
+        "price": 183.9,
+        "price_last_updated": "2026-10-31T06:50:39.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-13T06:39:04.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T06:50:39.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -12976,12 +12976,12 @@
     "node_id": "11dd0793f6e56f282c909579e7d455bf7220cc812cc760b53f5adc0351bedd00",
     "prices": {
       "E5": {
-        "price": 186.9,
-        "price_last_updated": "2026-10-28T17:08:28.000Z"
+        "price": 184.9,
+        "price_last_updated": "2026-10-31T08:27:15.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-28T17:08:28.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T08:27:15.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -16176,8 +16176,8 @@
         "price_last_updated": "2026-10-27T12:16:36.254Z"
       },
       "E10": {
-        "price": 161.9,
-        "price_last_updated": "2026-10-27T12:16:36.254Z"
+        "price": 160.9,
+        "price_last_updated": "2026-10-31T07:04:44.442Z"
       },
       "B7_STANDARD": {
         "price": 189.9,
@@ -16740,8 +16740,8 @@
     "node_id": "1709136fd1d14ccd02fcaed5443573befbd07832bef626ab3675f4c8f264f8c5",
     "prices": {
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-27T05:41:13.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T07:05:19.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -17140,12 +17140,12 @@
     "node_id": "177997c78b50d586b6752e1cc2b60fc744ee2f618cad3c617b371a3c670c7396",
     "prices": {
       "E10": {
-        "price": 164.9,
-        "price_last_updated": "2026-10-20T10:15:05.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-10-31T12:26:41.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-08T08:39:03.000Z"
+        "price": 192.9,
+        "price_last_updated": "2026-10-31T12:26:41.000Z"
       }
     }
   },
@@ -17894,20 +17894,20 @@
     "node_id": "18f3cb9b478c27b414f2649048a528a887764fc2f8e0016e65dd46643eb17d1c",
     "prices": {
       "E5": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-30T20:41:11.000Z"
+        "price": 197.9,
+        "price_last_updated": "2026-10-31T07:41:11.000Z"
       },
       "E10": {
-        "price": 178.9,
-        "price_last_updated": "2026-10-30T20:41:11.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T07:41:11.000Z"
       },
       "B7_STANDARD": {
-        "price": 207.9,
-        "price_last_updated": "2026-10-30T20:41:11.000Z"
+        "price": 206.9,
+        "price_last_updated": "2026-10-31T07:41:11.000Z"
       },
       "B7_PREMIUM": {
-        "price": 228.9,
-        "price_last_updated": "2026-10-30T20:41:11.000Z"
+        "price": 226.9,
+        "price_last_updated": "2026-10-31T07:41:11.000Z"
       }
     }
   },
@@ -18296,8 +18296,8 @@
         "price_last_updated": "2026-10-23T09:26:53.000Z"
       },
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-16T12:29:25.000Z"
+        "price": 162.9,
+        "price_last_updated": "2026-10-31T13:38:48.000Z"
       },
       "B7_STANDARD": {
         "price": 187.9,
@@ -18314,12 +18314,12 @@
     "node_id": "1990d054706f03777f2d52f72f67865e26ea68d3ed0a4748ec3bd466fd8f89e0",
     "prices": {
       "E5": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-29T07:41:18.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T09:42:01.000Z"
       },
       "E10": {
-        "price": 167.9,
-        "price_last_updated": "2026-10-29T07:41:18.000Z"
+        "price": 165.9,
+        "price_last_updated": "2026-10-31T09:42:01.000Z"
       },
       "B7_STANDARD": {
         "price": 195.9,
@@ -18354,12 +18354,12 @@
     "node_id": "199df468e490b7edb7674e93c1d067c575a33a79f0fb397170599cb2fdb1e45c",
     "prices": {
       "E5": {
-        "price": 193.9,
-        "price_last_updated": "2026-10-30T10:35:29.050Z"
+        "price": 192.9,
+        "price_last_updated": "2026-10-31T10:05:24.025Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-30T10:35:29.050Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T10:05:24.025Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -19462,12 +19462,12 @@
     "node_id": "1b8b02c0d7b7a8d2f091c7559cd1535977afbc3030a8ae82759442f0a4a15bdf",
     "prices": {
       "E5": {
-        "price": 175.9,
-        "price_last_updated": "2026-10-28T06:39:19.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T06:48:33.000Z"
       },
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-28T06:39:19.000Z"
+        "price": 161.9,
+        "price_last_updated": "2026-10-31T06:48:33.000Z"
       },
       "B7_STANDARD": {
         "price": 185.9,
@@ -21526,8 +21526,8 @@
         "price_last_updated": "2026-10-21T09:50:42.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-21T09:50:42.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T09:45:12.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -22702,12 +22702,12 @@
     "node_id": "2057ada8919894b58db6e0a7381414d5630c4d5196ddd7d9dd058fa4cb904468",
     "prices": {
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-27T16:31:24.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T09:25:51.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-19T10:41:06.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T09:25:51.000Z"
       },
       "B7_PREMIUM": {
         "price": 219.9,
@@ -23298,8 +23298,8 @@
         "price_last_updated": "2026-09-28T15:15:19.000Z"
       },
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-28T11:26:23.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T13:39:07.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -23620,8 +23620,8 @@
         "price_last_updated": "2026-09-28T14:29:09.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-30T10:56:28.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T12:34:17.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -24600,8 +24600,8 @@
         "price_last_updated": "2026-10-26T15:03:36.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-26T15:03:36.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T09:29:42.000Z"
       }
     }
   },
@@ -24692,8 +24692,8 @@
         "price_last_updated": "2026-10-29T11:46:24.000Z"
       },
       "B7_STANDARD": {
-        "price": 192.9,
-        "price_last_updated": "2026-10-08T08:40:35.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-10-31T11:41:43.000Z"
       }
     }
   },
@@ -26266,8 +26266,8 @@
     "node_id": "24f1b5ef4e3c1e88676dbb8148568ec8222d717891c337cdbb49107e173298f7",
     "prices": {
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-09-24T13:21:31.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T09:35:55.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -26372,8 +26372,8 @@
         "price_last_updated": "2026-09-28T14:53:25.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-30T11:29:01.000Z"
+        "price": 172.9,
+        "price_last_updated": "2026-10-31T12:37:35.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -26764,8 +26764,8 @@
     "node_id": "25b2ed257f5aa6d34defc70fe9e97b325bc4fd5fcf1d7f3e134b28df8d850a80",
     "prices": {
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-09-25T12:24:12.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T11:41:17.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -27098,12 +27098,12 @@
     "node_id": "26124f3e084ab0c80feb375debcf0a800cdd2cad233a25fc65410f0c3a180bf5",
     "prices": {
       "E5": {
-        "price": 191.9,
-        "price_last_updated": "2026-10-30T10:35:33.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-10-31T10:05:32.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-30T10:35:33.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T10:05:31.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -27128,8 +27128,8 @@
         "price_last_updated": "2026-10-27T15:02:52.000Z"
       },
       "E10": {
-        "price": 166.9,
-        "price_last_updated": "2026-10-27T15:02:52.000Z"
+        "price": 165.9,
+        "price_last_updated": "2026-10-31T11:54:18.000Z"
       },
       "B7_STANDARD": {
         "price": 194.9,
@@ -27400,12 +27400,12 @@
     "node_id": "266eb5c648f030b0132ffabacdb26eaa34c884ac6d7e2392128afa252eae591e",
     "prices": {
       "E5": {
-        "price": 180.6,
-        "price_last_updated": "2026-10-30T08:20:19.000Z"
+        "price": 165.6,
+        "price_last_updated": "2026-10-31T12:00:25.000Z"
       },
       "E10": {
-        "price": 166.6,
-        "price_last_updated": "2026-10-30T08:20:19.000Z"
+        "price": 165.6,
+        "price_last_updated": "2026-10-31T09:05:50.000Z"
       },
       "B7_STANDARD": {
         "price": 196.6,
@@ -27488,8 +27488,8 @@
     "node_id": "26aa2fad818a2446ead49ef67cb23d59c002f116ebcc5597c0ac4c19aa862552",
     "prices": {
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-24T08:20:24.000Z"
+        "price": 172.9,
+        "price_last_updated": "2026-10-31T09:29:56.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -28792,12 +28792,12 @@
     "node_id": "2852d8d5e29162b84ccf1a751d28c240fadf858ec85c59fff17f0cbe582d25b2",
     "prices": {
       "E5": {
-        "price": 185.9,
-        "price_last_updated": "2026-09-16T06:33:21.000Z"
+        "price": 183.9,
+        "price_last_updated": "2026-10-31T09:37:41.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-09-16T06:33:21.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T09:37:41.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -30564,12 +30564,12 @@
     "node_id": "2b32cf8be86ac43f19c1fc140a6bfc73abad0961e140a7681f322263b3a11c41",
     "prices": {
       "E5": {
-        "price": 198.9,
-        "price_last_updated": "2026-09-23T13:02:51.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T13:40:11.000Z"
       },
       "E10": {
-        "price": 178.9,
-        "price_last_updated": "2026-09-23T13:02:51.000Z"
+        "price": 174.9,
+        "price_last_updated": "2026-10-31T13:40:11.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -30826,12 +30826,12 @@
     "node_id": "2b69a5847d81cdd358257f752c0bf9d40d8bf5d8aa7f14711c8c15d30156e7a3",
     "prices": {
       "E5": {
-        "price": 187.9,
-        "price_last_updated": "2026-10-22T10:09:06.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T12:43:09.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-22T10:09:06.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T12:43:09.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -31324,12 +31324,12 @@
         "price_last_updated": "2026-10-24T05:21:53.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-24T05:21:53.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T10:44:51.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-09-21T08:35:37.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T10:44:51.000Z"
       },
       "B7_PREMIUM": {
         "price": 209.9,
@@ -31614,12 +31614,12 @@
     "node_id": "2c789c75ac9b1abb409f53fbe120046fdd420784ea0ae602fd932fadf6a10d5f",
     "prices": {
       "E5": {
-        "price": 181.9,
-        "price_last_updated": "2026-10-25T09:49:31.000Z"
+        "price": 179.9,
+        "price_last_updated": "2026-10-31T07:21:42.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-25T09:49:31.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T07:20:42.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -31640,8 +31640,8 @@
         "price_last_updated": "2026-10-30T13:08:23.000Z"
       },
       "E10": {
-        "price": 165.9,
-        "price_last_updated": "2026-10-30T12:38:17.000Z"
+        "price": 164.9,
+        "price_last_updated": "2026-10-31T11:47:45.000Z"
       },
       "B7_STANDARD": {
         "price": 192.9,
@@ -32316,8 +32316,8 @@
         "price_last_updated": "2026-09-28T14:28:36.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-23T14:13:43.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T12:33:23.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -32582,12 +32582,12 @@
     "node_id": "2de8833d3cd0d18c98f6ea451fe912a3e6954b8ba59366b5044b7039a4bb4ec3",
     "prices": {
       "E5": {
-        "price": 186.9,
-        "price_last_updated": "2026-10-12T11:05:11.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T10:16:48.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-12T11:05:11.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T10:16:48.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -33200,20 +33200,20 @@
     "node_id": "2ec40188e763fc23047ba0351dffc7a3f8c8bde5d61433d6e074f2291a3e9661",
     "prices": {
       "E5": {
-        "price": 189.9,
-        "price_last_updated": "2026-10-23T16:08:48.000Z"
+        "price": 186.9,
+        "price_last_updated": "2026-10-31T06:55:32.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-23T16:08:48.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T06:55:32.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-23T16:08:48.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T06:55:32.000Z"
       },
       "B7_PREMIUM": {
-        "price": 212.9,
-        "price_last_updated": "2026-10-23T16:08:48.000Z"
+        "price": 211.9,
+        "price_last_updated": "2026-10-31T06:55:32.000Z"
       }
     }
   },
@@ -34714,6 +34714,28 @@
     }
   },
   {
+    "brand": "SAINSBURYS",
+    "location": {
+      "latitude": 55.95792,
+      "longitude": -3.24398
+    },
+    "node_id": "30a5fac2529b74514ce70bd6b058a7f6b6e4d64e60cdea12c34d22084ed9461b",
+    "prices": {
+      "E5": {
+        "price": 181.9,
+        "price_last_updated": "2026-10-31T06:45:28.000Z"
+      },
+      "E10": {
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T06:45:28.000Z"
+      },
+      "B7_STANDARD": {
+        "price": 190.9,
+        "price_last_updated": "2026-10-13T06:50:14.000Z"
+      }
+    }
+  },
+  {
     "brand": "SHELL",
     "location": {
       "latitude": 51.504452,
@@ -35056,20 +35078,20 @@
     "node_id": "312f060eaeb00bda84f21bd6441d61a11b1ab0b714cf80d59bc10440066b0c50",
     "prices": {
       "E5": {
-        "price": 188.9,
-        "price_last_updated": "2026-09-29T18:50:18.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T14:17:26.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-09-29T18:50:18.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T14:17:26.000Z"
       },
       "B7_STANDARD": {
-        "price": 196.9,
-        "price_last_updated": "2026-09-29T18:50:18.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T14:17:26.000Z"
       },
       "B7_PREMIUM": {
-        "price": 215.9,
-        "price_last_updated": "2026-09-25T13:29:50.000Z"
+        "price": 205.9,
+        "price_last_updated": "2026-10-31T14:17:26.000Z"
       }
     }
   },
@@ -35616,8 +35638,8 @@
         "price_last_updated": "2026-09-15T10:37:28.000Z"
       },
       "E10": {
-        "price": 177.9,
-        "price_last_updated": "2026-10-16T11:44:08.000Z"
+        "price": 176.9,
+        "price_last_updated": "2026-10-31T09:01:31.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -36438,12 +36460,12 @@
     "node_id": "32e5e276d604141ace5e2af9358d1ba0d16cf0d31566f0e3e86c4fafb82b9c3e",
     "prices": {
       "E5": {
-        "price": 188.9,
-        "price_last_updated": "2026-10-19T09:38:52.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T11:38:06.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-19T09:38:52.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T11:38:06.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -37800,8 +37822,8 @@
         "price_last_updated": "2026-09-28T14:44:43.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-30T11:25:47.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T12:40:30.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -38104,8 +38126,8 @@
         "price_last_updated": "2026-09-28T15:16:20.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-29T11:42:32.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T13:54:11.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -39218,12 +39240,12 @@
         "price_last_updated": "2026-10-21T13:03:34.154Z"
       },
       "E10": {
-        "price": 165.9,
-        "price_last_updated": "2026-10-26T07:18:27.895Z"
+        "price": 162.9,
+        "price_last_updated": "2026-10-31T15:35:31.485Z"
       },
       "B7_STANDARD": {
-        "price": 195.9,
-        "price_last_updated": "2026-10-26T07:18:27.895Z"
+        "price": 192.9,
+        "price_last_updated": "2026-10-31T15:35:31.485Z"
       },
       "B7_PREMIUM": {
         "price": 215.9,
@@ -40682,8 +40704,8 @@
     "node_id": "3979fdff24555328fcb7c025f636483ee15cb8bf76b72a21e5a5ea81c386ee3f",
     "prices": {
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-26T08:33:25.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T09:00:16.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -43096,12 +43118,12 @@
         "price_last_updated": "2026-10-19T09:49:19.551Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-26T07:19:00.273Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T15:30:45.808Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-26T07:19:00.273Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T15:30:45.808Z"
       },
       "B7_PREMIUM": {
         "price": 219.9,
@@ -43692,8 +43714,8 @@
         "price_last_updated": "2026-10-30T12:20:09.000Z"
       },
       "B7_STANDARD": {
-        "price": 186.9,
-        "price_last_updated": "2026-10-29T12:33:29.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T11:41:43.000Z"
       }
     }
   },
@@ -43936,16 +43958,16 @@
     "node_id": "3d87e93acb8430d7059dd8671c6e34f063d9b57a2f958b90ed776d805b35bbb6",
     "prices": {
       "E5": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-28T12:15:25.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T09:56:25.000Z"
       },
       "E10": {
         "price": 165.9,
         "price_last_updated": "2026-10-28T12:13:16.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-28T12:14:36.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T09:57:02.000Z"
       }
     }
   },
@@ -45188,12 +45210,12 @@
         "price_last_updated": "2026-10-30T11:46:50.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-30T11:46:50.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T11:31:24.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-30T11:46:50.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T11:31:50.000Z"
       }
     }
   },
@@ -46052,8 +46074,8 @@
         "price_last_updated": "2026-09-28T15:17:32.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-27T12:18:24.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T13:39:00.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -46322,12 +46344,12 @@
     "node_id": "406a686c21b9018778ca5220a4b1f3d98a942d40c2c4a425ccf3487b86eaa337",
     "prices": {
       "E5": {
-        "price": 180.9,
-        "price_last_updated": "2026-10-26T08:33:11.000Z"
+        "price": 178.9,
+        "price_last_updated": "2026-10-31T08:58:33.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-26T08:33:11.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T08:58:33.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -46988,16 +47010,16 @@
         "price_last_updated": "2026-09-28T15:21:04.000Z"
       },
       "E10": {
-        "price": 167.9,
-        "price_last_updated": "2026-10-29T12:20:30.000Z"
+        "price": 164.9,
+        "price_last_updated": "2026-10-31T13:41:28.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-19T11:46:53.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T13:41:28.000Z"
       },
       "B7_PREMIUM": {
-        "price": 204.9,
-        "price_last_updated": "2026-10-19T11:46:53.000Z"
+        "price": 203.9,
+        "price_last_updated": "2026-10-31T13:41:28.000Z"
       }
     }
   },
@@ -47194,8 +47216,8 @@
     "node_id": "41cd667c5dcfff8b99f74304ea2048d1423dd17a04da19abb11c05062798bc56",
     "prices": {
       "E10": {
-        "price": 175.9,
-        "price_last_updated": "2026-10-21T10:18:11.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T14:38:15.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -48759,7 +48781,7 @@
       },
       "B7_STANDARD": {
         "price": 192.9,
-        "price_last_updated": "2026-09-19T13:09:52.000Z"
+        "price_last_updated": "2026-10-31T11:52:21.000Z"
       }
     }
   },
@@ -49190,8 +49212,8 @@
     "node_id": "444e1250c604be13f8ff9ca20382a178dcb1081271001d83a1aa9f432b08df74",
     "prices": {
       "E10": {
-        "price": 165.9,
-        "price_last_updated": "2026-09-19T10:49:38.000Z"
+        "price": 163.9,
+        "price_last_updated": "2026-10-31T12:34:52.000Z"
       },
       "B7_STANDARD": {
         "price": 193.9,
@@ -49638,20 +49660,20 @@
     "node_id": "44f5f18c090b00fcec1727ce86a203f3d0a8adc8d523946b687778ab4d53b29b",
     "prices": {
       "E5": {
-        "price": 178.9,
-        "price_last_updated": "2026-10-15T14:55:48.000Z"
+        "price": 176.9,
+        "price_last_updated": "2026-10-31T14:33:50.000Z"
       },
       "E10": {
-        "price": 166.9,
-        "price_last_updated": "2026-10-15T14:55:48.000Z"
+        "price": 164.9,
+        "price_last_updated": "2026-10-31T14:33:50.000Z"
       },
       "B7_STANDARD": {
-        "price": 195.9,
-        "price_last_updated": "2026-10-15T14:55:48.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T14:33:50.000Z"
       },
       "B7_PREMIUM": {
-        "price": 207.9,
-        "price_last_updated": "2026-10-15T14:55:48.000Z"
+        "price": 206.9,
+        "price_last_updated": "2026-10-31T14:33:50.000Z"
       }
     }
   },
@@ -49946,20 +49968,20 @@
     "node_id": "4534984d6b3d27deab5c7441e02de6a56367b2e7268399149bb293ea220633a9",
     "prices": {
       "E5": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:51:01.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T07:51:01.000Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-30T20:51:01.000Z"
+        "price": 175.9,
+        "price_last_updated": "2026-10-31T07:51:01.000Z"
       },
       "B7_STANDARD": {
-        "price": 200.9,
-        "price_last_updated": "2026-10-30T20:51:01.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T07:51:01.000Z"
       },
       "B7_PREMIUM": {
-        "price": 228.9,
-        "price_last_updated": "2026-10-30T20:51:01.000Z"
+        "price": 226.9,
+        "price_last_updated": "2026-10-31T07:51:01.000Z"
       }
     }
   },
@@ -50372,8 +50394,8 @@
     "node_id": "45ecd142cd4611e1c65f4bffa10651d247d77124ce2f9d60c137b829d8b9fce3",
     "prices": {
       "E5": {
-        "price": 178.9,
-        "price_last_updated": "2026-10-30T12:32:14.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T11:47:45.000Z"
       },
       "E10": {
         "price": 168.9,
@@ -51868,12 +51890,12 @@
     "node_id": "479aa163e0edfaa657465eadfd0430eeaf01557b066dc26ff0f855dc776f9db8",
     "prices": {
       "E5": {
-        "price": 190.9,
-        "price_last_updated": "2026-10-29T11:25:10.886Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T10:15:14.272Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-29T11:25:10.886Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T10:15:14.272Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -52854,12 +52876,12 @@
     "node_id": "492a49cf928d172466b79d761ff88ad1d5af477ac9a22b0ed0ec4d1b94a3de09",
     "prices": {
       "E5": {
-        "price": 195.9,
-        "price_last_updated": "2026-10-29T09:52:14.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T09:30:35.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-29T09:52:14.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T09:30:35.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -53046,20 +53068,20 @@
     "node_id": "494f99abcf9ed13c9f3f30a6780999bfdfaeac429fed46c6709cd351cc846328",
     "prices": {
       "E5": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-30T20:41:10.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T09:21:03.000Z"
       },
       "E10": {
-        "price": 178.9,
-        "price_last_updated": "2026-10-30T20:41:10.000Z"
+        "price": 175.9,
+        "price_last_updated": "2026-10-31T09:21:03.000Z"
       },
       "B7_STANDARD": {
-        "price": 205.9,
-        "price_last_updated": "2026-10-30T20:41:10.000Z"
+        "price": 202.9,
+        "price_last_updated": "2026-10-31T09:21:03.000Z"
       },
       "B7_PREMIUM": {
-        "price": 226.9,
-        "price_last_updated": "2026-10-30T20:41:10.000Z"
+        "price": 222.9,
+        "price_last_updated": "2026-10-31T09:21:03.000Z"
       }
     }
   },
@@ -54122,8 +54144,8 @@
         "price_last_updated": "2026-09-28T22:07:58.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-28T23:07:29.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T08:07:32.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -54534,8 +54556,8 @@
         "price_last_updated": "2026-09-15T10:21:58.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-24T08:31:56.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T09:36:48.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -56530,12 +56552,12 @@
         "price_last_updated": "2026-09-26T12:57:10.072Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-26T07:17:49.809Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T15:27:24.912Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-26T07:17:49.809Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T15:27:24.912Z"
       },
       "B7_PREMIUM": {
         "price": 223.9,
@@ -56644,8 +56666,8 @@
         "price_last_updated": "2026-10-03T17:30:26.000Z"
       },
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-29T11:20:22.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T12:16:14.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -56954,12 +56976,12 @@
     "node_id": "4e846d00f334d7b7e6c466973d1e7ea8970f72133d53d882544ec6d325fb9ddb",
     "prices": {
       "E5": {
-        "price": 193.9,
-        "price_last_updated": "2026-10-30T10:50:17.896Z"
+        "price": 192.9,
+        "price_last_updated": "2026-10-31T10:10:29.326Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-30T10:50:17.896Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T10:10:29.326Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -57460,8 +57482,8 @@
         "price_last_updated": "2026-10-30T17:58:50.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-24T08:36:24.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-10-31T09:53:40.000Z"
       },
       "B7_PREMIUM": {
         "price": 219.9,
@@ -57890,8 +57912,8 @@
         "price_last_updated": "2026-09-28T14:28:20.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-28T12:09:25.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T12:33:49.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -60880,8 +60902,8 @@
         "price_last_updated": "2026-09-28T14:28:58.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-30T11:33:19.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T12:37:05.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -62408,16 +62430,16 @@
     "node_id": "568c391740c2f78051031718127d64ad45b3fa7b4238d061f0b503f2c5cc9b99",
     "prices": {
       "E5": {
-        "price": 182.9,
-        "price_last_updated": "2026-10-25T06:50:15.000Z"
+        "price": 181.9,
+        "price_last_updated": "2026-10-31T08:31:37.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-25T06:50:15.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T08:31:37.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-25T06:50:15.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T08:31:37.000Z"
       }
     }
   },
@@ -63440,8 +63462,8 @@
         "price_last_updated": "2026-10-19T19:16:15.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-19T19:16:15.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T09:17:19.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -63986,8 +64008,8 @@
     "node_id": "58d7116189a333f1197769451d0af365e1455099ae538ac99f9e62af75c7b57d",
     "prices": {
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-14T19:14:54.000Z"
+        "price": 165.9,
+        "price_last_updated": "2026-10-31T10:04:25.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -64858,8 +64880,8 @@
         "price_last_updated": "2026-10-30T12:32:14.000Z"
       },
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-30T12:32:14.000Z"
+        "price": 164.9,
+        "price_last_updated": "2026-10-31T13:35:03.000Z"
       },
       "B7_STANDARD": {
         "price": 188.9,
@@ -64876,12 +64898,12 @@
     "node_id": "59f8991e2b33bd6194ba35789f4f7454dd15f2b3d94ea5909924ed4e1e982457",
     "prices": {
       "E5": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-01T08:25:45.552Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T13:27:14.175Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-13T12:29:56.450Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T13:27:14.175Z"
       },
       "B7_STANDARD": {
         "price": 195.9,
@@ -65172,8 +65194,8 @@
     "node_id": "5a3fa4610bada9956a83a61e7dfcd26185cce5e49e58bee2c8f0553d887b98d6",
     "prices": {
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-24T06:28:15.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T08:05:16.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -65544,20 +65566,20 @@
     "node_id": "5accbce6b13cf58268cdc656cefb66a8801ab04fad0059c896064d336efda2cb",
     "prices": {
       "E5": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-07T18:10:16.000Z"
+        "price": 190.9,
+        "price_last_updated": "2026-10-31T09:12:51.000Z"
       },
       "E10": {
-        "price": 175.9,
-        "price_last_updated": "2026-10-07T18:10:16.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T09:12:51.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-07T18:10:16.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-10-31T09:12:51.000Z"
       },
       "B7_PREMIUM": {
-        "price": 218.9,
-        "price_last_updated": "2026-10-07T18:10:16.000Z"
+        "price": 217.9,
+        "price_last_updated": "2026-10-31T09:12:51.000Z"
       }
     }
   },
@@ -66934,8 +66956,8 @@
     "node_id": "5ce66447d1442c2b4d3ecf1462b26dba46d128837133fe84420ff82adab84645",
     "prices": {
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-28T07:48:56.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T10:49:35.000Z"
       },
       "B7_STANDARD": {
         "price": 192.9,
@@ -68388,12 +68410,12 @@
     "node_id": "5ebbaa1cfb59a45e1d706881456221fead5b3c871fda786f503811b5ef55ed98",
     "prices": {
       "E5": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-19T10:25:32.969Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T10:05:33.767Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-19T10:25:32.969Z"
+        "price": 175.9,
+        "price_last_updated": "2026-10-31T10:05:33.767Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -71420,8 +71442,8 @@
     "node_id": "62e784a7db4bfd41fcdd92b9c88b2b79f3a14fd4ed15383351444749c6bbd5f4",
     "prices": {
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-28T06:13:30.000Z"
+        "price": 162.9,
+        "price_last_updated": "2026-10-31T11:07:48.000Z"
       },
       "B7_STANDARD": {
         "price": 191.9,
@@ -71912,8 +71934,8 @@
     "node_id": "63a63323b0767ad0574c3dfe5777707cc5b74d9c6c2959b709926147cfa91aab",
     "prices": {
       "E5": {
-        "price": 198.9,
-        "price_last_updated": "2026-10-30T12:01:03.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T09:50:03.000Z"
       },
       "E10": {
         "price": 172.9,
@@ -72344,12 +72366,12 @@
     "node_id": "643c89f69523054588d3ae1adc7c1f0e73d21d62477cea474cfcc611a279b750",
     "prices": {
       "E5": {
-        "price": 183.9,
-        "price_last_updated": "2026-10-17T06:51:22.000Z"
+        "price": 181.9,
+        "price_last_updated": "2026-10-31T06:50:39.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-17T06:51:22.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T06:50:39.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -72392,12 +72414,12 @@
     "node_id": "648df4662b4c1362fbe353324d515ca002419663c2b74a28d706d2002d6953b3",
     "prices": {
       "E5": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-19T10:21:05.379Z"
+        "price": 192.9,
+        "price_last_updated": "2026-10-31T10:15:20.703Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-19T10:21:05.379Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T10:15:20.703Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -72650,8 +72672,8 @@
         "price_last_updated": "2026-09-28T14:43:08.000Z"
       },
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-28T12:09:57.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T12:45:25.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -73874,12 +73896,12 @@
     "node_id": "6682215b7562c47516e12cc31b6e72ed819988f60c9853f4aa5f55af9cacc01a",
     "prices": {
       "E5": {
-        "price": 182.9,
-        "price_last_updated": "2026-10-24T10:45:46.000Z"
+        "price": 180.9,
+        "price_last_updated": "2026-10-31T09:54:50.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-24T10:45:46.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T09:54:50.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -74840,8 +74862,8 @@
         "price_last_updated": "2026-10-29T07:59:47.000Z"
       },
       "B7_STANDARD": {
-        "price": 192.9,
-        "price_last_updated": "2026-10-29T07:51:26.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T07:13:41.000Z"
       }
     }
   },
@@ -75016,20 +75038,20 @@
     "node_id": "67bde01060c54ceae777d09fb1a13f4565f5c31b8199c6deec60637fbb11ec4f",
     "prices": {
       "E5": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-26T07:35:02.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T07:20:53.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-26T07:35:02.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-10-31T07:20:53.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-26T07:35:02.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-10-31T07:20:53.000Z"
       },
       "B7_PREMIUM": {
-        "price": 204.9,
-        "price_last_updated": "2026-10-26T07:35:02.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T07:20:53.000Z"
       }
     }
   },
@@ -77268,12 +77290,12 @@
     "node_id": "6a98ba7503ee1ec946bfe02954d569c2fea6c7ba6243affe68a503808e93e409",
     "prices": {
       "E5": {
-        "price": 189.9,
-        "price_last_updated": "2026-10-03T12:00:45.000Z"
+        "price": 187.9,
+        "price_last_updated": "2026-10-31T11:45:15.000Z"
       },
       "E10": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-03T12:00:45.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T11:45:15.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -77504,12 +77526,12 @@
         "price_last_updated": "2026-10-26T15:30:31.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-26T15:30:31.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T11:36:30.000Z"
       },
       "B7_STANDARD": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-20T14:47:33.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T11:36:30.000Z"
       },
       "B7_PREMIUM": {
         "price": 215.9,
@@ -81436,20 +81458,20 @@
     "node_id": "7019f77785347b10b26bc7986ca4120ec1e1776e313dc982b86eaaddc31d8e04",
     "prices": {
       "E5": {
-        "price": 191.9,
-        "price_last_updated": "2026-10-30T21:02:16.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-10-31T07:02:07.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-30T21:02:15.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T07:02:07.000Z"
       },
       "B7_STANDARD": {
-        "price": 200.9,
-        "price_last_updated": "2026-10-30T21:02:07.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-10-31T07:02:06.000Z"
       },
       "B7_PREMIUM": {
-        "price": 216.9,
-        "price_last_updated": "2026-10-30T21:02:07.000Z"
+        "price": 214.9,
+        "price_last_updated": "2026-10-31T07:02:07.000Z"
       }
     }
   },
@@ -81580,12 +81602,12 @@
     "node_id": "703dcbeb9b85bfc05fa6256f01aec16282e381a88fa1ee63ce720c85a2d4a9c0",
     "prices": {
       "E5": {
-        "price": 182.9,
-        "price_last_updated": "2026-10-30T07:57:00.000Z"
+        "price": 180.9,
+        "price_last_updated": "2026-10-31T07:55:00.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-30T07:57:00.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T07:55:00.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -83014,12 +83036,12 @@
     "node_id": "72bb8ea27172e457f3503409966b7ac981e2f14d92c7b15df2df91260e0ac359",
     "prices": {
       "E5": {
-        "price": 184.9,
-        "price_last_updated": "2026-10-27T12:39:44.626Z"
+        "price": 182.9,
+        "price_last_updated": "2026-10-31T11:45:25.134Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-27T12:39:44.626Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T11:45:25.134Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -83096,8 +83118,8 @@
         "price_last_updated": "2026-09-28T14:30:29.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-30T11:28:03.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T12:32:24.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -84140,20 +84162,20 @@
     "node_id": "7443f373569cf7ef31c3c808f4540ecc97368ff3b835dae55752b30259cbaceb",
     "prices": {
       "E5": {
-        "price": 188.9,
-        "price_last_updated": "2026-10-14T19:30:10.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T07:34:43.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-14T19:30:10.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T07:34:43.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-14T19:30:10.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T07:34:43.000Z"
       },
       "B7_PREMIUM": {
-        "price": 213.9,
-        "price_last_updated": "2026-10-14T19:30:10.000Z"
+        "price": 212.9,
+        "price_last_updated": "2026-10-31T07:34:43.000Z"
       }
     }
   },
@@ -84542,12 +84564,12 @@
     "node_id": "7495cd8ad0b013a123662f90b9c7a45866fddcf6fad328ccf01f5dad9dd9f697",
     "prices": {
       "E5": {
-        "price": 189.9,
-        "price_last_updated": "2026-10-30T13:31:54.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-10-31T12:17:55.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-30T13:31:54.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T12:17:55.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -86028,8 +86050,8 @@
         "price_last_updated": "2026-09-28T21:44:43.000Z"
       },
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-26T22:51:48.000Z"
+        "price": 161.9,
+        "price_last_updated": "2026-10-31T07:05:20.000Z"
       },
       "B7_STANDARD": {
         "price": 192.9,
@@ -86678,12 +86700,12 @@
         "price_last_updated": "2026-10-24T08:07:15.000Z"
       },
       "E10": {
-        "price": 171.7,
-        "price_last_updated": "2026-10-26T05:55:25.000Z"
+        "price": 169.7,
+        "price_last_updated": "2026-10-31T09:05:44.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.7,
-        "price_last_updated": "2026-10-28T09:46:01.000Z"
+        "price": 199.7,
+        "price_last_updated": "2026-10-31T09:05:44.000Z"
       }
     }
   },
@@ -87366,12 +87388,12 @@
         "price_last_updated": "2026-09-10T14:22:15.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-07T16:29:08.000Z"
+        "price": 170.9,
+        "price_last_updated": "2026-10-31T10:33:08.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-13T19:23:32.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T10:33:08.000Z"
       }
     }
   },
@@ -90718,12 +90740,12 @@
     "node_id": "7cac0a83a08728c0401d6f920c1e2b204fe6388a8ab0414d73c51eb4eba12d84",
     "prices": {
       "E5": {
-        "price": 186.9,
-        "price_last_updated": "2026-10-13T12:47:22.724Z"
+        "price": 184.9,
+        "price_last_updated": "2026-10-31T11:44:50.244Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-13T12:47:22.724Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T11:44:50.244Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -91016,12 +91038,12 @@
         "price_last_updated": "2026-08-29T09:14:13.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-27T16:34:22.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T09:41:22.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-19T10:48:16.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T09:38:12.000Z"
       },
       "B7_PREMIUM": {
         "price": 219.9,
@@ -91538,20 +91560,20 @@
     "node_id": "7dbc99a7fcd0802eccd592de80352beb84cc214efa412c6a8dc470940a8877e4",
     "prices": {
       "E5": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-30T20:41:09.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T09:21:02.000Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-30T20:41:09.000Z"
+        "price": 174.9,
+        "price_last_updated": "2026-10-31T09:11:02.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:41:09.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T09:11:02.000Z"
       },
       "B7_PREMIUM": {
-        "price": 222.9,
-        "price_last_updated": "2026-10-30T20:41:09.000Z"
+        "price": 219.9,
+        "price_last_updated": "2026-10-31T09:21:02.000Z"
       }
     }
   },
@@ -91590,20 +91612,20 @@
     "node_id": "7dc656520ab494ff777a224504750d8d2a99f7d181ef16225f2fae173d83dfc2",
     "prices": {
       "E5": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:41:08.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T07:41:08.000Z"
       },
       "E10": {
-        "price": 180.9,
-        "price_last_updated": "2026-10-30T20:41:08.000Z"
+        "price": 179.9,
+        "price_last_updated": "2026-10-31T07:41:08.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:41:08.000Z"
+        "price": 200.9,
+        "price_last_updated": "2026-10-31T07:41:08.000Z"
       },
       "B7_PREMIUM": {
-        "price": 222.9,
-        "price_last_updated": "2026-10-30T20:41:08.000Z"
+        "price": 220.9,
+        "price_last_updated": "2026-10-31T07:41:08.000Z"
       }
     }
   },
@@ -91848,12 +91870,12 @@
     "node_id": "7dfd4b2f52e64513cf359e2be6e505470a09cd8b8d1f4f05ab2fcf8b9e6b9a2c",
     "prices": {
       "E5": {
-        "price": 190.9,
-        "price_last_updated": "2026-10-27T14:25:18.000Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T09:28:43.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-27T14:25:18.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T09:28:43.000Z"
       },
       "B7_STANDARD": {
         "price": 193.9,
@@ -92144,8 +92166,8 @@
         "price_last_updated": "2026-10-25T09:08:47.000Z"
       },
       "B7_STANDARD": {
-        "price": 193.9,
-        "price_last_updated": "2026-10-16T06:42:52.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-10-31T06:55:55.000Z"
       }
     }
   },
@@ -93380,8 +93402,8 @@
         "price_last_updated": "2026-09-15T16:43:09.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-29T09:07:08.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T09:34:33.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -93918,12 +93940,12 @@
     "node_id": "80bda2adce6afa12be9f8897367e3faba33ed5be5e430f4176bc63fe6bf004a9",
     "prices": {
       "E5": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-29T09:56:43.000Z"
+        "price": 200.9,
+        "price_last_updated": "2026-10-31T08:02:12.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-29T09:56:43.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T08:02:12.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -95244,8 +95266,8 @@
     "node_id": "82da9b8017801f8c3f63c5a1e6fde62c613ecb8041a0830cfcd019160551c892",
     "prices": {
       "E5": {
-        "price": 178.9,
-        "price_last_updated": "2026-10-30T13:08:23.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T11:47:45.000Z"
       },
       "E10": {
         "price": 156.9,
@@ -96262,20 +96284,20 @@
     "node_id": "84567604f260dbaad18e05d93f64442ee7f66e40da85580f163736159304d3b4",
     "prices": {
       "E5": {
-        "price": 216.9,
-        "price_last_updated": "2026-10-23T11:35:13.000Z"
+        "price": 211.9,
+        "price_last_updated": "2026-10-31T10:36:42.000Z"
       },
       "E10": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-23T11:35:13.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-10-31T10:31:47.000Z"
       },
       "B7_STANDARD": {
-        "price": 215.9,
-        "price_last_updated": "2026-10-23T11:35:14.000Z"
+        "price": 213.9,
+        "price_last_updated": "2026-10-31T10:31:15.000Z"
       },
       "B7_PREMIUM": {
-        "price": 235.9,
-        "price_last_updated": "2026-10-23T11:35:14.000Z"
+        "price": 233.9,
+        "price_last_updated": "2026-10-31T10:31:15.000Z"
       }
     }
   },
@@ -97220,12 +97242,12 @@
         "price_last_updated": "2026-10-30T12:37:51.588Z"
       },
       "E10": {
-        "price": 168.7,
-        "price_last_updated": "2026-10-30T12:37:51.588Z"
+        "price": 165.7,
+        "price_last_updated": "2026-10-31T15:26:31.589Z"
       },
       "B7_STANDARD": {
-        "price": 184.9,
-        "price_last_updated": "2026-10-27T12:37:05.123Z"
+        "price": 193.7,
+        "price_last_updated": "2026-10-31T15:26:31.589Z"
       },
       "B7_PREMIUM": {
         "price": 215.9,
@@ -97308,12 +97330,12 @@
     "node_id": "86098f0ad29f7d17cbb4a1657d99df6117ecd26b02b6ba47d13fb2c466934778",
     "prices": {
       "E5": {
-        "price": 188.9,
-        "price_last_updated": "2026-10-29T06:20:14.000Z"
+        "price": 187.9,
+        "price_last_updated": "2026-10-31T07:20:17.000Z"
       },
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-29T06:20:17.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T07:20:17.000Z"
       },
       "B7_STANDARD": {
         "price": 194.9,
@@ -98592,8 +98614,8 @@
         "price_last_updated": "2026-10-22T05:37:32.000Z"
       },
       "B7_STANDARD": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-27T06:56:19.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T06:51:32.000Z"
       }
     }
   },
@@ -101148,16 +101170,16 @@
     "node_id": "8bd771facdd06e01ee06335ff99f1529727800ca96edde183c489cd88cc91ff2",
     "prices": {
       "E5": {
-        "price": 178.9,
-        "price_last_updated": "2026-10-25T07:41:30.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T06:59:05.000Z"
       },
       "E10": {
-        "price": 166.9,
-        "price_last_updated": "2026-10-25T07:41:30.000Z"
+        "price": 165.9,
+        "price_last_updated": "2026-10-31T06:59:05.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-24T07:12:20.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T06:59:05.000Z"
       }
     }
   },
@@ -101424,12 +101446,12 @@
     "node_id": "8c2eafd80c15b802b4cd687b11331c373093de693252457ec70deb6412c38781",
     "prices": {
       "E5": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-29T06:32:08.000Z"
+        "price": 178.9,
+        "price_last_updated": "2026-10-31T08:01:21.000Z"
       },
       "E10": {
-        "price": 164.9,
-        "price_last_updated": "2026-10-29T06:32:08.000Z"
+        "price": 163.9,
+        "price_last_updated": "2026-10-31T08:01:21.000Z"
       },
       "B7_STANDARD": {
         "price": 194.9,
@@ -101664,12 +101686,12 @@
     "node_id": "8c76829fcfb61028ab22cf32fb76fe97367f0c0237491ca8a394d1322bca144c",
     "prices": {
       "E5": {
-        "price": 193.9,
-        "price_last_updated": "2026-09-18T17:05:10.146Z"
+        "price": 191.9,
+        "price_last_updated": "2026-10-31T10:56:05.686Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-09-18T17:01:11.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T10:57:37.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -101830,12 +101852,12 @@
         "price_last_updated": "2026-10-27T06:27:56.303Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-27T06:27:56.303Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T14:21:04.687Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-27T06:27:56.303Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T14:21:04.687Z"
       },
       "B7_PREMIUM": {
         "price": 213.9,
@@ -101970,8 +101992,8 @@
         "price_last_updated": "2026-10-02T20:45:30.000Z"
       },
       "E10": {
-        "price": 172.8,
-        "price_last_updated": "2026-10-17T21:00:28.000Z"
+        "price": 169.8,
+        "price_last_updated": "2026-10-31T12:55:33.000Z"
       },
       "B7_STANDARD": {
         "price": 197.8,
@@ -102460,8 +102482,8 @@
     "node_id": "8d570fe37bc46f61ad7b3858ea4cfae71267361a0cc1943f7dc7b0263afd8f5d",
     "prices": {
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-14T08:03:40.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T12:47:36.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -103400,12 +103422,12 @@
     "node_id": "8e9ba9a7cc70f277a25cde5cd16232b008cc7bc6e11eb8068b6d4b10008ba72b",
     "prices": {
       "E5": {
-        "price": 195.9,
-        "price_last_updated": "2026-10-30T10:35:25.820Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T10:05:20.855Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-30T10:35:25.820Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T10:05:20.855Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -104340,8 +104362,8 @@
     "node_id": "8fee2e3ad9ef3b55977aad4b16fbb9658a04bbe2e4fcf1a2896a4dd8d8a8bf41",
     "prices": {
       "E10": {
-        "price": 164.9,
-        "price_last_updated": "2026-10-23T06:41:55.000Z"
+        "price": 161.9,
+        "price_last_updated": "2026-10-31T09:45:20.000Z"
       },
       "B7_STANDARD": {
         "price": 194.9,
@@ -104992,12 +105014,12 @@
     "node_id": "90a40780c0806faa491a614a56d2e3adc6be0eccfa82fea715454ce9e40e6237",
     "prices": {
       "E5": {
-        "price": 192.9,
-        "price_last_updated": "2026-10-30T10:35:32.211Z"
+        "price": 190.9,
+        "price_last_updated": "2026-10-31T10:15:11.061Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-30T10:35:32.211Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T10:15:11.061Z"
       },
       "B7_STANDARD": {
         "price": 203.9,
@@ -105022,8 +105044,8 @@
         "price_last_updated": "2026-09-28T15:18:43.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-29T12:07:48.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T13:40:57.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -105080,8 +105102,8 @@
     "node_id": "90ba8a4877f298a4b9cea76f541211e5d71f3a07d7326effe2c95d179a3dcf2f",
     "prices": {
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-05T09:30:22.744Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T10:10:26.169Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -108596,8 +108618,8 @@
         "price_last_updated": "2026-09-28T14:27:36.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-28T12:09:18.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T12:32:48.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -108976,8 +108998,8 @@
         "price_last_updated": "2026-09-28T22:13:51.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-29T22:51:53.000Z"
+        "price": 172.9,
+        "price_last_updated": "2026-10-31T10:27:03.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -110412,16 +110434,16 @@
     "node_id": "984bcd7e65844352c99f7238072f2f6afd685f6431b74039ba035ab4881fa0d1",
     "prices": {
       "E5": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-30T20:41:02.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T07:41:02.000Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-30T20:41:02.000Z"
+        "price": 175.9,
+        "price_last_updated": "2026-10-31T07:41:02.000Z"
       },
       "B7_STANDARD": {
-        "price": 206.9,
-        "price_last_updated": "2026-10-30T20:41:02.000Z"
+        "price": 205.9,
+        "price_last_updated": "2026-10-31T07:41:02.000Z"
       }
     }
   },
@@ -112344,12 +112366,12 @@
         "price_last_updated": "2026-10-27T02:31:47.062Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-27T02:31:47.062Z"
+        "price": 170.9,
+        "price_last_updated": "2026-10-31T15:28:59.681Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-27T02:31:47.062Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T15:28:59.681Z"
       },
       "B7_PREMIUM": {
         "price": 218.9,
@@ -113038,12 +113060,12 @@
         "price_last_updated": "2026-10-27T02:42:51.985Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-27T02:42:51.985Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T15:28:39.845Z"
       },
       "B7_STANDARD": {
-        "price": 198.9,
-        "price_last_updated": "2026-10-27T02:42:51.985Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T15:28:39.845Z"
       },
       "B7_PREMIUM": {
         "price": 217.9,
@@ -114098,8 +114120,8 @@
     "node_id": "9cab60d38a3675137712f9829bd9eb28dc7b7ef8a2b90170c2f4f9da336fb09d",
     "prices": {
       "E5": {
-        "price": 188.9,
-        "price_last_updated": "2026-10-30T11:45:19.000Z"
+        "price": 186.9,
+        "price_last_updated": "2026-10-31T10:50:03.000Z"
       },
       "E10": {
         "price": 171.9,
@@ -116644,12 +116666,12 @@
     "node_id": "a0831601135caeed08cef2ce9d749299b96445a443bd61e996b4c9d915c83185",
     "prices": {
       "E5": {
-        "price": 190.9,
-        "price_last_updated": "2026-10-29T12:05:07.148Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T10:05:27.278Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-29T12:05:07.148Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T10:05:27.278Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -120236,12 +120258,12 @@
         "price_last_updated": "2026-10-30T21:19:25.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-30T21:19:25.000Z"
+        "price": 165.5,
+        "price_last_updated": "2026-10-31T14:56:40.000Z"
       },
       "B7_STANDARD": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-30T21:19:25.000Z"
+        "price": 192.9,
+        "price_last_updated": "2026-10-31T14:56:40.000Z"
       }
     }
   },
@@ -121458,8 +121480,8 @@
         "price_last_updated": "2026-10-30T11:17:03.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-16T14:06:03.000Z"
+        "price": 202.9,
+        "price_last_updated": "2026-10-31T09:55:03.000Z"
       },
       "B7_PREMIUM": {
         "price": 229.9,
@@ -122080,12 +122102,12 @@
     "node_id": "a8a54f552905b082f085dbd880b0bf93a23f2ba6c6a92cdf99f83e12594468cb",
     "prices": {
       "E5": {
-        "price": 190.9,
-        "price_last_updated": "2026-10-24T09:15:19.510Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T10:15:07.796Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-24T09:15:19.510Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T10:15:07.796Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -122220,12 +122242,12 @@
     "node_id": "a8ca9178e7249bd35f3d66ede5899b4829407e507cd30258aa76dc79954a25ea",
     "prices": {
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-19T18:11:13.000Z"
+        "price": 165.9,
+        "price_last_updated": "2026-10-31T10:25:14.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-19T18:11:13.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T10:25:14.000Z"
       }
     }
   },
@@ -122658,12 +122680,12 @@
         "price_last_updated": "2026-10-19T08:23:00.000Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-21T14:25:45.000Z"
+        "price": 174.9,
+        "price_last_updated": "2026-10-31T09:09:23.000Z"
       },
       "B7_STANDARD": {
-        "price": 200.9,
-        "price_last_updated": "2026-10-21T14:25:45.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-10-31T09:09:23.000Z"
       }
     }
   },
@@ -123052,12 +123074,12 @@
     "node_id": "a9c548895448809ff1206e20f8215e0e9b0b7e10021bbfc977f45fa5952f814c",
     "prices": {
       "E5": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-13T09:15:50.661Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T10:10:32.486Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-13T09:15:50.661Z"
+        "price": 174.9,
+        "price_last_updated": "2026-10-31T10:10:32.486Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -123104,12 +123126,12 @@
     "node_id": "a9d6d730133f04783b6c5876cdd9f624d0c4674ae7c24032f02c0eb8e2259c16",
     "prices": {
       "E5": {
-        "price": 183.9,
-        "price_last_updated": "2026-10-26T08:55:24.000Z"
+        "price": 182.9,
+        "price_last_updated": "2026-10-31T08:31:24.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-26T08:55:24.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T08:31:24.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -124266,8 +124288,8 @@
     "node_id": "ab720e5c319b53a331af4680a0c17b19d816e97a1185a50ecc44f8befcb70401",
     "prices": {
       "E10": {
-        "price": 172.7,
-        "price_last_updated": "2026-09-18T08:56:53.000Z"
+        "price": 171.7,
+        "price_last_updated": "2026-10-31T09:16:25.000Z"
       },
       "B7_STANDARD": {
         "price": 199.7,
@@ -124784,20 +124806,20 @@
     "node_id": "ac1b28fd04fb8a520ae78696cd0f8c6596e56f29870a2abdd0a83516fef54f94",
     "prices": {
       "E5": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:41:03.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T09:11:02.000Z"
       },
       "E10": {
-        "price": 180.9,
-        "price_last_updated": "2026-10-30T20:41:03.000Z"
+        "price": 175.9,
+        "price_last_updated": "2026-10-31T09:11:02.000Z"
       },
       "B7_STANDARD": {
-        "price": 203.9,
-        "price_last_updated": "2026-10-30T20:41:03.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T09:11:02.000Z"
       },
       "B7_PREMIUM": {
-        "price": 224.9,
-        "price_last_updated": "2026-10-30T20:41:03.000Z"
+        "price": 219.9,
+        "price_last_updated": "2026-10-31T09:11:02.000Z"
       }
     }
   },
@@ -124832,16 +124854,16 @@
     "node_id": "ac2c3ffcfd4b627d174d59e1d5dc9270b31adfff4b58710a3a8945634c9c163f",
     "prices": {
       "E5": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-30T20:51:02.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T07:51:01.000Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-30T20:51:02.000Z"
+        "price": 175.9,
+        "price_last_updated": "2026-10-31T07:51:01.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:51:02.000Z"
+        "price": 200.9,
+        "price_last_updated": "2026-10-31T07:51:01.000Z"
       }
     }
   },
@@ -125256,12 +125278,12 @@
     "node_id": "ac87fa431ce1a0321660e885a6442425706e7c066b7d2afec03e2b05e190cba4",
     "prices": {
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-09-20T21:58:53.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T11:44:06.000Z"
       },
       "B7_STANDARD": {
-        "price": 195.9,
-        "price_last_updated": "2026-09-20T21:58:53.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T11:44:06.000Z"
       },
       "B7_PREMIUM": {
         "price": 213.9,
@@ -125466,12 +125488,12 @@
     "node_id": "acb14b5e6dd4eaa31b6e6e3e75558c3ff9ccd691b6443771c5b621b8fa155df8",
     "prices": {
       "E5": {
-        "price": 193.9,
-        "price_last_updated": "2026-10-23T10:34:11.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-10-31T12:15:22.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-23T10:34:11.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T12:15:22.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -127340,12 +127362,12 @@
     "node_id": "af3d06d3949a0958a6ee327ff926c28ea07946fc8ba70f992995598539ff6577",
     "prices": {
       "E5": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-13T06:47:12.000Z"
+        "price": 178.9,
+        "price_last_updated": "2026-10-31T08:21:56.000Z"
       },
       "E10": {
-        "price": 167.9,
-        "price_last_updated": "2026-10-13T06:47:12.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T08:21:56.000Z"
       },
       "B7_STANDARD": {
         "price": 187.9,
@@ -130434,20 +130456,20 @@
     "node_id": "b3ab858f0c21c3c3c13b1841d65696a81936534ce02aff4ab87aaddda0a45370",
     "prices": {
       "E5": {
-        "price": 199.9,
-        "price_last_updated": "2026-10-30T20:41:05.000Z"
+        "price": 197.9,
+        "price_last_updated": "2026-10-31T07:41:05.000Z"
       },
       "E10": {
-        "price": 178.9,
-        "price_last_updated": "2026-10-30T20:41:05.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T07:41:05.000Z"
       },
       "B7_STANDARD": {
-        "price": 206.9,
-        "price_last_updated": "2026-10-30T20:41:05.000Z"
+        "price": 205.9,
+        "price_last_updated": "2026-10-31T07:41:05.000Z"
       },
       "B7_PREMIUM": {
-        "price": 227.9,
-        "price_last_updated": "2026-10-30T20:41:05.000Z"
+        "price": 225.9,
+        "price_last_updated": "2026-10-31T07:41:05.000Z"
       }
     }
   },
@@ -131862,12 +131884,12 @@
         "price_last_updated": "2026-10-28T10:48:09.667Z"
       },
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-28T10:48:09.667Z"
+        "price": 166,
+        "price_last_updated": "2026-10-31T14:20:45.586Z"
       },
       "B7_STANDARD": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-26T07:18:08.139Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T14:20:45.586Z"
       },
       "B7_PREMIUM": {
         "price": 218.9,
@@ -133072,8 +133094,8 @@
         "price_last_updated": "2026-10-30T17:48:59.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.7,
-        "price_last_updated": "2026-10-29T08:03:26.000Z"
+        "price": 199.7,
+        "price_last_updated": "2026-10-31T11:06:56.000Z"
       }
     }
   },
@@ -136068,12 +136090,12 @@
     "node_id": "bae2ce1b3a0eea779476b930781d18b14b7e5b5d4c05def10007cfc3d6c6ada6",
     "prices": {
       "E5": {
-        "price": 193.9,
-        "price_last_updated": "2026-09-10T08:33:46.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-10-31T09:11:12.000Z"
       },
       "E10": {
-        "price": 175.9,
-        "price_last_updated": "2026-09-22T10:21:09.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T09:11:12.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -136552,8 +136574,8 @@
         "price_last_updated": "2026-09-28T15:20:51.000Z"
       },
       "E10": {
-        "price": 168.7,
-        "price_last_updated": "2026-10-30T11:38:35.000Z"
+        "price": 167.7,
+        "price_last_updated": "2026-10-31T13:40:10.000Z"
       },
       "B7_STANDARD": {
         "price": 196.7,
@@ -136806,8 +136828,8 @@
         "price_last_updated": "2026-10-21T09:51:12.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-17T07:15:25.000Z"
+        "price": 170.9,
+        "price_last_updated": "2026-10-31T08:40:28.000Z"
       },
       "B7_STANDARD": {
         "price": 202.9,
@@ -137282,8 +137304,8 @@
     "node_id": "bc1401a102401dcf538dc202b3d3c8c1983ae974a6c4ad410948826dc1da03b1",
     "prices": {
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-03T17:44:37.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T11:38:25.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -137862,12 +137884,12 @@
     "node_id": "bce60ff2c895f48e57ac0cfae1a60beedd2780c2ea6073467cbf0339ef0a756b",
     "prices": {
       "E5": {
-        "price": 189.9,
-        "price_last_updated": "2026-10-30T09:32:11.000Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T11:22:31.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-30T09:32:11.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T11:22:31.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -137888,20 +137910,20 @@
     "node_id": "bcec631859aa8824e353ac1ffaedfe212ef9279dddf04492f5abd82a2c70dabf",
     "prices": {
       "E5": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-30T20:41:04.000Z"
+        "price": 191.9,
+        "price_last_updated": "2026-10-31T09:21:02.000Z"
       },
       "E10": {
-        "price": 176.9,
-        "price_last_updated": "2026-10-30T20:41:04.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T09:21:02.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:41:04.000Z"
+        "price": 200.9,
+        "price_last_updated": "2026-10-31T07:41:04.000Z"
       },
       "B7_PREMIUM": {
-        "price": 222.9,
-        "price_last_updated": "2026-10-30T20:41:04.000Z"
+        "price": 220.9,
+        "price_last_updated": "2026-10-31T07:41:04.000Z"
       }
     }
   },
@@ -138076,8 +138098,8 @@
         "price_last_updated": "2026-09-28T22:44:33.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-30T23:59:35.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T10:11:04.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -138568,12 +138590,12 @@
     "node_id": "be16b4da682e37b6bf5b08a749613ad3a0efe082781424e12f9b197c8928de62",
     "prices": {
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-09-22T13:55:40.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T12:52:01.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-23T12:55:34.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-10-31T12:52:01.000Z"
       }
     }
   },
@@ -138836,8 +138858,8 @@
         "price_last_updated": "2026-10-30T13:14:26.000Z"
       },
       "E10": {
-        "price": 165.9,
-        "price_last_updated": "2026-10-29T11:46:24.000Z"
+        "price": 164.9,
+        "price_last_updated": "2026-10-31T11:54:18.000Z"
       },
       "B7_STANDARD": {
         "price": 191.9,
@@ -141090,8 +141112,8 @@
     "node_id": "c16ebdf29490a6bb95d353d35654614e21e30419180da1330641f0d14bfccd8e",
     "prices": {
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-21T11:38:37.000Z"
+        "price": 159.9,
+        "price_last_updated": "2026-10-31T14:30:27.000Z"
       },
       "B7_STANDARD": {
         "price": 189.9,
@@ -141222,12 +141244,12 @@
     "node_id": "c1a88ba8209e3a878d5e013a1ad274e1a76c808900c96b9e321a7373e98d6617",
     "prices": {
       "E5": {
-        "price": 189.9,
-        "price_last_updated": "2026-10-30T10:40:21.465Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T10:10:19.901Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-30T10:40:21.465Z"
+        "price": 172.9,
+        "price_last_updated": "2026-10-31T10:10:19.901Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -141252,12 +141274,12 @@
         "price_last_updated": "2026-10-28T14:05:05.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-28T13:37:30.000Z"
+        "price": 164.9,
+        "price_last_updated": "2026-10-31T08:00:37.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-28T13:37:30.000Z"
+        "price": 193.9,
+        "price_last_updated": "2026-10-31T08:00:37.000Z"
       },
       "B7_PREMIUM": {
         "price": 217.9,
@@ -143032,12 +143054,12 @@
     "node_id": "c4875d59389d8d77795353e72029fe4dc5fe7696d1e833edd5b0ed9a7455e40a",
     "prices": {
       "E5": {
-        "price": 190.9,
-        "price_last_updated": "2026-10-20T09:35:11.537Z"
+        "price": 187.9,
+        "price_last_updated": "2026-10-31T10:30:07.950Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-20T09:35:11.537Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T10:30:07.950Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -143382,12 +143404,12 @@
         "price_last_updated": "2026-09-17T16:19:46.000Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-09-17T16:19:46.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T11:12:13.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.9,
-        "price_last_updated": "2026-09-24T10:16:53.000Z"
+        "price": 197.9,
+        "price_last_updated": "2026-10-31T11:12:13.000Z"
       }
     }
   },
@@ -145362,12 +145384,12 @@
         "price_last_updated": "2026-10-26T13:23:15.986Z"
       },
       "E10": {
-        "price": 163.9,
-        "price_last_updated": "2026-10-31T06:37:09.497Z"
+        "price": 160.9,
+        "price_last_updated": "2026-10-31T15:33:36.389Z"
       },
       "B7_STANDARD": {
-        "price": 192.9,
-        "price_last_updated": "2026-10-31T06:37:09.497Z"
+        "price": 189.9,
+        "price_last_updated": "2026-10-31T15:33:36.389Z"
       },
       "B7_PREMIUM": {
         "price": 213.9,
@@ -146960,12 +146982,12 @@
     "node_id": "c9865a219a90080cf65722bd8acdd0e8c5e66ae340c6ba3bcb0f4ad84210bacd",
     "prices": {
       "E5": {
-        "price": 191.9,
-        "price_last_updated": "2026-10-14T09:30:08.490Z"
+        "price": 190.9,
+        "price_last_updated": "2026-10-31T10:10:35.680Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-14T09:30:08.490Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T10:10:35.680Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -148856,12 +148878,12 @@
         "price_last_updated": "2026-10-29T09:04:34.000Z"
       },
       "B7_STANDARD": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-24T06:01:35.000Z"
+        "price": 195.9,
+        "price_last_updated": "2026-10-31T12:53:09.000Z"
       },
       "B7_PREMIUM": {
-        "price": 211.9,
-        "price_last_updated": "2026-10-24T06:01:35.000Z"
+        "price": 210.9,
+        "price_last_updated": "2026-10-31T12:53:09.000Z"
       }
     }
   },
@@ -149964,12 +149986,12 @@
     "node_id": "cd4f5ed6f6095cd0b91f6809de06d3b380b02c0844204b4ee7cb1baa770ce859",
     "prices": {
       "E5": {
-        "price": 189.9,
-        "price_last_updated": "2026-10-27T12:25:06.912Z"
+        "price": 188.9,
+        "price_last_updated": "2026-10-31T10:05:30.445Z"
       },
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-27T12:25:06.912Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T10:05:30.445Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -150109,7 +150131,7 @@
       },
       "E10": {
         "price": 168.9,
-        "price_last_updated": "2026-10-30T11:24:00.000Z"
+        "price_last_updated": "2026-10-31T12:55:47.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -150130,12 +150152,12 @@
     "node_id": "cd7858c3ff63081d323b975747cbab63fb92c0756e1b82291f1a4e5df6b9e243",
     "prices": {
       "E5": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-24T09:20:38.144Z"
+        "price": 192.9,
+        "price_last_updated": "2026-10-31T10:15:17.522Z"
       },
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-24T09:20:38.144Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T10:15:17.522Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -150522,12 +150544,12 @@
         "price_last_updated": "2026-10-29T10:23:38.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-09-23T14:54:53.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-10-31T11:36:18.000Z"
       },
       "B7_PREMIUM": {
-        "price": 218.9,
-        "price_last_updated": "2026-09-23T14:54:53.000Z"
+        "price": 217.9,
+        "price_last_updated": "2026-10-31T11:36:18.000Z"
       }
     }
   },
@@ -150920,8 +150942,8 @@
         "price_last_updated": "2026-09-18T08:04:51.000Z"
       },
       "E10": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-22T09:28:43.000Z"
+        "price": 175.9,
+        "price_last_updated": "2026-10-31T11:47:55.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -152100,12 +152122,12 @@
     "node_id": "cffc4b46298462794bc909559ee1624bcee3933d09fa784e99c867ba382b603d",
     "prices": {
       "E5": {
-        "price": 185.9,
-        "price_last_updated": "2026-10-29T09:46:17.000Z"
+        "price": 184.9,
+        "price_last_updated": "2026-10-31T08:17:53.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-29T09:46:17.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T08:17:53.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -152706,12 +152728,12 @@
     "node_id": "d0c8ca792e45bc7f87c289e6dd2290e4932b31fc01545ada957ab28ce4e1c39e",
     "prices": {
       "E5": {
-        "price": 183.9,
-        "price_last_updated": "2026-10-28T11:53:28.000Z"
+        "price": 181.9,
+        "price_last_updated": "2026-10-31T07:55:11.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-28T11:53:28.000Z"
+        "price": 172.9,
+        "price_last_updated": "2026-10-31T07:55:11.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -153140,8 +153162,8 @@
     "node_id": "d12db48e6cd1b298711b4485b18041d4003b57f5b5d7225cba771a0fa7060219",
     "prices": {
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-28T12:00:46.690Z"
+        "price": 170.9,
+        "price_last_updated": "2026-10-31T10:05:14.510Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -154142,12 +154164,12 @@
     "node_id": "d2db7b4ffcc526f669b037160084108653a3d87f89a8b6ba75431eccc3e42087",
     "prices": {
       "E5": {
-        "price": 184.9,
-        "price_last_updated": "2026-10-22T08:39:36.000Z"
+        "price": 183.9,
+        "price_last_updated": "2026-10-31T15:16:34.000Z"
       },
       "E10": {
-        "price": 167.9,
-        "price_last_updated": "2026-10-22T08:39:36.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T15:16:34.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -154478,8 +154500,8 @@
         "price_last_updated": "2026-09-28T15:15:13.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-29T12:07:00.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T13:47:51.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -155558,12 +155580,12 @@
     "node_id": "d51aa1abaa53cd7da1e25addb2a3ce074146748a078487291426b890e351939a",
     "prices": {
       "E5": {
-        "price": 188.9,
-        "price_last_updated": "2026-10-19T09:39:21.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T11:37:39.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-19T09:39:21.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T11:37:39.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -156400,12 +156422,12 @@
     "node_id": "d61f7bba0801de35ca2c65007c0fe43bdb160f782099f953e0af0dc99f58140e",
     "prices": {
       "E5": {
-        "price": 164.7,
-        "price_last_updated": "2026-10-30T17:26:39.000Z"
+        "price": 180.7,
+        "price_last_updated": "2026-10-31T11:10:57.000Z"
       },
       "E10": {
-        "price": 165.7,
-        "price_last_updated": "2026-09-23T14:47:57.000Z"
+        "price": 164.7,
+        "price_last_updated": "2026-10-31T11:08:40.000Z"
       },
       "B7_STANDARD": {
         "price": 192.7,
@@ -157622,8 +157644,8 @@
     "node_id": "d818255942c330fcbb606e71e51498895c972aaed673a583bf82690c9a92f0fa",
     "prices": {
       "E10": {
-        "price": 168.9,
-        "price_last_updated": "2026-10-19T11:21:23.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T10:04:54.000Z"
       },
       "B7_STANDARD": {
         "price": 196.9,
@@ -157736,12 +157758,12 @@
     "node_id": "d84d54b198f210d3cbd287139dd086e48b1ac20533d8dba7c2bfa16a7f81ad0f",
     "prices": {
       "E10": {
-        "price": 165.9,
-        "price_last_updated": "2026-10-27T11:40:57.000Z"
+        "price": 163.9,
+        "price_last_updated": "2026-10-31T10:34:04.000Z"
       },
       "B7_STANDARD": {
-        "price": 194.9,
-        "price_last_updated": "2026-10-08T13:38:00.000Z"
+        "price": 196.9,
+        "price_last_updated": "2026-10-31T10:34:04.000Z"
       }
     }
   },
@@ -158244,16 +158266,16 @@
         "price_last_updated": "2026-10-28T10:45:26.029Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-28T22:17:27.605Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T07:56:16.115Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
         "price_last_updated": "2026-10-28T22:17:27.605Z"
       },
       "B7_PREMIUM": {
-        "price": 199.9,
-        "price_last_updated": "2026-09-08T03:10:05.983Z"
+        "price": 205.9,
+        "price_last_updated": "2026-10-31T07:56:16.115Z"
       }
     }
   },
@@ -158744,8 +158766,8 @@
         "price_last_updated": "2026-09-15T11:32:24.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-09-27T11:20:42.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T10:46:45.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -159470,8 +159492,8 @@
     "node_id": "da1bdd7a479342de5fba4ca8736b791393d31204d4e4d3014717e7cc003847e3",
     "prices": {
       "E10": {
-        "price": 173.9,
-        "price_last_updated": "2026-10-24T09:18:51.000Z"
+        "price": 172.9,
+        "price_last_updated": "2026-10-31T10:07:11.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -160082,8 +160104,8 @@
     "node_id": "dafebc3e853cd94d87f3316522698540f9c5aedfe2574dc7b4881a281b933fe8",
     "prices": {
       "E5": {
-        "price": 192.9,
-        "price_last_updated": "2026-10-27T12:38:14.180Z"
+        "price": 182.9,
+        "price_last_updated": "2026-10-31T13:16:41.610Z"
       },
       "E10": {
         "price": 167.9,
@@ -161448,12 +161470,12 @@
     "node_id": "dd0f12809977ffd5aeaacc707b23ee07a48a685b367b5509aafc6658a10c0190",
     "prices": {
       "E5": {
-        "price": 179.9,
-        "price_last_updated": "2026-10-13T06:54:16.000Z"
+        "price": 178.9,
+        "price_last_updated": "2026-10-31T06:51:39.000Z"
       },
       "E10": {
-        "price": 167.9,
-        "price_last_updated": "2026-10-13T06:54:16.000Z"
+        "price": 166.9,
+        "price_last_updated": "2026-10-31T06:51:39.000Z"
       },
       "B7_STANDARD": {
         "price": 192.9,
@@ -161592,8 +161614,8 @@
     "node_id": "dd3c71212be564a4011e4686a92f7ab15d0a6cc72e5bef07bff19dd9e6a425a8",
     "prices": {
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-09-22T11:48:41.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T12:00:38.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -161614,8 +161636,8 @@
         "price_last_updated": "2026-10-23T06:49:10.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-23T06:47:10.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T08:38:10.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -163014,8 +163036,8 @@
         "price_last_updated": "2026-09-28T14:27:31.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-30T10:37:25.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T12:33:15.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -163088,12 +163110,12 @@
     "node_id": "dee57c00c53b452f8bf6106b92bbce78926b6165f955f1fd76461185a0ee67fc",
     "prices": {
       "E5": {
-        "price": 190.9,
-        "price_last_updated": "2026-09-30T09:49:45.000Z"
+        "price": 189.9,
+        "price_last_updated": "2026-10-31T08:35:46.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-09-30T09:49:45.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T08:35:46.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -163736,8 +163758,8 @@
         "price_last_updated": "2026-09-28T15:14:20.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-23T14:19:33.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T13:42:43.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -164076,8 +164098,8 @@
         "price_last_updated": "2026-09-28T22:45:21.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-29T23:42:39.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T09:58:59.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -164444,12 +164466,12 @@
     "node_id": "e0c03ddb4facdb4e165ffdcd0292eb737720e0569d1d5d77afc45121f296c38a",
     "prices": {
       "E5": {
-        "price": 184.9,
-        "price_last_updated": "2026-09-25T14:30:04.000Z"
+        "price": 182.9,
+        "price_last_updated": "2026-10-31T10:56:33.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-23T17:01:12.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T10:56:33.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -166346,12 +166368,12 @@
         "price_last_updated": "2026-09-28T22:58:08.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-26T23:54:15.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T08:24:19.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.9,
-        "price_last_updated": "2026-10-10T22:35:46.000Z"
+        "price": 197.9,
+        "price_last_updated": "2026-10-31T08:24:19.000Z"
       }
     }
   },
@@ -166490,8 +166512,8 @@
         "price_last_updated": "2026-10-22T15:44:27.000Z"
       },
       "B7_STANDARD": {
-        "price": 199.9,
-        "price_last_updated": "2026-09-25T12:57:53.000Z"
+        "price": 198.9,
+        "price_last_updated": "2026-10-31T11:59:09.000Z"
       }
     }
   },
@@ -167672,8 +167694,8 @@
     "node_id": "e500b5fa24b327fbd0c19504ca9ba5a176558844ff3f28b5528801616815159d",
     "prices": {
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-30T07:14:22.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T07:14:10.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -168114,12 +168136,12 @@
     "node_id": "e593b62457d643cf809f008152f955e66150597850d0c3923e113d6a1910f901",
     "prices": {
       "E5": {
-        "price": 185.9,
-        "price_last_updated": "2026-10-23T09:19:00.000Z"
+        "price": 184.9,
+        "price_last_updated": "2026-10-31T10:09:37.000Z"
       },
       "E10": {
-        "price": 169.9,
-        "price_last_updated": "2026-10-23T09:19:00.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T10:09:37.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -168760,8 +168782,8 @@
         "price_last_updated": "2026-09-28T23:01:39.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-23T22:52:27.000Z"
+        "price": 171.9,
+        "price_last_updated": "2026-10-31T10:49:38.000Z"
       },
       "B7_STANDARD": {
         "price": 201.9,
@@ -169156,12 +169178,12 @@
     "node_id": "e72da7ac25935a856a1f9a9edcfe71a5691e17000fc85d28109c593e29cb7575",
     "prices": {
       "E5": {
-        "price": 187.9,
-        "price_last_updated": "2026-09-26T09:16:15.000Z"
+        "price": 186.9,
+        "price_last_updated": "2026-10-31T10:11:00.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-09-26T09:16:15.000Z"
+        "price": 170.9,
+        "price_last_updated": "2026-10-31T10:11:00.000Z"
       },
       "B7_STANDARD": {
         "price": 197.9,
@@ -170658,12 +170680,12 @@
     "node_id": "e9127351e937f647237ab8737af307287d687f42f30ddad98c9e754575960050",
     "prices": {
       "E5": {
-        "price": 195.9,
-        "price_last_updated": "2026-10-29T11:25:14.179Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T10:05:36.926Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-29T11:25:14.179Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T10:05:36.926Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -171112,8 +171134,8 @@
         "price_last_updated": "2026-10-05T17:11:20.000Z"
       },
       "B7_STANDARD": {
-        "price": 198.7,
-        "price_last_updated": "2026-10-17T13:25:58.000Z"
+        "price": 196.7,
+        "price_last_updated": "2026-10-31T09:10:05.000Z"
       }
     }
   },
@@ -172452,8 +172474,8 @@
         "price_last_updated": "2026-09-21T12:12:16.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-27T10:32:08.000Z"
+        "price": 170.9,
+        "price_last_updated": "2026-10-31T07:25:14.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -175042,12 +175064,12 @@
     "node_id": "eee94806941f899e168c7fb96b6020892f2b1cc5f43ebdc631b2ebeaf83a2934",
     "prices": {
       "E5": {
-        "price": 192.9,
-        "price_last_updated": "2026-10-27T11:55:12.107Z"
+        "price": 190.9,
+        "price_last_updated": "2026-10-31T10:10:10.454Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-27T11:55:12.107Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T10:10:10.454Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -177198,12 +177220,12 @@
         "price_last_updated": "2026-10-23T12:03:09.257Z"
       },
       "E10": {
-        "price": 164.7,
-        "price_last_updated": "2026-10-30T14:11:07.763Z"
+        "price": 163.7,
+        "price_last_updated": "2026-10-31T15:31:26.762Z"
       },
       "B7_STANDARD": {
-        "price": 192.7,
-        "price_last_updated": "2026-10-30T14:11:07.763Z"
+        "price": 191.7,
+        "price_last_updated": "2026-10-31T15:31:26.762Z"
       },
       "B7_PREMIUM": {
         "price": 209.9,
@@ -177354,8 +177376,8 @@
         "price_last_updated": "2026-10-16T10:40:11.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-18T09:28:19.000Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T11:15:05.000Z"
       },
       "B7_PREMIUM": {
         "price": 220.9,
@@ -179408,12 +179430,12 @@
         "price_last_updated": "2026-10-26T13:17:09.308Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-26T12:04:13.281Z"
+        "price": 199.9,
+        "price_last_updated": "2026-10-31T13:16:41.618Z"
       },
       "B7_PREMIUM": {
-        "price": 221.9,
-        "price_last_updated": "2026-10-17T11:00:13.558Z"
+        "price": 219.9,
+        "price_last_updated": "2026-10-31T13:16:41.618Z"
       }
     }
   },
@@ -180758,20 +180780,20 @@
     "node_id": "f7d95825eb0806cf75d03dae5251450c228cfbd4414c1561955133c36cc05982",
     "prices": {
       "E5": {
-        "price": 180.9,
-        "price_last_updated": "2026-10-03T06:04:19.000Z"
+        "price": 178.9,
+        "price_last_updated": "2026-10-31T07:03:49.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-03T06:04:19.000Z"
+        "price": 168.9,
+        "price_last_updated": "2026-10-31T07:03:49.000Z"
       },
       "B7_STANDARD": {
-        "price": 197.9,
-        "price_last_updated": "2026-10-22T13:17:38.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T07:03:49.000Z"
       },
       "B7_PREMIUM": {
-        "price": 207.9,
-        "price_last_updated": "2026-10-22T13:17:38.000Z"
+        "price": 204.9,
+        "price_last_updated": "2026-10-31T07:03:49.000Z"
       }
     }
   },
@@ -180840,8 +180862,8 @@
         "price_last_updated": "2026-09-15T11:25:57.000Z"
       },
       "E10": {
-        "price": 174.9,
-        "price_last_updated": "2026-10-24T08:33:37.000Z"
+        "price": 173.9,
+        "price_last_updated": "2026-10-31T10:35:47.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -181726,12 +181748,12 @@
     "node_id": "f8fd252bb311c5c55a7094f5f972458f035f19f202517540df744ffeade0e549",
     "prices": {
       "E5": {
-        "price": 186.9,
-        "price_last_updated": "2026-10-28T09:56:43.000Z"
+        "price": 185.9,
+        "price_last_updated": "2026-10-31T10:07:39.000Z"
       },
       "E10": {
-        "price": 170.9,
-        "price_last_updated": "2026-10-28T09:56:43.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T10:07:39.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -182558,8 +182580,8 @@
         "price_last_updated": "2026-09-28T10:52:26.000Z"
       },
       "B7_STANDARD": {
-        "price": 203.9,
-        "price_last_updated": "2026-09-28T10:52:26.000Z"
+        "price": 200.9,
+        "price_last_updated": "2026-10-31T08:12:10.000Z"
       }
     }
   },
@@ -182602,8 +182624,8 @@
         "price_last_updated": "2026-10-22T21:08:25.000Z"
       },
       "E10": {
-        "price": 172.9,
-        "price_last_updated": "2026-10-22T21:08:25.000Z"
+        "price": 167.9,
+        "price_last_updated": "2026-10-31T11:23:09.000Z"
       },
       "B7_STANDARD": {
         "price": 198.9,
@@ -183842,12 +183864,12 @@
         "price_last_updated": "2026-10-13T08:20:07.000Z"
       },
       "E10": {
-        "price": 178.9,
-        "price_last_updated": "2026-09-29T12:21:11.000Z"
+        "price": 177.9,
+        "price_last_updated": "2026-10-31T08:15:24.000Z"
       },
       "B7_STANDARD": {
-        "price": 207.9,
-        "price_last_updated": "2026-10-13T09:51:13.000Z"
+        "price": 206.9,
+        "price_last_updated": "2026-10-31T08:15:24.000Z"
       }
     }
   },
@@ -185394,8 +185416,8 @@
         "price_last_updated": "2026-09-28T15:13:33.000Z"
       },
       "E10": {
-        "price": 171.9,
-        "price_last_updated": "2026-10-27T12:17:34.000Z"
+        "price": 169.9,
+        "price_last_updated": "2026-10-31T13:39:38.000Z"
       },
       "B7_STANDARD": {
         "price": 199.9,
@@ -185478,8 +185500,8 @@
         "price_last_updated": "2026-10-26T12:49:03.000Z"
       },
       "B7_STANDARD": {
-        "price": 203.9,
-        "price_last_updated": "2026-10-30T15:56:03.000Z"
+        "price": 204.9,
+        "price_last_updated": "2026-10-31T09:55:03.000Z"
       },
       "B7_PREMIUM": {
         "price": 224.9,
@@ -186884,20 +186906,20 @@
     "node_id": "ff4403a0b7b94ab8f5badc99eaf79b57276b321145f5bbad8e47ec2e6c6e1cbd",
     "prices": {
       "E5": {
-        "price": 196.9,
-        "price_last_updated": "2026-10-30T20:41:01.000Z"
+        "price": 194.9,
+        "price_last_updated": "2026-10-31T07:41:02.000Z"
       },
       "E10": {
-        "price": 175.9,
-        "price_last_updated": "2026-10-30T20:41:01.000Z"
+        "price": 174.9,
+        "price_last_updated": "2026-10-31T07:41:02.000Z"
       },
       "B7_STANDARD": {
-        "price": 201.9,
-        "price_last_updated": "2026-10-30T20:41:01.000Z"
+        "price": 200.9,
+        "price_last_updated": "2026-10-31T07:41:02.000Z"
       },
       "B7_PREMIUM": {
-        "price": 222.9,
-        "price_last_updated": "2026-10-30T20:41:01.000Z"
+        "price": 220.9,
+        "price_last_updated": "2026-10-31T07:41:02.000Z"
       }
     }
   },
@@ -187124,12 +187146,12 @@
     "node_id": "ff97d1842b35d14af0b1198216aeb1a7a0e8e3232651fa04846448b07a8cfbe1",
     "prices": {
       "E5": {
-        "price": 195.7,
-        "price_last_updated": "2026-09-24T15:53:42.000Z"
+        "price": 193.7,
+        "price_last_updated": "2026-10-31T14:27:24.000Z"
       },
       "E10": {
-        "price": 175.7,
-        "price_last_updated": "2026-09-24T15:53:42.000Z"
+        "price": 173.7,
+        "price_last_updated": "2026-10-31T14:27:24.000Z"
       },
       "B7_STANDARD": {
         "price": 199.7,
